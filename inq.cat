@@ -332,6 +332,81 @@
         <categoryLink id="a314b13f-36fd-5f1a-a32b-5e1ba0f0195d" name="HQ" hidden="false" collective="false" targetId="5f476fea-e9a5-53af-875d-76fb3d35b558" primary="true"/>
       </categoryLinks>
     </entryLink>
+    <entryLink id="ea5bdfce-32f4-5de6-bea3-a6f19f20da95" name="Knight Commander [Imperial Knights]" hidden="false" collective="false" import="true" targetId="7c0ba1b6-bcf3-5f92-a8db-5d0998b5353e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="cb2189d5-153e-55a9-9ab1-2d70bdf1734d" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="089ce339-3a94-5f0e-bfbd-bda44cc54c35" name="Knight Canis Rex [Imperial Knights]" hidden="false" collective="false" import="true" targetId="bfdb72b8-e79a-5853-9fc6-eb17de12e4de" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d7281cf5-3ef5-5720-9043-3353d5edbd76" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="cf7af2be-aa53-5fae-abfb-1ab99fedfab2" name="Armigers [Imperial Knights]" hidden="false" collective="false" import="true" targetId="efd6aa73-2ca9-5fa9-8d21-c7302e4ec759" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7177916c-c8c1-5607-9f08-7f4befb9504b" name="Heavy Support" hidden="false" targetId="409ce327-5ec1-5be8-9ba4-f8f006d410e6" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="41baa8b2-77b9-50ea-b310-d987b6e4172c" name="Questoris Knight [Imperial Knights]" hidden="false" collective="false" import="true" targetId="e9001434-0900-5bd0-8e7c-2820d4e15412" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="decc875d-52cd-53eb-bb41-d0871fc90c8a" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ac25bc82-7305-5a52-82fb-6df7d8713d6d" name="Knight Atrapos [Imperial Knights]" hidden="false" collective="false" import="true" targetId="bf07214a-0b0d-51ff-b125-f17fd9513cf3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c7f89b92-28c7-5b64-adf5-77e763fb91f1" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3b9b170b-1f1e-5d90-99ec-879a8fa433a4" name="Knight Gallant [Imperial Knights]" hidden="false" collective="false" import="true" targetId="3b88b980-a070-50de-91fd-ac0c0dedb488" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="06bea777-8a1b-5e78-b98c-f85ab8ec4548" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0c6e4d12-5736-5ea6-bda5-f6cae4208fd0" name="Knight Magaera [Imperial Knights]" hidden="false" collective="false" import="true" targetId="84fc344c-ee64-5d12-a267-64ad8350b1bb" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8495f441-ba28-5265-aee9-de65fdc55c92" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="77031ba3-4945-53fb-9397-65e531659f3a" name="Knight Styrix [Imperial Knights]" hidden="false" collective="false" import="true" targetId="a751b47a-d364-5f1f-80cb-40891a93c873" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1c8f7e32-c5f3-53b2-ba98-a4f3c714cce1" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="653d2f23-25a8-5a80-97c3-dea38cfb224d" name="Knight Acheron [Imperial Knights]" hidden="false" collective="false" import="true" targetId="22023076-7e80-52d1-84dc-bb93cae30808" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="53e26ebc-eaad-5e68-b7a1-e91bd2cb207f" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="acc903aa-6c07-5209-ab26-3f1f2a9b67db" name="Knight Castigator [Imperial Knights]" hidden="false" collective="false" import="true" targetId="3069d959-7947-5b02-aed3-6a0e33884ed4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ee84757c-6ff6-57b4-aa4a-5a09abf278ab" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="39a8c736-38d5-50a9-ade6-cd94b7dbdd56" name="Knight Destrier [Imperial Knights]" hidden="false" collective="false" import="true" targetId="4f7b0c08-5c78-578f-84a2-bc9b623ed289" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4c959143-c94d-5d34-834e-821b0584315f" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f9d5f456-6d58-5335-82e3-0b8efdc42a19" name="Knight Lancer [Imperial Knights]" hidden="false" collective="false" import="true" targetId="0556e840-fe7b-5cd5-9a44-cdf3f7200630" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e1ff1ee1-11fb-54d6-9297-51fd982e2f00" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7fa9232a-d034-5f42-a7b3-986f0a61c63d" name="Knight Asterius [Imperial Knights]" hidden="false" collective="false" import="true" targetId="aaeaa2fe-2131-558a-b81a-6e9a096b19cc" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9ab6c75b-bf0d-58d4-be06-86ecdcf54fe2" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="19a619f4-222f-5d51-a10a-4d83733e45ff" name="Knight Valiant [Imperial Knights]" hidden="false" collective="false" import="true" targetId="ee392977-eeac-597b-9e11-61e16257637c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="83f81ac7-6e39-5e7c-b4fc-a27445ca8d2d" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e498d24c-71bc-5151-afd9-38be5f636a69" name="Knight Porphyrion [Imperial Knights]" hidden="false" collective="false" import="true" targetId="23a02b5c-592e-5547-9de5-806e62c973b9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b8cd5013-d8d4-51d5-9ea5-ca66030cce9e" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
   </entryLinks>
   <sharedSelectionEntries>
     <selectionEntry id="6ee96499-4a19-5c2e-a39c-1eefe33136b2" name="Ordo &amp; Army Rules" publicationId="89ec871d-e354-595b-b3b5-2083b999a7e1" page="2" hidden="false" collective="false" import="true" type="upgrade">
@@ -15497,4 +15572,7 @@
       </costs>
     </selectionEntry>
   </sharedSelectionEntries>
+  <catalogueLinks>
+    <catalogueLink id="c5f199fa-8d38-5d19-a73c-a66d8cf2991f" name="Imperial Knights" targetId="0de67288-8ee4-56cc-85fe-37d4436a1ccc" type="catalogue" importRootEntries="false"/>
+  </catalogueLinks>
 </catalogue>

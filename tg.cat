@@ -504,6 +504,76 @@
         <categoryLink id="79169145-4262-5800-a9f8-9a9514dc0186" name="Fortifications" hidden="false" collective="false" targetId="7f16a42a-5127-5955-a08a-b1de9a45d84a" primary="true"/>
       </categoryLinks>
     </entryLink>
+    <entryLink id="70f0ecb8-0a9e-50e2-8b64-e43f5e23d4fd" name="Chaos Knight Commander [Chaos Knights]" hidden="false" collective="false" import="true" targetId="29120209-db3f-5d50-8620-b83528f0bb3c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e5fc0097-7724-5364-9b7d-65a85f9be36b" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="18b375fe-5dfe-571b-a061-4fcc53ed0bf4" name="War Dog [Chaos Knights]" hidden="false" collective="false" import="true" targetId="765e7f5e-b7c4-55bd-add8-19f005d9d56d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="169e9d53-9367-50df-a83c-04338b49c36e" name="Heavy Support" hidden="false" targetId="409ce327-5ec1-5be8-9ba4-f8f006d410e6" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ad2d3aef-144e-5e4b-8e4d-09cd6143272c" name="Armiger Moiraxes [Chaos Knights]" hidden="false" collective="false" import="true" targetId="157ec0e4-9585-53a2-8bc0-101923c896b0" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="28366137-b13e-5d30-b4c9-618d684f7b5c" name="Heavy Support" hidden="false" targetId="409ce327-5ec1-5be8-9ba4-f8f006d410e6" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="05114a8b-1d44-59c9-bc31-b7dfab71e93b" name="Despoiler Knight [Chaos Knights]" hidden="false" collective="false" import="true" targetId="625c3db8-9de7-583f-8c65-ce2ff967ce96" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0dfa8714-ad4c-5898-a34b-ffed1edd442c" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="73c01894-dbad-5cb9-8735-76beaffc9a5a" name="Chaos Knight Atrapos [Chaos Knights]" hidden="false" collective="false" import="true" targetId="5a9d4264-8063-5aff-a5a0-9540a78bbb89" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c28635c2-1105-5dc3-a804-285dd28924ff" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3e3ae8af-7ce2-5a44-90ae-91f5f85f6f70" name="Chaos Knight Gallant [Chaos Knights]" hidden="false" collective="false" import="true" targetId="c15bd2ce-1b6d-5b6f-b075-96c6a4f1fcec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0c7dc7fb-ec90-5ba5-a050-421fe0efb51d" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="09c6ee6a-a9d0-5041-8075-8d00ade52390" name="Chaos Knight Magaera [Chaos Knights]" hidden="false" collective="false" import="true" targetId="9d2ad508-62bf-55e3-aa13-a960c07c19c0" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c94bc234-701f-5a11-981f-f2065bf7da15" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e043792e-6a5c-5cc8-afea-cc35d60bfda2" name="Chaos Knight Styrix [Chaos Knights]" hidden="false" collective="false" import="true" targetId="2b3b7a3c-038e-5f82-9c16-3ba8898e6e0a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0e617b7c-48fe-5a2d-a931-277c8da84074" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3b2091c6-94b2-5608-9a7e-e55808c2b8da" name="Chaos Knight Acheron [Chaos Knights]" hidden="false" collective="false" import="true" targetId="8abeb9c8-c11a-507a-a08c-ca755b419022" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a5d1d4b6-cd2a-52ce-88f2-52f8b1af60b5" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="869d2c76-3a71-5f26-ab70-75744676ddcd" name="Chaos Knight Castigator [Chaos Knights]" hidden="false" collective="false" import="true" targetId="c631ccc7-9fa3-5963-bd5f-5cb1f43943f9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4100ba14-02e2-5152-9d6c-586bdcbbd670" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1e6af618-4c3e-5861-8ca9-03b5b5ccaa8a" name="Chaos Knight Lancer [Chaos Knights]" hidden="false" collective="false" import="true" targetId="031bb22c-6a46-5a74-91f1-f64bb00645b5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8f8f1ef2-30d4-5f7e-aef3-b0bcaa643b65" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="81c5d845-8745-50ab-8e01-c95354ce5af1" name="Chaos Knight Asterius [Chaos Knights]" hidden="false" collective="false" import="true" targetId="46ce3366-12e6-5354-808f-9c6996844dc1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="450d7d10-5f9b-52a8-8391-f463fe14fbcb" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3e5f791a-5db9-5512-bb85-d07c13a3faa9" name="Chaos Knight Tyrant [Chaos Knights]" hidden="false" collective="false" import="true" targetId="8a4c7dc8-6c24-55b0-ba4b-57af9cd54fb8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f2e5cc47-493d-512b-98c7-311c7cf7a9dc" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4efa3bc4-5157-5d89-a616-16974611ce3f" name="Chaos Knight Porphyrion [Chaos Knights]" hidden="false" collective="false" import="true" targetId="b8ad38b6-d55b-5e3b-8394-d6c07edb72fe" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="686dbd5b-9cbc-5e9b-961c-a2149b3ea0b2" name="Lord of War" hidden="false" targetId="75d7eb58-e2d7-55d3-b075-44ddb3bfef7c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
   </entryLinks>
   <sharedSelectionEntries>
     <selectionEntry id="097009e5-6e5d-503c-9790-75a0505c109b" name="Warband &amp; Army Rules" publicationId="3170db88-3002-58d8-bb1f-25a3edfd2ba2" page="2" hidden="false" collective="false" import="true" type="upgrade">
@@ -37439,4 +37509,7 @@
       </costs>
     </selectionEntry>
   </sharedSelectionEntries>
+  <catalogueLinks>
+    <catalogueLink id="31de6e03-8e77-5636-9f4a-e6c5eddcdf75" name="Chaos Knights" targetId="2d9548ca-e3c9-5b01-ad5f-054c1e0bb828" type="catalogue" importRootEntries="false"/>
+  </catalogueLinks>
 </catalogue>
