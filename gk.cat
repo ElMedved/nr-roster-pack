@@ -3,6 +3,10 @@
   <publications>
     <publication id="2e6f0342-a8ae-50db-95c3-13ebc3dd5a28" name="Grey Knights Codex &amp; Supplements (Alt Edition)"/>
   </publications>
+  <catalogueLinks>
+    <catalogueLink id="9e9c2c7a-a96f-5b6c-95b7-f38b1c77d8f8" name="Imperium Agents Library" targetId="705daaa5-c9bf-54da-87a0-b3e6becc906b" type="catalogue" importRootEntries="false"/>
+    <catalogueLink id="edfd6f26-f6ae-597c-a584-93e785b806b7" name="Imperial Knights Library" targetId="4447ee03-5c0c-5c6c-9d25-ca3a36ba0d8a" type="catalogue" importRootEntries="false"/>
+  </catalogueLinks>
   <entryLinks>
     <entryLink id="e11384c2-f939-5458-814c-0cc13e4c38c6" name="Brotherhood &amp; Army Rules" hidden="false" collective="false" import="true" targetId="5b6ee3b0-eaab-5de9-8358-0669dc2abb7c" type="selectionEntry">
       <categoryLinks>
@@ -10575,8 +10579,4 @@ next Psychic Phase.</characteristic>
       </costs>
     </selectionEntry>
   </sharedSelectionEntries>
-  <catalogueLinks>
-    <catalogueLink id="23c5122d-4204-5c97-8228-40a817da7de4" name="Inquisition" targetId="96bdc53c-dc06-5b51-8595-4820edfa4e07" type="catalogue" importRootEntries="false"/>
-    <catalogueLink id="f516df4b-7d4d-5e76-b1de-0380941fb027" name="Imperial Knights" targetId="0de67288-8ee4-56cc-85fe-37d4436a1ccc" type="catalogue" importRootEntries="false"/>
-  </catalogueLinks>
 </catalogue>

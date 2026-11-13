@@ -3,6 +3,10 @@
   <publications>
     <publication id="fde014fb-0913-5977-834f-2186f01b4da8" name="Adeptus Mechanicus Codex &amp; Supplements (Alt Edition)"/>
   </publications>
+  <catalogueLinks>
+    <catalogueLink id="56921195-36b6-5ba0-92ec-3dc57a3ab43d" name="Imperium Agents Library" targetId="705daaa5-c9bf-54da-87a0-b3e6becc906b" type="catalogue" importRootEntries="false"/>
+    <catalogueLink id="d6bc4666-f51b-54f7-9a8c-37bbb53c7de9" name="Imperial Knights Library" targetId="4447ee03-5c0c-5c6c-9d25-ca3a36ba0d8a" type="catalogue" importRootEntries="false"/>
+  </catalogueLinks>
   <entryLinks>
     <entryLink id="7718dd98-68e1-50c4-a381-58ebb9e6a07d" name="Forge World &amp; Army Rules" hidden="false" collective="false" import="true" targetId="b26ff1c8-116a-5e84-b89a-b7eb835112c0" type="selectionEntry">
       <categoryLinks>
@@ -8159,8 +8163,4 @@
       </costs>
     </selectionEntry>
   </sharedSelectionEntries>
-  <catalogueLinks>
-    <catalogueLink id="bd4d00f1-1fb8-5d04-acc6-27035a3f9f82" name="Inquisition" targetId="96bdc53c-dc06-5b51-8595-4820edfa4e07" type="catalogue" importRootEntries="false"/>
-    <catalogueLink id="7ce0c70b-70a5-5515-ad05-ca811f73855b" name="Imperial Knights" targetId="0de67288-8ee4-56cc-85fe-37d4436a1ccc" type="catalogue" importRootEntries="false"/>
-  </catalogueLinks>
 </catalogue>

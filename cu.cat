@@ -3,6 +3,9 @@
   <publications>
     <publication id="3f5decae-471b-55fd-8848-580f3d11fa9b" name="Chaos Undivided Codex &amp; Supplements (Alt Edition)"/>
   </publications>
+  <catalogueLinks>
+    <catalogueLink id="64cb0ad7-9fb7-5680-aa07-a6aba8c2d4b1" name="Chaos Knights Library" targetId="de7ff724-42e0-58c1-8e5e-0fccbe16dd3d" type="catalogue" importRootEntries="false"/>
+  </catalogueLinks>
   <entryLinks>
     <entryLink id="6d2f8b6b-2ba3-577a-b7ec-fdf5c622bea9" name="Chaos Allegiance &amp; Warband &amp; Army Rules" hidden="false" collective="false" import="true" targetId="93df4fa5-5c29-5fc3-b960-05ef32227c5f" type="selectionEntry">
       <categoryLinks>
@@ -63490,7 +63493,4 @@
       </costs>
     </selectionEntry>
   </sharedSelectionEntries>
-  <catalogueLinks>
-    <catalogueLink id="94ad6b54-bc29-508a-9766-d37c9665ee43" name="Chaos Knights" targetId="2d9548ca-e3c9-5b01-ad5f-054c1e0bb828" type="catalogue" importRootEntries="false"/>
-  </catalogueLinks>
 </catalogue>

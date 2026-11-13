@@ -3,6 +3,10 @@
   <publications>
     <publication id="734e6fb2-2730-5f26-97e2-9ec65337b147" name="Squats Codex &amp; Supplements (Alt Edition)"/>
   </publications>
+  <catalogueLinks>
+    <catalogueLink id="7bf3d906-c02d-5d7c-b17f-c536e7f88589" name="Imperium Agents Library" targetId="705daaa5-c9bf-54da-87a0-b3e6becc906b" type="catalogue" importRootEntries="false"/>
+    <catalogueLink id="30149f2d-714f-5e5d-9ed8-1d9083889ffa" name="Imperial Knights Library" targetId="4447ee03-5c0c-5c6c-9d25-ca3a36ba0d8a" type="catalogue" importRootEntries="false"/>
+  </catalogueLinks>
   <entryLinks>
     <entryLink id="fa009b0a-077d-5d6e-b0bd-41ac37d52ef9" name="League &amp; Army Rules" hidden="false" collective="false" import="true" targetId="a1942715-e360-5c78-9819-76ef5d5bcf91" type="selectionEntry">
       <categoryLinks>
@@ -5864,8 +5868,4 @@
       </costs>
     </selectionEntry>
   </sharedSelectionEntries>
-  <catalogueLinks>
-    <catalogueLink id="92a5d235-3a36-5152-9a15-55c38cdfc7b7" name="Inquisition" targetId="96bdc53c-dc06-5b51-8595-4820edfa4e07" type="catalogue" importRootEntries="false"/>
-    <catalogueLink id="4edc91a7-c597-58a7-800d-0d68104a8e1c" name="Imperial Knights" targetId="0de67288-8ee4-56cc-85fe-37d4436a1ccc" type="catalogue" importRootEntries="false"/>
-  </catalogueLinks>
 </catalogue>

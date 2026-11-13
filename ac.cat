@@ -3,6 +3,10 @@
   <publications>
     <publication id="9f7f6f69-93b0-537e-856e-d41494d27fcf" name="Adeptus Custodes Codex &amp; Supplements (Alt Edition)"/>
   </publications>
+  <catalogueLinks>
+    <catalogueLink id="78258334-9e36-5d52-b8bd-52b0451d8a78" name="Imperium Agents Library" targetId="705daaa5-c9bf-54da-87a0-b3e6becc906b" type="catalogue" importRootEntries="false"/>
+    <catalogueLink id="7d09631f-200a-57eb-967b-88ef26cde7c9" name="Imperial Knights Library" targetId="4447ee03-5c0c-5c6c-9d25-ca3a36ba0d8a" type="catalogue" importRootEntries="false"/>
+  </catalogueLinks>
   <entryLinks>
     <entryLink id="85260554-6457-5ce1-83b2-79076f8ea271" name="Shield Host &amp; Army Rules" hidden="false" collective="false" import="true" targetId="b072e7ca-1bc2-52c0-ace4-11d4fe362b11" type="selectionEntry">
       <categoryLinks>
@@ -5551,8 +5555,4 @@
       </costs>
     </selectionEntry>
   </sharedSelectionEntries>
-  <catalogueLinks>
-    <catalogueLink id="f2d1859d-6aa0-53f6-890b-240487995906" name="Inquisition" targetId="96bdc53c-dc06-5b51-8595-4820edfa4e07" type="catalogue" importRootEntries="false"/>
-    <catalogueLink id="03bd3ada-dc20-53dc-92f8-ffdf82b45e38" name="Imperial Knights" targetId="0de67288-8ee4-56cc-85fe-37d4436a1ccc" type="catalogue" importRootEntries="false"/>
-  </catalogueLinks>
 </catalogue>

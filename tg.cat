@@ -3,6 +3,9 @@
   <publications>
     <publication id="3170db88-3002-58d8-bb1f-25a3edfd2ba2" name="Traitor Guard Codex &amp; Supplements (Alt Edition)"/>
   </publications>
+  <catalogueLinks>
+    <catalogueLink id="534451b7-0826-5f36-ae3e-3183076388bf" name="Chaos Knights Library" targetId="de7ff724-42e0-58c1-8e5e-0fccbe16dd3d" type="catalogue" importRootEntries="false"/>
+  </catalogueLinks>
   <entryLinks>
     <entryLink id="32af5e33-a1f4-54f7-8032-d991f8e70263" name="Warband &amp; Army Rules" hidden="false" collective="false" import="true" targetId="097009e5-6e5d-503c-9790-75a0505c109b" type="selectionEntry">
       <categoryLinks>
@@ -37509,7 +37512,4 @@
       </costs>
     </selectionEntry>
   </sharedSelectionEntries>
-  <catalogueLinks>
-    <catalogueLink id="31de6e03-8e77-5636-9f4a-e6c5eddcdf75" name="Chaos Knights" targetId="2d9548ca-e3c9-5b01-ad5f-054c1e0bb828" type="catalogue" importRootEntries="false"/>
-  </catalogueLinks>
 </catalogue>
