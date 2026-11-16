@@ -1122,7 +1122,7 @@ next Psychic Phase.</characteristic>
               <profiles>
                 <profile id="440f3a7b-bfc7-5443-b84f-9c1fa3a2525b" name="Omen of Potency" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gains 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains A+3.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1137,7 +1137,7 @@ next Psychic Phase.</characteristic>
               <profiles>
                 <profile id="60731dd6-f849-5274-a6c4-46ac4c406747" name="Litany of Intimidation" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gains 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, target unit takes Ld Tests on 3d6, discarding the lowest die.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1152,7 +1152,7 @@ next Psychic Phase.</characteristic>
               <profiles>
                 <profile id="df4cacc2-7452-521a-9166-1060db686a6e" name="Litany of Faith" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gains 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, target Unit gains 5+ Invulnerability Save.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1167,7 +1167,7 @@ next Psychic Phase.</characteristic>
               <profiles>
                 <profile id="1e8c51a4-6a74-51d7-9b27-a81f96095f0c" name="True Sight" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gains 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and Target unit gain BS-1 (Improves by 1).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1182,7 +1182,7 @@ next Psychic Phase.</characteristic>
               <profiles>
                 <profile id="71b3f5b2-deb9-51f3-9f4c-b29c49010dd5" name="Exhortation of Rage" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gains 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -7450,7 +7450,7 @@ next Psychic Phase.</characteristic>
               <profiles>
                 <profile id="fe7ca9d6-d654-59ab-950f-7a371afbbfa0" name="Frag Launchers" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Reroll Dangerous Terrain Tests and failed Move through Cover Roll d6, on 5+ repair Immobilized or Crew Stun result You may treat all Crew Stun Results as Crew Shaken 6” Aura, this model and target unit count as being armed with Grenades for the purposes of Charging. 6” range, put 5” Smoke Cloud that causes -1 to Hit and scatters to move an extra +1” until your Command Phase. One Use Only. Use in your Shooting Phase Only.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit count as being armed with Grenades for the purposes of Charging.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>

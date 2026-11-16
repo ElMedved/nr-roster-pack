@@ -1554,7 +1554,7 @@
               <profiles>
                 <profile id="e036cc6f-4860-552b-83a3-ce6700fa3982" name="Carapace Armour (Squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ Shroud M+6, T+1, W+1, gain Steeds, Very Bulky M+6, T+1, W+1, gain Steeds, Deepstrike, Fly, Very Bulky</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ (or Sv-1, improves by 1).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1569,7 +1569,7 @@
               <profiles>
                 <profile id="24f0c717-2773-516c-8d4b-f1602807c96c" name="Camo Gear (Squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ Shroud M+6, T+1, W+1, gain Steeds, Very Bulky M+6, T+1, W+1, gain Steeds, Deepstrike, Fly, Very Bulky</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Shroud.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1591,7 +1591,7 @@
               <profiles>
                 <profile id="91059891-20cd-5c4d-b002-528cce57ced2" name="Steeds (Squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ Shroud M+6, T+1, W+1, gain Steeds, Very Bulky M+6, T+1, W+1, gain Steeds, Deepstrike, Fly, Very Bulky</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+1. Gain Steeds, Outflank, Very Bulky.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1606,7 +1606,7 @@
               <profiles>
                 <profile id="237d2666-adbb-59f3-b0ab-14f61031ed77" name="Jetbikes (Squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ Shroud M+6, T+1, W+1, gain Steeds, Very Bulky M+6, T+1, W+1, gain Steeds, Deepstrike, Fly, Very Bulky</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+1. Gain Steeds, Deepstrike, Fly, Very Bulky.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2103,7 +2103,7 @@
               <profiles>
                 <profile id="3520a193-a74c-585e-ab50-d601706ed012" name="Carapace Armour" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ Shroud M+6, T+1, W+1, gain Steed, Very Bulky</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ (or Sv-1, improves by 1).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2118,7 +2118,7 @@
               <profiles>
                 <profile id="fad8a494-f822-5816-84e0-55d3bf9a1471" name="Camo Gear" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ Shroud M+6, T+1, W+1, gain Steed, Very Bulky</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Shroud.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2133,7 +2133,7 @@
               <profiles>
                 <profile id="b4984cbb-7eb2-5aa6-af7d-d2c72cfdd5e6" name="Steed" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ Shroud M+6, T+1, W+1, gain Steed, Very Bulky</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+1. Gain Steed, Very Bulky.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -4617,7 +4617,7 @@
               <profiles>
                 <profile id="e6cce3e6-85dc-5e2b-9226-86a7ce4f631c" name="Steed" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+1, gain Steed, Very Bulky</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+1. Gain Steed, Very Bulky.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -8875,7 +8875,7 @@
               <profiles>
                 <profile id="37f10f9e-1d67-5e5c-a4af-8b5711426938" name="Jump Packs (+6 pts/model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6. Gain Fly, Bulky.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6. Gains Bulky, Fly.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -10872,7 +10872,7 @@
               <profiles>
                 <profile id="3400dac6-b136-5c99-ab08-fec65b031e48" name="Genetically Engineered Steeds (+4 pts/model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1 Gain Flying, Deepstrike</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1. Lose Outflank (or M+6, T+1, W+2, Gain Steeds, Very Bulky on unmounted Command Squad).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -10894,7 +10894,7 @@
               <profiles>
                 <profile id="9a27529d-a4b7-5976-9756-3fef5e549180" name="Jet Bikes (+4 pts/model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1 Gain Flying, Deepstrike</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain Flying, Deepstrike. Lose Outflank.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -27878,7 +27878,7 @@
               <profiles>
                 <profile id="e436f9d9-85fb-5fd2-af27-9186e656c4a5" name="Centaur RSV Pattern" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Lose Ammunition Cache. Gain Assault Ramps</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Lose Ammunition Cache. Gain Assault Ramps.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -29531,7 +29531,7 @@
               <profiles>
                 <profile id="57624feb-fcd1-576f-baae-2a24e2fa1fd6" name="Lucius Pattern" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+2, W-2 W-2, Baneblade Cannon and Coaxial Autocannon, Demolisher Cannon cannot be disabled. SA+1</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+2, W-2.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -29546,7 +29546,7 @@
               <profiles>
                 <profile id="379a0fd4-c768-5c5a-91dc-beebc6289e4b" name="Mars Pattern" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+2, W-2 W-2, Baneblade Cannon and Coaxial Autocannon, Demolisher Cannon cannot be disabled. SA+1</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W-2, Primary Hull/Turret Cannon cannot be Disabled.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -31272,7 +31272,7 @@
               <profiles>
                 <profile id="6bbd4722-bb0e-5845-85d4-a2cf06af541c" name="Mars Pattern" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W-2, Volcano Cannon cannot be Disabled. SA+1</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W-2, Primary Hull/Turret Cannon cannot be Disabled.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>

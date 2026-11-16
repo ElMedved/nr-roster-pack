@@ -866,7 +866,7 @@
               <profiles>
                 <profile id="697cca8c-321d-5665-b09a-d60b1b686a77" name="Canoness Superior" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, A+1. Gain Prayer to the Emperor, Faith +3, Martyrdom +5, Unique. M+6. Gain Bulky, Deepstrike, Fly</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, A+1. Gain Prayer to the Emperor, Faith +3, Martyrdom +5, Unique.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -3042,7 +3042,7 @@
               <profiles>
                 <profile id="3855db6e-6601-5fdb-bc69-6ee61bce0176" name="Scriptorum" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, target Character or Independent Character gains Faith +1. 6” Aura, this model and target unit gains Furious Charge. 6” Aura, this model and target unit gain a 5+ Feel No Pain.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, target Character or Independent Character gains Faith +1.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -3072,7 +3072,7 @@
               <profiles>
                 <profile id="709fcf8f-7eb2-5a0f-b0cf-ef97d422cb5f" name="Relic Chalice" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, target Character or Independent Character gains Faith +1. 6” Aura, this model and target unit gains Furious Charge. 6” Aura, this model and target unit gain a 5+ Feel No Pain.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain Furious Charge.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -3087,7 +3087,7 @@
               <profiles>
                 <profile id="69bf7808-010d-53e7-92c9-367e7e98f71c" name="Chirugeon Tools" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, target Character or Independent Character gains Faith +1. 6” Aura, this model and target unit gains Furious Charge. 6” Aura, this model and target unit gain a 5+ Feel No Pain.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain a 5+ Feel No Pain.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>

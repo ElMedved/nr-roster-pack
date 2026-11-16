@@ -2508,7 +2508,7 @@
               <profiles>
                 <profile id="1bda418a-746d-5b89-8fe5-a4adb20057df" name="Patriarch Throne" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Fleet Counts as having Assault Grenades for the purposes of Charging. M-8, Gain Immobile. Increase this model’s Auras to 24” Range and change them to True Auras with the exception of Unquestioning Loyalty. Token. If this model suffers a Mortal Wound due to Perils of the Warp, remove this Token instead. Sv-1 (Improves by 1) Stealth</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-8, Gain Immobile. Increase this model's Auras to 24" Range and change them to True Auras (except Unquestioning Loyalty).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2527,7 +2527,7 @@
               <profiles>
                 <profile id="ca3076c3-4ee7-5098-ae41-be1ce7cb3db5" name="Psychic Familiar" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Fleet Counts as having Assault Grenades for the purposes of Charging. M-8, Gain Immobile. Increase this model’s Auras to 24” Range and change them to True Auras with the exception of Unquestioning Loyalty. Token. If this model suffers a Mortal Wound due to Perils of the Warp, remove this Token instead. Sv-1 (Improves by 1) Stealth</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Token. If this model suffers a Mortal Wound due to Perils of the Warp, remove this Token instead.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -5599,7 +5599,7 @@
               <profiles>
                 <profile id="671021f4-15de-5c26-aea8-f16273f44e0a" name="Carapace Armour (squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this unit and target unit gain a 5+ Feel no Pain. Sv-1 (Improves by 1). The squad gains Shroud. M+6, T+1, W+1. Gain Outflank, Steeds, Very Bulky. M+6, T+1, W+2. Gain Steeds, Very Bulky. M+6, T+1, W+1. Gain Steeds, Deepstrike, Fly, Very Bulky.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ (or Sv-1, improves by 1).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -5614,7 +5614,7 @@
               <profiles>
                 <profile id="fef2a708-e359-50e3-b98c-22f48576f126" name="Camo Gear (squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this unit and target unit gain a 5+ Feel no Pain. Sv-1 (Improves by 1). The squad gains Shroud. M+6, T+1, W+1. Gain Outflank, Steeds, Very Bulky. M+6, T+1, W+2. Gain Steeds, Very Bulky. M+6, T+1, W+1. Gain Steeds, Deepstrike, Fly, Very Bulky.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Shroud.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -5636,7 +5636,7 @@
               <profiles>
                 <profile id="ffef09e7-ad5f-5e53-b4fe-2a9f06dcad3e" name="Steeds (Squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this unit and target unit gain a 5+ Feel no Pain. Sv-1 (Improves by 1). The squad gains Shroud. M+6, T+1, W+1. Gain Outflank, Steeds, Very Bulky. M+6, T+1, W+2. Gain Steeds, Very Bulky. M+6, T+1, W+1. Gain Steeds, Deepstrike, Fly, Very Bulky.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+1. Gain Steeds, Outflank, Very Bulky.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -5651,7 +5651,7 @@
               <profiles>
                 <profile id="1cbdbc5a-1636-5a27-9910-e3be9c3862b0" name="Genetically Altered Steeds (Squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this unit and target unit gain a 5+ Feel no Pain. Sv-1 (Improves by 1). The squad gains Shroud. M+6, T+1, W+1. Gain Outflank, Steeds, Very Bulky. M+6, T+1, W+2. Gain Steeds, Very Bulky. M+6, T+1, W+1. Gain Steeds, Deepstrike, Fly, Very Bulky.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+2. Gain Steeds, Very Bulky.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -5666,7 +5666,7 @@
               <profiles>
                 <profile id="d7cfa91f-c51a-53c1-8367-9bd71ebf14ca" name="Jetbikes (Squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this unit and target unit gain a 5+ Feel no Pain. Sv-1 (Improves by 1). The squad gains Shroud. M+6, T+1, W+1. Gain Outflank, Steeds, Very Bulky. M+6, T+1, W+2. Gain Steeds, Very Bulky. M+6, T+1, W+1. Gain Steeds, Deepstrike, Fly, Very Bulky.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+1. Gain Steeds, Deepstrike, Fly, Very Bulky.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -9342,7 +9342,7 @@
               <profiles>
                 <profile id="a35b671f-5d2c-508e-ab7c-7eee6ef33d53" name="Carapace Armour" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv-1 (Improves by 1).</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ (or Sv-1, improves by 1).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -10153,7 +10153,7 @@
               <profiles>
                 <profile id="b44e0c5a-2444-571f-8b11-4559453fc1f7" name="Jump Packs (+7 pts/model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6. Gain Bulky, Fly.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6. Gains Bulky, Fly.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -11514,7 +11514,7 @@
               <profiles>
                 <profile id="fc56baac-5da8-5468-94bf-ab318cf3a53d" name="Genetically Engineered Steeds (model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1. Lose Outflank Gain Deepstrike, Flying. Lose Outflank.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1. Lose Outflank (or M+6, T+1, W+2, Gain Steeds, Very Bulky on unmounted Command Squad).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -11536,7 +11536,7 @@
               <profiles>
                 <profile id="410fdfe8-fc90-514b-a975-88d7efb8dd93" name="Jet Bikes (+2 pts/model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1. Lose Outflank Gain Deepstrike, Flying. Lose Outflank.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain Flying, Deepstrike. Lose Outflank.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -26609,7 +26609,7 @@
               <profiles>
                 <profile id="eaf13870-f9b0-5a26-99ef-1902eca95844" name="Centaur RSV Pattern" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Lose Ammunition Cache. Gain Assault Ramps Ammunition Cache can now reload Death Strike Missiles as well. If this model is destroyed, on a 4+ the cart explodes! Center a Deathstrike Missile Blast on the Cart (or Halftrack if you do not have a Cart model) and do not scatter it.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Lose Ammunition Cache. Gain Assault Ramps.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -26718,7 +26718,7 @@
               <profiles>
                 <profile id="cea5a9ca-3b07-5258-bf9e-ad7e18c83d39" name="Deathstrike Cart" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Lose Ammunition Cache. Gain Assault Ramps Ammunition Cache can now reload Death Strike Missiles as well. If this model is destroyed, on a 4+ the cart explodes! Center a Deathstrike Missile Blast on the Cart (or Halftrack if you do not have a Cart model) and do not scatter it.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Ammunition Cache can now reload Deathstrike Missiles as well. If destroyed, on a 4+ center a non-scattering Deathstrike Missile Blast on the Cart.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -28106,7 +28106,7 @@
               <profiles>
                 <profile id="599068a5-7302-5913-9e30-08ebbb8015dd" name="Lucius Pattern" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+2, W-2 W-2, Baneblade Cannon and Coaxial Autocannon, Demolisher Cannon cannot be disabled.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+2, W-2.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -28121,7 +28121,7 @@
               <profiles>
                 <profile id="d4a6b67e-8d11-5821-915c-18f71d99d4a8" name="Mars Pattern" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+2, W-2 W-2, Baneblade Cannon and Coaxial Autocannon, Demolisher Cannon cannot be disabled.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W-2, Primary Hull/Turret Cannon cannot be Disabled.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -29657,7 +29657,7 @@
               <profiles>
                 <profile id="80908064-489f-5013-a270-ea651d2d0099" name="Mars Pattern" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W-2, Volcano Cannon cannot be Disabled.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W-2, Primary Hull/Turret Cannon cannot be Disabled.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>

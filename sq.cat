@@ -2325,7 +2325,7 @@
               <profiles>
                 <profile id="7c14d97f-ebe7-56fd-b1b1-e008b3e364d2" name="Pan Spectral Scanner" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit inflict a -1 to Cover Saves. 6” Aura, this unit and target unit may have Auras cast from HQ models from up to 24” away instead of 6”. 6” aura, this model and target unit gain a 5+ Feel No Pain.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit inflict a -1 to Cover Saves.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2340,7 +2340,7 @@
               <profiles>
                 <profile id="86de23fb-d10a-5002-adab-356e1e1c0ac1" name="Multiwave Comms Array" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit inflict a -1 to Cover Saves. 6” Aura, this unit and target unit may have Auras cast from HQ models from up to 24” away instead of 6”. 6” aura, this model and target unit gain a 5+ Feel No Pain.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this unit and target unit may have Auras cast from HQ models from up to 24" away instead of 6".</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2355,7 +2355,7 @@
               <profiles>
                 <profile id="613b2c6a-5a36-5aa6-82ee-dc2f529aaa62" name="Medipack" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit inflict a -1 to Cover Saves. 6” Aura, this unit and target unit may have Auras cast from HQ models from up to 24” away instead of 6”. 6” aura, this model and target unit gain a 5+ Feel No Pain.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain a 5+ Feel No Pain.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2535,7 +2535,7 @@
               <profiles>
                 <profile id="0d00bda3-4902-5e6c-8e9f-d6f753b13ac4" name="Pan Spectral Scanner" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit inflict a -1 to Cover Saves. 6” Aura, this unit and target unit may have Auras cast from HQ models from up to 24” away instead of 6”. 6” aura, this model and target unit gain a 5+ Feel No Pain.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit inflict a -1 to Cover Saves.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2550,7 +2550,7 @@
               <profiles>
                 <profile id="0c940b99-ada5-5ccf-a7e7-56b40518485c" name="Multiwave Comms Array" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit inflict a -1 to Cover Saves. 6” Aura, this unit and target unit may have Auras cast from HQ models from up to 24” away instead of 6”. 6” aura, this model and target unit gain a 5+ Feel No Pain.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this unit and target unit may have Auras cast from HQ models from up to 24" away instead of 6".</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2565,7 +2565,7 @@
               <profiles>
                 <profile id="9c14f35e-7d07-53d5-98fe-13170366d9e1" name="Medipack" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit inflict a -1 to Cover Saves. 6” Aura, this unit and target unit may have Auras cast from HQ models from up to 24” away instead of 6”. 6” aura, this model and target unit gain a 5+ Feel No Pain.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain a 5+ Feel No Pain.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2772,7 +2772,7 @@
               <profiles>
                 <profile id="f596c8ba-a0d8-543b-9865-a650dc78c3c8" name="Pan Spectral Scanner" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit inflict a -1 to Cover Saves. 6” Aura, this unit and target unit may have Auras cast from HQ models from up to 24” away instead of 6”. 6” aura, this model and target unit gain a 5+ Feel No Pain.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit inflict a -1 to Cover Saves.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2787,7 +2787,7 @@
               <profiles>
                 <profile id="8f4bf31f-0893-52e2-8ea3-2c22f3c3e747" name="Multiwave Comms Array" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit inflict a -1 to Cover Saves. 6” Aura, this unit and target unit may have Auras cast from HQ models from up to 24” away instead of 6”. 6” aura, this model and target unit gain a 5+ Feel No Pain.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this unit and target unit may have Auras cast from HQ models from up to 24" away instead of 6".</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2802,7 +2802,7 @@
               <profiles>
                 <profile id="270f5d6d-5ca7-5dee-a364-6413b57ead37" name="Medipack" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit inflict a -1 to Cover Saves. 6” Aura, this unit and target unit may have Auras cast from HQ models from up to 24” away instead of 6”. 6” aura, this model and target unit gain a 5+ Feel No Pain.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain a 5+ Feel No Pain.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -3509,7 +3509,7 @@
               <profiles>
                 <profile id="ac3c8f90-db32-53be-a3b8-2fb49ab383aa" name="Search Light" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This unit and target unit are no longer affected by Night rules. 6” Aura, this model and target unit inflict a -1 to Cover Saves. 6” Aura, this unit and target unit may have Auras cast from HQ models from up to 24” away instead of 6”.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This unit and target unit are no longer affected by Night rules.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -3524,7 +3524,7 @@
               <profiles>
                 <profile id="8fd69f39-bd4a-59a4-aeda-195674b945a5" name="Pan Spectral Scanner" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This unit and target unit are no longer affected by Night rules. 6” Aura, this model and target unit inflict a -1 to Cover Saves. 6” Aura, this unit and target unit may have Auras cast from HQ models from up to 24” away instead of 6”.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit inflict a -1 to Cover Saves.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -3539,7 +3539,7 @@
               <profiles>
                 <profile id="8f0bfd4b-d3bc-5dfe-abf3-4cbc17ab1182" name="Multiwave Comms Array" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This unit and target unit are no longer affected by Night rules. 6” Aura, this model and target unit inflict a -1 to Cover Saves. 6” Aura, this unit and target unit may have Auras cast from HQ models from up to 24” away instead of 6”.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this unit and target unit may have Auras cast from HQ models from up to 24" away instead of 6".</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -4559,7 +4559,7 @@
               <profiles>
                 <profile id="a0c15834-e12f-5878-b7c3-59e8fd5d44db" name="Data Link" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">5+ Invulnerability Save against ranged attacks. Target unit may reroll Scatter Dice for ranged weapons.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Target friendly artillery/Whirlwind unit may reroll Scatter Dice.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -4937,7 +4937,7 @@
               <profiles>
                 <profile id="d7cbda2d-c15d-5d33-a6e1-74dc1293c65c" name="Berserker Battlecar" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Transport 50 – Access Sides. 10 Fire Ports per Side. Gain Battle Cannon. Gain Rad Bomb. Gain Dragon Fire Thrower. Gain Voidshield 3 and MATR Autocannon. Gain Repair Facility. Landing Pad – This model may transport 1 non-Titanic High Altitude or Flyer Vehicle. Embarked models may Repair d3 Wounds and have secondary services restored on a 3+. Gain Colossus Siege Mortar. Gain 2 Linked Ack-Ack Missile Racks</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Transport 50 – Access Sides, 10 Fire Ports per Side. Gain Battle Cannon.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -4952,7 +4952,7 @@
               <profiles>
                 <profile id="590a986a-1c43-57fc-bd98-2294f80c5e55" name="Bomb Battlecar" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Transport 50 – Access Sides. 10 Fire Ports per Side. Gain Battle Cannon. Gain Rad Bomb. Gain Dragon Fire Thrower. Gain Voidshield 3 and MATR Autocannon. Gain Repair Facility. Landing Pad – This model may transport 1 non-Titanic High Altitude or Flyer Vehicle. Embarked models may Repair d3 Wounds and have secondary services restored on a 3+. Gain Colossus Siege Mortar. Gain 2 Linked Ack-Ack Missile Racks</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain Rad Bomb.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -4967,7 +4967,7 @@
               <profiles>
                 <profile id="ff1f5668-faf1-5bd4-a4b9-1874ad0cefaa" name="Dragon Battlecar" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Transport 50 – Access Sides. 10 Fire Ports per Side. Gain Battle Cannon. Gain Rad Bomb. Gain Dragon Fire Thrower. Gain Voidshield 3 and MATR Autocannon. Gain Repair Facility. Landing Pad – This model may transport 1 non-Titanic High Altitude or Flyer Vehicle. Embarked models may Repair d3 Wounds and have secondary services restored on a 3+. Gain Colossus Siege Mortar. Gain 2 Linked Ack-Ack Missile Racks</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain Dragon Fire Thrower.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -4982,7 +4982,7 @@
               <profiles>
                 <profile id="5834d1a9-0a7c-51f7-bcce-80ed563ec3df" name="Fire Shield Battlecar" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Transport 50 – Access Sides. 10 Fire Ports per Side. Gain Battle Cannon. Gain Rad Bomb. Gain Dragon Fire Thrower. Gain Voidshield 3 and MATR Autocannon. Gain Repair Facility. Landing Pad – This model may transport 1 non-Titanic High Altitude or Flyer Vehicle. Embarked models may Repair d3 Wounds and have secondary services restored on a 3+. Gain Colossus Siege Mortar. Gain 2 Linked Ack-Ack Missile Racks</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain Voidshield 3, MATR Autocannon, and Repair Facility.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -4997,7 +4997,7 @@
               <profiles>
                 <profile id="ee712071-5685-593b-aaab-f0474062ea57" name="Iron Eagle Battlecar" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Transport 50 – Access Sides. 10 Fire Ports per Side. Gain Battle Cannon. Gain Rad Bomb. Gain Dragon Fire Thrower. Gain Voidshield 3 and MATR Autocannon. Gain Repair Facility. Landing Pad – This model may transport 1 non-Titanic High Altitude or Flyer Vehicle. Embarked models may Repair d3 Wounds and have secondary services restored on a 3+. Gain Colossus Siege Mortar. Gain 2 Linked Ack-Ack Missile Racks</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Landing Pad – May transport 1 non-Titanic High Altitude or Flyer Vehicle; embarked models may Repair d3 Wounds and restore secondary services on a 3+.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -5012,7 +5012,7 @@
               <profiles>
                 <profile id="b8629284-6473-5c44-a2f5-c3b56a4e41dc" name="Mortar Battlecar" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Transport 50 – Access Sides. 10 Fire Ports per Side. Gain Battle Cannon. Gain Rad Bomb. Gain Dragon Fire Thrower. Gain Voidshield 3 and MATR Autocannon. Gain Repair Facility. Landing Pad – This model may transport 1 non-Titanic High Altitude or Flyer Vehicle. Embarked models may Repair d3 Wounds and have secondary services restored on a 3+. Gain Colossus Siege Mortar. Gain 2 Linked Ack-Ack Missile Racks</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain Colossus Siege Mortar.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -5027,7 +5027,7 @@
               <profiles>
                 <profile id="a2bf7d68-2431-5920-b555-b5db1c5a4f9f" name="Skyhammer Battlecar" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Transport 50 – Access Sides. 10 Fire Ports per Side. Gain Battle Cannon. Gain Rad Bomb. Gain Dragon Fire Thrower. Gain Voidshield 3 and MATR Autocannon. Gain Repair Facility. Landing Pad – This model may transport 1 non-Titanic High Altitude or Flyer Vehicle. Embarked models may Repair d3 Wounds and have secondary services restored on a 3+. Gain Colossus Siege Mortar. Gain 2 Linked Ack-Ack Missile Racks</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain 2 Linked Ack-Ack Missile Racks.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>

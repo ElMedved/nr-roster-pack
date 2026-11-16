@@ -651,7 +651,7 @@
               <profiles>
                 <profile id="7afee8e3-a8c7-558a-b370-0bbfb1df6aca" name="Combat Armour" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv-1 (Improves by 1). M+6. Gain Bulky, Jump.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv-1 (Improves by 1).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -666,7 +666,7 @@
               <profiles>
                 <profile id="6804ed99-5ce0-5520-941c-39a0f6264a7b" name="Hover Drone" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv-1 (Improves by 1). M+6. Gain Bulky, Jump.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6. Gain Bulky, Jump.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2109,7 +2109,7 @@
               <profiles>
                 <profile id="60e82a5e-9f34-56d7-b97c-90a5305294db" name="XV8-02 Iridium Battlesuit" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">FA+1, SA+1. W +2. Gain XV84 weapons and Wargear. M+4. Gain XV81 weapons. M-4, FA+1, SA+1, W+1.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">FA+1, SA+1.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2124,7 +2124,7 @@
               <profiles>
                 <profile id="ea6d97cd-532a-565d-87fb-bb64a0f2e218" name="XV8-05 Enforcer Battlesuit" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">FA+1, SA+1. W +2. Gain XV84 weapons and Wargear. M+4. Gain XV81 weapons. M-4, FA+1, SA+1, W+1.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+2.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2139,7 +2139,7 @@
               <profiles>
                 <profile id="5f7aca84-ea38-5c2c-aade-d14cf7409718" name="XV84 Crisis Battlesuit" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">FA+1, SA+1. W +2. Gain XV84 weapons and Wargear. M+4. Gain XV81 weapons. M-4, FA+1, SA+1, W+1.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain XV84 weapons and Wargear.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2154,7 +2154,7 @@
               <profiles>
                 <profile id="6b2317b6-1df6-572e-a7b9-e7fcc84e2f3c" name="XV86 Coldstar Battlesuit" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">FA+1, SA+1. W +2. Gain XV84 weapons and Wargear. M+4. Gain XV81 weapons. M-4, FA+1, SA+1, W+1.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+4.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2169,7 +2169,7 @@
               <profiles>
                 <profile id="5289f8ac-c4e8-5270-a8b1-50af0127eaf8" name="XV81 Crisis Battlesuit" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">FA+1, SA+1. W +2. Gain XV84 weapons and Wargear. M+4. Gain XV81 weapons. M-4, FA+1, SA+1, W+1.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain XV81 weapons.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2184,7 +2184,7 @@
               <profiles>
                 <profile id="7438a8a4-5343-50b3-8958-5539b773458a" name="XV89 Crisis Battlesuit" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">FA+1, SA+1. W +2. Gain XV84 weapons and Wargear. M+4. Gain XV81 weapons. M-4, FA+1, SA+1, W+1.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-4, FA+1, SA+1, W+1.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -4414,7 +4414,7 @@
               <profiles>
                 <profile id="8197cb33-6b19-58fb-96fc-549644004ec8" name="Combat Suit" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv-1 (Improves by 1) M+6, T+1, W+1, Rules: Steed</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv-1 (Improves by 1).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -4429,7 +4429,7 @@
               <profiles>
                 <profile id="79d126a6-919e-5f0a-87c9-87dcb206ccfa" name="Steed" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv-1 (Improves by 1) M+6, T+1, W+1, Rules: Steed</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+1. Gain Steed, Very Bulky.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -6460,7 +6460,7 @@
                   <profiles>
                     <profile id="f0a45979-9a47-550d-b6ae-1bdae02e071b" name="Automated Repair System (per model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Heal Stealth</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Heal.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -6490,7 +6490,7 @@
                   <profiles>
                     <profile id="ccddba34-6f6a-5666-94f4-dc2f5d738f39" name="Disruption Pods (per model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Heal Stealth</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Stealth.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>

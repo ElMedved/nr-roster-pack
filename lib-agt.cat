@@ -752,7 +752,7 @@
               <profiles>
                 <profile id="a60db71f-a370-5bb8-811b-a3f9f3b1a3bd" name="Lord Inquisitor" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, A+1. Gain Unique, Terrifying Presence – 6” Aura, target unit must take a Fear Test. Sv-1 (Improves by 1) M-2, W+1, Sv-1 (Improves by 1). Gain Monstrous Infantry, Deepstrike, Steady, Very Bulky. Lose Infantry, all Grenades.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, A+1. Gain Unique, Terrifying Presence – 6" Aura, target unit must take a Fear Test.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -774,7 +774,7 @@
               <profiles>
                 <profile id="38208ff2-4627-5690-84f8-c0ab662fd6ec" name="Power Armour" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, A+1. Gain Unique, Terrifying Presence – 6” Aura, target unit must take a Fear Test. Sv-1 (Improves by 1) M-2, W+1, Sv-1 (Improves by 1). Gain Monstrous Infantry, Deepstrike, Steady, Very Bulky. Lose Infantry, all Grenades.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv-1 (Improves by 1).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>

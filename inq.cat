@@ -3488,7 +3488,7 @@
               <profiles>
                 <profile id="c2d5a401-bbe1-5061-8696-35d995369085" name="Doctrine: Cyber Mastiff" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Token. The unit gains Ld+1. The Sergeant gains Melta Bombs. One model in the unit gains a Demolition Charge The Squad Sv stat changes to Sv4+. Regiment rules apply after this Sv update from Grenadier. Target Friendly unit may reroll Scatter dice for Blast weapons against a target this unit can draw Line of Sight to. Gain Snare Mines, gain Shroud M+6. Gain Bulky, Deepstrike, Fly.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Token. The unit gains Ld+1.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -3503,7 +3503,7 @@
               <profiles>
                 <profile id="fbf7d053-518a-5b0f-9775-14fc92cc56f8" name="Doctrine: Demolitions" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Token. The unit gains Ld+1. The Sergeant gains Melta Bombs. One model in the unit gains a Demolition Charge The Squad Sv stat changes to Sv4+. Regiment rules apply after this Sv update from Grenadier. Target Friendly unit may reroll Scatter dice for Blast weapons against a target this unit can draw Line of Sight to. Gain Snare Mines, gain Shroud M+6. Gain Bulky, Deepstrike, Fly.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">The Sergeant gains Melta Bombs. One model in the unit gains a Demolition Charge.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -3518,7 +3518,7 @@
               <profiles>
                 <profile id="ef556cff-fb28-55cb-9acf-e0169ea4cae9" name="Doctrine: Grenadier" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Token. The unit gains Ld+1. The Sergeant gains Melta Bombs. One model in the unit gains a Demolition Charge The Squad Sv stat changes to Sv4+. Regiment rules apply after this Sv update from Grenadier. Target Friendly unit may reroll Scatter dice for Blast weapons against a target this unit can draw Line of Sight to. Gain Snare Mines, gain Shroud M+6. Gain Bulky, Deepstrike, Fly.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">The Squad Sv stat changes to Sv4+. Regiment rules apply after this Sv update from Grenadier.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -3533,7 +3533,7 @@
               <profiles>
                 <profile id="36c89afb-a693-55e3-82fa-bc8d286579f4" name="Doctrine: Remote Surveillance" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Token. The unit gains Ld+1. The Sergeant gains Melta Bombs. One model in the unit gains a Demolition Charge The Squad Sv stat changes to Sv4+. Regiment rules apply after this Sv update from Grenadier. Target Friendly unit may reroll Scatter dice for Blast weapons against a target this unit can draw Line of Sight to. Gain Snare Mines, gain Shroud M+6. Gain Bulky, Deepstrike, Fly.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Target Friendly unit may reroll Scatter dice for Blast weapons against a target this unit can draw Line of Sight to.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -3548,7 +3548,7 @@
               <profiles>
                 <profile id="9e487547-e2c8-5069-97d8-a54d370b5a0a" name="Doctrine: Forward Sentries" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Token. The unit gains Ld+1. The Sergeant gains Melta Bombs. One model in the unit gains a Demolition Charge The Squad Sv stat changes to Sv4+. Regiment rules apply after this Sv update from Grenadier. Target Friendly unit may reroll Scatter dice for Blast weapons against a target this unit can draw Line of Sight to. Gain Snare Mines, gain Shroud M+6. Gain Bulky, Deepstrike, Fly.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain Snare Mines, gain Shroud.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -3563,7 +3563,7 @@
               <profiles>
                 <profile id="0582317f-8f2c-5499-a582-0c2b6d9b6424" name="Doctrine: Assault Troopers" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Token. The unit gains Ld+1. The Sergeant gains Melta Bombs. One model in the unit gains a Demolition Charge The Squad Sv stat changes to Sv4+. Regiment rules apply after this Sv update from Grenadier. Target Friendly unit may reroll Scatter dice for Blast weapons against a target this unit can draw Line of Sight to. Gain Snare Mines, gain Shroud M+6. Gain Bulky, Deepstrike, Fly.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6. Gain Bulky, Deepstrike, Fly.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -9881,7 +9881,7 @@
               <profiles>
                 <profile id="6ac06fdc-7bbb-50d8-9a29-c09e97f0d189" name="Frag Launchers" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1"/>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit count as being armed with Grenades for the purposes of Charging.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -11005,7 +11005,7 @@
               <profiles>
                 <profile id="19bee98b-c26c-57c9-9b82-4b6d6f0391b2" name="Shield Dome" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit gain 5+ Invulnerability Save.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain 5+ Invulnerability Save.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>

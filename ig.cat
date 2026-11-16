@@ -1831,7 +1831,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
                   <profiles>
                     <profile id="fb1ff6a2-1a13-53bb-a567-1f1a8259821f" name="Side Skirts" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1 (or SA14).</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -3318,7 +3318,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="b6cf3316-262b-5261-b1ea-acdc782e4767" name="Carapace Armour (/Squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Reroll orders 6” Aura, +1 Attack, 6” Aura, reroll Ld tests 6” Aura, this Command Squad and target unit gain 5+ Feel No Pain Sv4+ Shroud</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ (or Sv-1, improves by 1).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -3333,7 +3333,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="906c7e0f-62dc-5fd8-abfa-1964e8847412" name="Camo Gear (/Squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Reroll orders 6” Aura, +1 Attack, 6” Aura, reroll Ld tests 6” Aura, this Command Squad and target unit gain 5+ Feel No Pain Sv4+ Shroud</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Shroud.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -4726,7 +4726,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="445c500a-49ef-5eeb-bf6e-4df9b2659407" name="Demoted" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Swap Bolt Pistol and Power Sword for Lasgun and Gifted Combat Knife. W+1, Replace Infantry Orders 1 with Infantry Orders 2</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Swap Bolt Pistol and Power Sword for Lasgun and Gifted Combat Knife.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -4741,7 +4741,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="53205705-45c4-5182-b227-d8fb8f1dc314" name="Promoted" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Swap Bolt Pistol and Power Sword for Lasgun and Gifted Combat Knife. W+1, Replace Infantry Orders 1 with Infantry Orders 2</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, Replace Infantry Orders 1 with Infantry Orders 2.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -5507,7 +5507,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="d162eedd-4a2c-5934-aaf0-cee580e74c55" name="Carapace Armour (/Squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Reroll orders 6” Aura, +1 Attack, 6” Aura, reroll Ld tests 6” Aura, this Command Squad and target unit gain 5+ Feel No Pain Sv4+ Shroud</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ (or Sv-1, improves by 1).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -5522,7 +5522,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="ba94bb38-03e6-5205-b2a5-6834b72e01fe" name="Camo Gear (/Squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Reroll orders 6” Aura, +1 Attack, 6” Aura, reroll Ld tests 6” Aura, this Command Squad and target unit gain 5+ Feel No Pain Sv4+ Shroud</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Shroud.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -6854,7 +6854,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="c8304336-6821-5d06-b7e6-5ca205fd1b44" name="Carapace Armour (/Squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Reroll orders 6” Aura, +1 Attack, 6” Aura, reroll Ld tests 6” Aura, this Command Squad and target unit gain 5+ Feel No Pain Sv4+ Shroud</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ (or Sv-1, improves by 1).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -6869,7 +6869,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="37a6f933-4505-52cf-9c78-9b33d3e172a1" name="Camo Gear (/Squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Reroll orders 6” Aura, +1 Attack, 6” Aura, reroll Ld tests 6” Aura, this Command Squad and target unit gain 5+ Feel No Pain Sv4+ Shroud</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Shroud.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -7857,7 +7857,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="8e14e22f-1bb4-5735-8eb2-44dc5bc84a59" name="Carapace Armour (/Squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ Shroud M+6, T+1, W+1, gain Steeds, Outflank, Very Bulky M+6, T+1, W+2. Gain Steeds, Very Bulky. M+6, T+1, W+1, gain Steeds, Deepstrike, Fly, Very Bulky</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ (or Sv-1, improves by 1).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -7872,7 +7872,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="052bcecb-a941-5a29-bfcc-f00b33357756" name="Camo Gear (/Squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ Shroud M+6, T+1, W+1, gain Steeds, Outflank, Very Bulky M+6, T+1, W+2. Gain Steeds, Very Bulky. M+6, T+1, W+1, gain Steeds, Deepstrike, Fly, Very Bulky</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Shroud.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -7909,7 +7909,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="883e8fbb-fbc6-5416-afae-4b4c93c4edee" name="Steeds (/Squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ Shroud M+6, T+1, W+1, gain Steeds, Outflank, Very Bulky M+6, T+1, W+2. Gain Steeds, Very Bulky. M+6, T+1, W+1, gain Steeds, Deepstrike, Fly, Very Bulky</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+1. Gain Steeds, Outflank, Very Bulky.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -7924,7 +7924,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="e5b98c47-42ec-51c8-8b15-833c50923873" name="Genetically Engineered Steeds (/Squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ Shroud M+6, T+1, W+1, gain Steeds, Outflank, Very Bulky M+6, T+1, W+2. Gain Steeds, Very Bulky. M+6, T+1, W+1, gain Steeds, Deepstrike, Fly, Very Bulky</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+2. Gain Steeds, Very Bulky.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -7939,7 +7939,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="2dc9ce6f-a5dc-5a8c-90a7-6c3e2bf7942f" name="Jetbikes (/Squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ Shroud M+6, T+1, W+1, gain Steeds, Outflank, Very Bulky M+6, T+1, W+2. Gain Steeds, Very Bulky. M+6, T+1, W+1, gain Steeds, Deepstrike, Fly, Very Bulky</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+1. Gain Steeds, Deepstrike, Fly, Very Bulky.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -8342,7 +8342,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="cddd906a-e3ec-5369-85e0-a2fe1e867640" name="Carapace Armour" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ Shroud M+6, T+1, W+1. Gain Steed, Very Bulky.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ (or Sv-1, improves by 1).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -8357,7 +8357,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="598fbe81-ed67-51e0-a258-c62481ff5846" name="Camo Gear" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ Shroud M+6, T+1, W+1. Gain Steed, Very Bulky.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Shroud.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -8372,7 +8372,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="b5f5dc21-5122-5cef-859f-eebd3bb8eeae" name="Steed" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv4+ Shroud M+6, T+1, W+1. Gain Steed, Very Bulky.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+1. Gain Steed, Very Bulky.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -10681,7 +10681,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="ba4bcbee-cd99-55b0-bf25-bc506cdc30a8" name="Steed" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+1, Gain Steed, Very Bulky</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+1. Gain Steed, Very Bulky.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -11692,7 +11692,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="773cd1ae-ff82-5d34-b3d9-9b6f5d83f789" name="Prayer: The Emperor Protects" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit gain 5+ Invulnerability Save 6” Aura, this model and target unit gain +1A and reroll 1s To Hit in combat 6” Aura, this model and target unit change Rapid Fire # weapons to Assault # weapons with the same numerical value</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain 5+ Invulnerability Save.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -11707,7 +11707,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="8d9ca33b-7998-5ac8-831b-f74a03ae054e" name="Prayer: The Emperor’s Strength" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit gain 5+ Invulnerability Save 6” Aura, this model and target unit gain +1A and reroll 1s To Hit in combat 6” Aura, this model and target unit change Rapid Fire # weapons to Assault # weapons with the same numerical value</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain +1A and reroll 1s To Hit in combat.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -11722,7 +11722,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="6a781f63-5841-5244-ba89-2b1af7310c49" name="Prayer: The Righteousness of the Emperor" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit gain 5+ Invulnerability Save 6” Aura, this model and target unit gain +1A and reroll 1s To Hit in combat 6” Aura, this model and target unit change Rapid Fire # weapons to Assault # weapons with the same numerical value</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit change Rapid Fire # weapons to Assault # weapons with the same numerical value.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -12702,7 +12702,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="5665b6a6-c3eb-5e11-80aa-c00eccb9b298" name="Prayer: The Emperor Protects" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit gain 5+ Invulnerability Save 6” Aura, this model and target unit gain +1A and reroll 1s To Hit in combat 6” Aura, this model and target unit change Rapid Fire # weapons to Assault # weapons with the same numerical value</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain 5+ Invulnerability Save.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -12717,7 +12717,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="4cabbcbf-a6f1-5cc6-9d4c-e21c9bd29718" name="Prayer: The Emperor’s Strength" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit gain 5+ Invulnerability Save 6” Aura, this model and target unit gain +1A and reroll 1s To Hit in combat 6” Aura, this model and target unit change Rapid Fire # weapons to Assault # weapons with the same numerical value</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain +1A and reroll 1s To Hit in combat.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -12732,7 +12732,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="9025eb77-607c-524f-8bae-c41c0c2d2a15" name="Prayer: The Righteousness of the Emperor" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit gain 5+ Invulnerability Save 6” Aura, this model and target unit gain +1A and reroll 1s To Hit in combat 6” Aura, this model and target unit change Rapid Fire # weapons to Assault # weapons with the same numerical value</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit change Rapid Fire # weapons to Assault # weapons with the same numerical value.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -13096,7 +13096,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="d1733168-4bbc-55c2-af5a-b82676bdf732" name="Prayer: The Emperor Protects" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit gain 5+ Invulnerability Save 6” Aura, this model and target unit gain +1A and reroll 1s To Hit in combat 6” Aura, this model and target unit change Rapid Fire # weapons to Assault # weapons with the same numerical value</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain 5+ Invulnerability Save.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -13111,7 +13111,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="c7e3dd05-1c21-529f-babe-082e98e29c1f" name="Prayer: The Emperor’s Strength" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit gain 5+ Invulnerability Save 6” Aura, this model and target unit gain +1A and reroll 1s To Hit in combat 6” Aura, this model and target unit change Rapid Fire # weapons to Assault # weapons with the same numerical value</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain +1A and reroll 1s To Hit in combat.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -13126,7 +13126,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="6f085920-fe56-5b98-9542-1e16692262dc" name="Prayer: The Righteousness of the Emperor" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit gain 5+ Invulnerability Save 6” Aura, this model and target unit gain +1A and reroll 1s To Hit in combat 6” Aura, this model and target unit change Rapid Fire # weapons to Assault # weapons with the same numerical value</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit change Rapid Fire # weapons to Assault # weapons with the same numerical value.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -13898,7 +13898,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="31bc48d6-1436-5ab6-b4a5-23252e015b75" name="Prayer: The Emperor Protects" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit gain 5+ Invulnerability Save 6” Aura, this model and target unit gain +1A and reroll 1s To Hit in combat 6” Aura, this model and target unit change Rapid Fire # weapons to Assault # weapons with the same numerical value</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain 5+ Invulnerability Save.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -13913,7 +13913,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="73c1a27c-1255-50f6-b014-49c76fd7f2ba" name="Prayer: The Emperor’s Strength" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit gain 5+ Invulnerability Save 6” Aura, this model and target unit gain +1A and reroll 1s To Hit in combat 6” Aura, this model and target unit change Rapid Fire # weapons to Assault # weapons with the same numerical value</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain +1A and reroll 1s To Hit in combat.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -13928,7 +13928,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="77404646-a40f-54cb-ab29-549693367e44" name="Prayer: The Righteousness of the Emperor" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit gain 5+ Invulnerability Save 6” Aura, this model and target unit gain +1A and reroll 1s To Hit in combat 6” Aura, this model and target unit change Rapid Fire # weapons to Assault # weapons with the same numerical value</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit change Rapid Fire # weapons to Assault # weapons with the same numerical value.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -14128,7 +14128,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="56fed2cd-1cd4-5559-b6c2-bab77b8b38ed" name="Prayer: The Emperor Protects" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit gain 5+ Invulnerability Save 6” Aura, this model and target unit gain +1A and reroll 1s To Hit in combat 6” Aura, this model and target unit change Rapid Fire # weapons to Assault # weapons with the same numerical value</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain 5+ Invulnerability Save.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -14143,7 +14143,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="69634d9c-b88e-5ed5-a368-22d5b5fbb6f1" name="Prayer: The Emperor’s Strength" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit gain 5+ Invulnerability Save 6” Aura, this model and target unit gain +1A and reroll 1s To Hit in combat 6” Aura, this model and target unit change Rapid Fire # weapons to Assault # weapons with the same numerical value</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain +1A and reroll 1s To Hit in combat.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -14158,7 +14158,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="ed8f500c-cabe-5106-8acd-ecd8aca50c76" name="Prayer: The Righteousness of the Emperor" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit gain 5+ Invulnerability Save 6” Aura, this model and target unit gain +1A and reroll 1s To Hit in combat 6” Aura, this model and target unit change Rapid Fire # weapons to Assault # weapons with the same numerical value</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit change Rapid Fire # weapons to Assault # weapons with the same numerical value.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -17466,7 +17466,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="340b8ccc-ed8b-58e9-a49b-585252354808" name="Doctrine: Cyber Mastiff" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Token. The unit gains Ld+1. The Sergeant gains Melta Bombs. One model in the unit gains a Demolition Charge The Squad Sv stat changes to Sv4+. Regiment rules apply after this Sv update from Grenadier. Target Friendly unit may reroll Scatter dice for Blast weapons against a target this unit can draw Line of Sight to. Gain Snare Mines, gain Shroud M+6. Gain Bulky, Deepstrike, Fly.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Token. The unit gains Ld+1.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -17481,7 +17481,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="48d7ffa4-4ab1-5a92-a5c9-fc5996adf3c6" name="Doctrine: Demolitions" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Token. The unit gains Ld+1. The Sergeant gains Melta Bombs. One model in the unit gains a Demolition Charge The Squad Sv stat changes to Sv4+. Regiment rules apply after this Sv update from Grenadier. Target Friendly unit may reroll Scatter dice for Blast weapons against a target this unit can draw Line of Sight to. Gain Snare Mines, gain Shroud M+6. Gain Bulky, Deepstrike, Fly.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">The Sergeant gains Melta Bombs. One model in the unit gains a Demolition Charge.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -17496,7 +17496,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="963649e4-a343-5d16-bb96-df07a25a28db" name="Doctrine: Grenadier" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Token. The unit gains Ld+1. The Sergeant gains Melta Bombs. One model in the unit gains a Demolition Charge The Squad Sv stat changes to Sv4+. Regiment rules apply after this Sv update from Grenadier. Target Friendly unit may reroll Scatter dice for Blast weapons against a target this unit can draw Line of Sight to. Gain Snare Mines, gain Shroud M+6. Gain Bulky, Deepstrike, Fly.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">The Squad Sv stat changes to Sv4+. Regiment rules apply after this Sv update from Grenadier.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -17511,7 +17511,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="5ae53050-0636-5751-9a6d-a088a3cd96db" name="Doctrine: Remote Surveillance" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Token. The unit gains Ld+1. The Sergeant gains Melta Bombs. One model in the unit gains a Demolition Charge The Squad Sv stat changes to Sv4+. Regiment rules apply after this Sv update from Grenadier. Target Friendly unit may reroll Scatter dice for Blast weapons against a target this unit can draw Line of Sight to. Gain Snare Mines, gain Shroud M+6. Gain Bulky, Deepstrike, Fly.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Target Friendly unit may reroll Scatter dice for Blast weapons against a target this unit can draw Line of Sight to.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -17526,7 +17526,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="8b05c0d1-8353-56cf-ae5e-d8c2f9e9e1af" name="Doctrine: Forward Sentries" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Token. The unit gains Ld+1. The Sergeant gains Melta Bombs. One model in the unit gains a Demolition Charge The Squad Sv stat changes to Sv4+. Regiment rules apply after this Sv update from Grenadier. Target Friendly unit may reroll Scatter dice for Blast weapons against a target this unit can draw Line of Sight to. Gain Snare Mines, gain Shroud M+6. Gain Bulky, Deepstrike, Fly.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain Snare Mines, gain Shroud.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -17541,7 +17541,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="99e45ed9-b789-52a5-8a19-5a952e22db12" name="Doctrine: Assault Troopers" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Token. The unit gains Ld+1. The Sergeant gains Melta Bombs. One model in the unit gains a Demolition Charge The Squad Sv stat changes to Sv4+. Regiment rules apply after this Sv update from Grenadier. Target Friendly unit may reroll Scatter dice for Blast weapons against a target this unit can draw Line of Sight to. Gain Snare Mines, gain Shroud M+6. Gain Bulky, Deepstrike, Fly.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6. Gain Bulky, Deepstrike, Fly.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -19436,7 +19436,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
           <profiles>
             <profile id="c7a713ff-9ab8-5732-9269-ec23417f0f08" name="Doctrine: Remote Surveillance" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
               <characteristics>
-                <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv-1 (Improves by 1) Target Friendly unit may reroll Scatter dice for Blast weapons against a target this unit can draw Line of Sight to.</characteristic>
+                <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Target Friendly unit may reroll Scatter dice for Blast weapons against a target this unit can draw Line of Sight to.</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -20056,7 +20056,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
                         <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">-</characteristic>
                         <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">-</characteristic>
                         <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">-</characteristic>
-                        <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Sv-1 (Improves by 1) Target Friendly unit may reroll Scatter dice for Blast weapons against a target this unit can draw Line of Sight to.</characteristic>
+                        <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Sv-1 (Improves by 1).</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -22999,7 +22999,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
                   <profiles>
                     <profile id="7a272ea0-7e5b-59f5-bf19-3cbbb31afd01" name="Jet Bikes (Entire 5-model Command Squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain Flying, Deepstrike. Lose Outflank W+1. Lose Outflank.</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain Flying, Deepstrike. Lose Outflank.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -23014,7 +23014,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
                   <profiles>
                     <profile id="7b8992f9-359f-5096-adc4-6a9437fa19d2" name="Genetically Engineered Steeds (Entire 5-model Command Squad)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain Flying, Deepstrike. Lose Outflank W+1. Lose Outflank.</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1. Lose Outflank.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -23486,39 +23486,53 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
                 </selectionEntry>
               </selectionEntries>
             </selectionEntryGroup>
-            <selectionEntryGroup id="5234f21e-450e-503a-93a3-a0220ff777e3" name="Squad Mount Upgrade (+2 pts per model in Squad)" hidden="false" collective="false" import="true">
+            <selectionEntryGroup id="3167dd0b-b9d5-5e51-9aa5-3a765aa31b25" name="Squad Mount Upgrade (0-1)" hidden="false" collective="false" import="true">
               <constraints>
-                <constraint id="cb01e4fe-c13d-55a0-9baa-0d1be96d5295" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="fb6b99e3-2fe4-521e-9a7f-09d67f931aba" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="756f3f8c-cf1a-5c1e-9c27-c204a2ebe36f" name="Jet Bikes (per model)" hidden="false" collective="false" import="true" type="upgrade">
+                <selectionEntry id="c96cb030-ef0b-5960-af8f-ad7ec7cdb9c9" name="Jet Bikes (+2 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
+                  <modifiers>
+                    <modifier type="increment" field="points" value="2">
+                      <repeats>
+                        <repeat field="selections" scope="38f6d58c-a8b7-507a-bd26-c5663d03571f" value="1" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="3a75a838-3106-5f82-98ec-e4d110d03e76" repeats="1" roundUp="false"/>
+                      </repeats>
+                    </modifier>
+                  </modifiers>
                   <constraints>
-                    <constraint id="48564b71-69be-518e-a577-acb3637fc19a" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                    <constraint id="1cd313e3-1451-5346-917d-7713ebd8d6b4" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
                   </constraints>
                   <profiles>
-                    <profile id="a5d52529-b915-5bb0-8050-94a57c0748ba" name="Jet Bikes (per model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+                    <profile id="c1437331-386d-5914-9747-27e9679d8588" name="Jet Bikes (+2 pts/model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain Flying, Deepstrike. Lose Outflank W+1. Lose Outflank.</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain Flying, Deepstrike. Lose Outflank.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
                   <costs>
-                    <cost name="pts" typeId="points" value="2"/>
+                    <cost name="pts" typeId="points" value="10"/>
                   </costs>
                 </selectionEntry>
-                <selectionEntry id="d6d353a3-6c5c-54ce-895f-0c604cd5d512" name="Genetically Engineered Steeds (per model)" hidden="false" collective="false" import="true" type="upgrade">
+                <selectionEntry id="0cffa351-6148-5fcc-8e19-a713f41e79eb" name="Genetically Engineered Steeds (+2 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
+                  <modifiers>
+                    <modifier type="increment" field="points" value="2">
+                      <repeats>
+                        <repeat field="selections" scope="38f6d58c-a8b7-507a-bd26-c5663d03571f" value="1" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="3a75a838-3106-5f82-98ec-e4d110d03e76" repeats="1" roundUp="false"/>
+                      </repeats>
+                    </modifier>
+                  </modifiers>
                   <constraints>
-                    <constraint id="710a34c7-fbe2-5adb-8d94-4d154eeffb2d" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                    <constraint id="de38dabb-ece5-5435-b716-543182798665" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
                   </constraints>
                   <profiles>
-                    <profile id="e4f2bb0c-11fa-5e2f-9a20-81dcd5ea876e" name="Genetically Engineered Steeds (per model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+                    <profile id="a73ed9b2-1933-5b0f-8418-eb0f3f136bcf" name="Genetically Engineered Steeds (+2 pts/model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain Flying, Deepstrike. Lose Outflank W+1. Lose Outflank.</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1. Lose Outflank.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
                   <costs>
-                    <cost name="pts" typeId="points" value="2"/>
+                    <cost name="pts" typeId="points" value="10"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -38235,7 +38249,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="b9374119-1d37-5565-a4a1-c2eaa76c72ef" name="Centaur RSV Pattern" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Lose Ammunition Cache. Gain Assault Ramps Ammunition Cache can now reload Death Strike Missiles as well. If this model is destroyed, on a 4+ the cart explodes! Center a Deathstrike Missile Blast on the Cart (or Halftrack if you do not have a Cart model) and do not scatter it.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Lose Ammunition Cache. Gain Assault Ramps.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -38344,7 +38358,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="ee1c912d-4dc5-5651-9d65-3854a8dc4be2" name="Deathstrike Cart" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Towed Deathstrike Missile Launcher upgrade for Heracles Halftrack.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Ammunition Cache can now reload Deathstrike Missiles as well. If destroyed, on a 4+ center a non-scattering Deathstrike Missile Blast on the Cart.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -40029,7 +40043,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
                   <profiles>
                     <profile id="f4272a6e-e753-594b-80ca-a598a17e0bde" name="Lucius Pattern" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+2, W-2. W-2, Baneblade Cannon and Coaxial Autocannon, Demolisher Cannon cannot be disabled. SA+1.</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+2, W-2.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -40044,7 +40058,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
                   <profiles>
                     <profile id="f4298647-f406-5deb-8d8d-3e4f44d32556" name="Mars Pattern" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+2, W-2. W-2, Baneblade Cannon and Coaxial Autocannon, Demolisher Cannon cannot be disabled. SA+1.</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W-2, Primary Hull/Turret Cannon cannot be Disabled.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -40130,7 +40144,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
                   <profiles>
                     <profile id="d4bb87f0-23c9-5fbc-a3cc-774d54cc8547" name="Side Skirts" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1 (or SA14).</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -40435,7 +40449,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="d54bbd1e-a445-538b-b1ff-db6f7fb0549b" name="Side Skirts" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1 (or SA14).</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -40735,7 +40749,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="0a7e4806-1408-5558-84cf-dba48692e947" name="Side Skirts" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1 (or SA14).</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -41032,7 +41046,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="3e31eb0d-d4a4-5be0-9bb8-24d6403a94c5" name="Side Skirts" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1 (or SA14).</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -41337,7 +41351,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="f6633d1a-aaab-5342-80fc-544132d375c3" name="Side Skirts" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1 (or SA14).</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -41578,7 +41592,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="d4ebe79a-8724-5048-9206-e02135500a9a" name="Mars Pattern" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W-2, Volcano Cannon cannot be Disabled. SA+1</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W-2, Primary Hull/Turret Cannon cannot be Disabled.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -41661,7 +41675,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="cffebf7f-c126-5f30-94d5-0ab92983820f" name="Side Skirts" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1 (or SA14).</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -41963,7 +41977,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="53812e46-40ce-586c-aac6-43ed859c24ce" name="Side Skirts" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1 (or SA14).</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -42282,7 +42296,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="a26b06f5-880c-51dc-a0aa-7dbc6d9c4a83" name="Side Skirts" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1 (or SA14).</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -42580,7 +42594,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="4e42766b-d214-5a5b-b967-078e47151589" name="Side Skirts" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1 (or SA14).</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -42922,7 +42936,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="cee3fa16-8e14-5982-be3f-5b11f8058037" name="Side Skirts" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1 (or SA14).</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -43219,7 +43233,7 @@ Vox Casters: Reroll failed Order tests if both the officer's unit and the receiv
               <profiles>
                 <profile id="47db010c-62ad-5c58-a161-d26f061d36e0" name="Side Skirts" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1 (or SA14).</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">SA+1.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>

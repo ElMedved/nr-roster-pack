@@ -682,7 +682,7 @@
               <profiles>
                 <profile id="bda08fc0-4eeb-5a47-b371-4db087fee85a" name="Praesidium Shield" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, Sv-1 (Improves by 1) W+1, Steady, Deepstrike, Ballistus Grenade Launcher M+8, T+1, W+2, Steady, Steed, Hurricane Bolter</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, Sv-1 (Improves by 1).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -697,7 +697,7 @@
               <profiles>
                 <profile id="cd441461-de57-5e38-ae6a-961dfd81659d" name="Allarus Terminator Armour" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, Sv-1 (Improves by 1) W+1, Steady, Deepstrike, Ballistus Grenade Launcher M+8, T+1, W+2, Steady, Steed, Hurricane Bolter</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, Steady, Deepstrike, Ballistus Grenade Launcher.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -712,7 +712,7 @@
               <profiles>
                 <profile id="2b2dc670-8f31-5aca-b691-da1a0f0e1db7" name="Dawneagle Jetbike" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, Sv-1 (Improves by 1) W+1, Steady, Deepstrike, Ballistus Grenade Launcher M+8, T+1, W+2, Steady, Steed, Hurricane Bolter</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+8, T+1, W+2, Steady, Steed, Hurricane Bolter.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1284,7 +1284,7 @@
               <profiles>
                 <profile id="4c6cef0a-197d-5534-8677-630780ebd285" name="Praesidium Shield" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, Sv-1 (Improves by 1) W+1, Steady, Deepstrike, Ballistus Grenade Launcher 6” Aura, this model and target unit gain A+1 6” Aura, this model and target unit gain a 4+ Invulnerability Save against ranged attacks 6” Aura, this model and target unit are -1 To Hit from ranged attacks</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, Sv-1 (Improves by 1).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1306,7 +1306,7 @@
               <profiles>
                 <profile id="fdbcf535-f425-5b43-8b56-b50421582413" name="Allarus Terminator Armour" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, Sv-1 (Improves by 1) W+1, Steady, Deepstrike, Ballistus Grenade Launcher 6” Aura, this model and target unit gain A+1 6” Aura, this model and target unit gain a 4+ Invulnerability Save against ranged attacks 6” Aura, this model and target unit are -1 To Hit from ranged attacks</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, Steady, Deepstrike, Ballistus Grenade Launcher.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1328,7 +1328,7 @@
               <profiles>
                 <profile id="d309a4da-b5bc-5bf2-8cbb-e29236862b7e" name="Vexilla Imperius" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, Sv-1 (Improves by 1) W+1, Steady, Deepstrike, Ballistus Grenade Launcher 6” Aura, this model and target unit gain A+1 6” Aura, this model and target unit gain a 4+ Invulnerability Save against ranged attacks 6” Aura, this model and target unit are -1 To Hit from ranged attacks</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain A+1.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1343,7 +1343,7 @@
               <profiles>
                 <profile id="8b9959b2-beba-550c-83f4-fb817ab22972" name="Vexilla Defensor" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, Sv-1 (Improves by 1) W+1, Steady, Deepstrike, Ballistus Grenade Launcher 6” Aura, this model and target unit gain A+1 6” Aura, this model and target unit gain a 4+ Invulnerability Save against ranged attacks 6” Aura, this model and target unit are -1 To Hit from ranged attacks</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain a 4+ Invulnerability Save against ranged attacks.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1358,7 +1358,7 @@
               <profiles>
                 <profile id="fbec9fb5-f507-51da-848e-0f07f69ff680" name="Vexilla Magnifica" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, Sv-1 (Improves by 1) W+1, Steady, Deepstrike, Ballistus Grenade Launcher 6” Aura, this model and target unit gain A+1 6” Aura, this model and target unit gain a 4+ Invulnerability Save against ranged attacks 6” Aura, this model and target unit are -1 To Hit from ranged attacks</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit are -1 To Hit from ranged attacks.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1573,7 +1573,7 @@
                   <profiles>
                     <profile id="5d199f2e-b941-518b-bfde-6a1d1993ab22" name="Praesidium Shield" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, Sv-1 (Improves by 1)</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, Sv-1 (Improves by 1).</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>

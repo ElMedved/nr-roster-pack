@@ -3735,7 +3735,7 @@
               <profiles>
                 <profile id="1c88502c-3809-5165-921e-7f518e7e7c81" name="Palanquin" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1, gain Deepstrike, Steady, Very Bulky. M+6, gain Deepstrike, Flying M+6, T+1, W+1, gain Very Bulky, Steed. M+6, W+1, gain Deepstrike, Flying. M+2, T+1, W+2, gain Steed, Goring Horn</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, W+1, gain Deepstrike, Flying.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -3754,7 +3754,7 @@
               <profiles>
                 <profile id="9d81d1df-be6e-5194-a6c0-8732d264c4b8" name="Juggernaut Steed" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1, gain Deepstrike, Steady, Very Bulky. M+6, gain Deepstrike, Flying M+6, T+1, W+1, gain Very Bulky, Steed. M+6, W+1, gain Deepstrike, Flying. M+2, T+1, W+2, gain Steed, Goring Horn</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+2, T+1, W+2, gain Steed, Goring Horn.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -4986,7 +4986,7 @@
               <profiles>
                 <profile id="3bb7bd49-f40b-57fc-b9ef-7280b7719345" name="Palanquin" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1, gain Deepstrike, Steady, Very Bulky. M+6, gain Deepstrike, Flying M+6, T+1, W+1, gain Very Bulky, Steed. M+6, W+1, gain Deepstrike, Flying.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, W+1, gain Deepstrike, Flying.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -5967,7 +5967,7 @@
               <profiles>
                 <profile id="8238c077-2281-5ca0-b3b0-c578b86d4e0c" name="Foetid Wings" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+4, gain Flying Gain Psychic Mastery Level 1 Gain Psychic Mastery Level 2 Gain Psychic Mastery Level 3</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+4, gain Flying.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -6138,7 +6138,7 @@
               <profiles>
                 <profile id="85088e31-929f-5e6b-9508-049b900a59c4" name="Collar of Khorne" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+4, gain Flying Gain Psychic Mastery Level 1 Gain Psychic Mastery Level 2 Gain Psychic Mastery Level 3</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">May Deny the Witch as if Psychic Mastery Level 2.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -6153,7 +6153,7 @@
               <profiles>
                 <profile id="9a49e1e6-4ce5-539d-95e5-8580a765cac6" name="Psychic Mastery Level 1" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+4, gain Flying Gain Psychic Mastery Level 1 Gain Psychic Mastery Level 2 Gain Psychic Mastery Level 3</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain Psychic Mastery Level 1.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -6168,7 +6168,7 @@
               <profiles>
                 <profile id="b550e5b0-eec9-5dc6-bad9-614dd7bbd482" name="Psychic Mastery Level 2" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+4, gain Flying Gain Psychic Mastery Level 1 Gain Psychic Mastery Level 2 Gain Psychic Mastery Level 3</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain Psychic Mastery Level 2.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -6183,7 +6183,7 @@
               <profiles>
                 <profile id="69c4dfab-4a05-5cee-8528-b3b9b0120528" name="Psychic Mastery Level 3" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+4, gain Flying Gain Psychic Mastery Level 1 Gain Psychic Mastery Level 2 Gain Psychic Mastery Level 3</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain Psychic Mastery Level 3.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -6638,7 +6638,7 @@
               <profiles>
                 <profile id="72c009fa-affd-5eba-87e5-60c38da0e738" name="Palanquin" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1, gain Deepstrike, Steady, Very Bulky. M+6, gain Deepstrike, Flying M+6, T+1, W+1, gain Very Bulky, Steed. M+6, W+1, gain Deepstrike, Flying. This model gains A+3. 6” Aura, target unit takes Ld tests by rolling 3d6 and discarding the lowest die. 6” Aura, this model and target unit gain BS-1 (Improves by 1). 6” Aura, target unit gains a 5+ Invulnerability Save or has their existing Invulnerability Save improved by 1 to a maximum of 4+.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, W+1, gain Deepstrike, Flying.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -6809,7 +6809,7 @@
               <profiles>
                 <profile id="dbb4738f-4ea8-5826-897d-8ebdb442f36b" name="Omen of Potency" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1, gain Deepstrike, Steady, Very Bulky. M+6, gain Deepstrike, Flying M+6, T+1, W+1, gain Very Bulky, Steed. M+6, W+1, gain Deepstrike, Flying. This model gains A+3. 6” Aura, target unit takes Ld tests by rolling 3d6 and discarding the lowest die. 6” Aura, this model and target unit gain BS-1 (Improves by 1). 6” Aura, target unit gains a 5+ Invulnerability Save or has their existing Invulnerability Save improved by 1 to a maximum of 4+.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains A+3.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -6824,7 +6824,7 @@
               <profiles>
                 <profile id="61dce472-d330-51c2-8eaf-3380427de728" name="Litany of Despair" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1, gain Deepstrike, Steady, Very Bulky. M+6, gain Deepstrike, Flying M+6, T+1, W+1, gain Very Bulky, Steed. M+6, W+1, gain Deepstrike, Flying. This model gains A+3. 6” Aura, target unit takes Ld tests by rolling 3d6 and discarding the lowest die. 6” Aura, this model and target unit gain BS-1 (Improves by 1). 6” Aura, target unit gains a 5+ Invulnerability Save or has their existing Invulnerability Save improved by 1 to a maximum of 4+.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, target unit takes Ld tests by rolling 3d6 and discarding the lowest die.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -6839,7 +6839,7 @@
               <profiles>
                 <profile id="9152c8c9-b287-5ae6-92c4-849658523860" name="Warpsight Plea" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1, gain Deepstrike, Steady, Very Bulky. M+6, gain Deepstrike, Flying M+6, T+1, W+1, gain Very Bulky, Steed. M+6, W+1, gain Deepstrike, Flying. This model gains A+3. 6” Aura, target unit takes Ld tests by rolling 3d6 and discarding the lowest die. 6” Aura, this model and target unit gain BS-1 (Improves by 1). 6” Aura, target unit gains a 5+ Invulnerability Save or has their existing Invulnerability Save improved by 1 to a maximum of 4+.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain BS-1 (Improves by 1).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -6854,7 +6854,7 @@
               <profiles>
                 <profile id="3d82e96d-a2cd-5042-9b1f-0f297fd83079" name="Illusory Supplication" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1, gain Deepstrike, Steady, Very Bulky. M+6, gain Deepstrike, Flying M+6, T+1, W+1, gain Very Bulky, Steed. M+6, W+1, gain Deepstrike, Flying. This model gains A+3. 6” Aura, target unit takes Ld tests by rolling 3d6 and discarding the lowest die. 6” Aura, this model and target unit gain BS-1 (Improves by 1). 6” Aura, target unit gains a 5+ Invulnerability Save or has their existing Invulnerability Save improved by 1 to a maximum of 4+.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, target unit gains a 5+ Invulnerability Save or improves an existing Invulnerability Save by 1 to a max of 4+.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -9671,7 +9671,7 @@
               <profiles>
                 <profile id="33cafd46-ec9a-5da0-aa03-396a47d5685d" name="Exalted" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Lose Infantry. Gain Monster.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -18981,7 +18981,7 @@
               <profiles>
                 <profile id="400d1721-635a-5a6b-a776-786d4766e184" name="Monstrous Stature (+8 pts/model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">S+1, T+1. M+4, gain Flying.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">S+1, T+1.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -19003,7 +19003,7 @@
               <profiles>
                 <profile id="41a200e9-24b5-5c20-82c2-198dbd779f90" name="Wings (+15 pts/model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">S+1, T+1. M+4, gain Flying.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+4, gain Flying.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -50075,7 +50075,7 @@
               <profiles>
                 <profile id="752a8120-eccc-50db-b301-b1d604e67e61" name="Exalted" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+2, W+1. Gain Bulky.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Lose Infantry. Gain Monster.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>

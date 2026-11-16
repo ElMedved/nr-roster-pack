@@ -868,7 +868,7 @@
               <profiles>
                 <profile id="670cb2ce-5838-5d31-8e25-63ead3b45a7e" name="Warp Jump Generator -" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Warp Jump Generator – This model ignores Terrain and models for Moving, Advancing, Charging, and Falling Back. This model may choose to move up to +2d6” instead of its normal Movement in the Movement Phase. If it does so, the unit makes a Dangerous Terrain Test. M+4, gain Deepstrike, Flying. If this model is not engaged in Melee it may go back into Reserves at the end of your Movement Phase. M+4, T+1, W+1, gain Steed, Deepstrike, Fly, Very Bulky</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Ignores Terrain and models for Moving, Advancing, Charging, and Falling Back; may move +2d6" in Movement Phase (takes Dangerous Terrain Test).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -883,7 +883,7 @@
               <profiles>
                 <profile id="b0e59cb6-e163-580c-8784-cce9714c68a9" name="Swooping Hawk Wings" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Warp Jump Generator – This model ignores Terrain and models for Moving, Advancing, Charging, and Falling Back. This model may choose to move up to +2d6” instead of its normal Movement in the Movement Phase. If it does so, the unit makes a Dangerous Terrain Test. M+4, gain Deepstrike, Flying. If this model is not engaged in Melee it may go back into Reserves at the end of your Movement Phase. M+4, T+1, W+1, gain Steed, Deepstrike, Fly, Very Bulky</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+4, gain Deepstrike, Flying. If not engaged in Melee, may go back into Reserves at the end of your Movement Phase.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -898,7 +898,7 @@
               <profiles>
                 <profile id="793893c5-5134-5817-ac29-6ebe2f314679" name="Jetbike" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Warp Jump Generator – This model ignores Terrain and models for Moving, Advancing, Charging, and Falling Back. This model may choose to move up to +2d6” instead of its normal Movement in the Movement Phase. If it does so, the unit makes a Dangerous Terrain Test. M+4, gain Deepstrike, Flying. If this model is not engaged in Melee it may go back into Reserves at the end of your Movement Phase. M+4, T+1, W+1, gain Steed, Deepstrike, Fly, Very Bulky</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+4, T+1, W+1, gain Steed, Deepstrike, Fly, Very Bulky.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1146,7 +1146,7 @@
               <profiles>
                 <profile id="55d78df8-79ed-58ab-b2ad-d68769dd0022" name="Jetbike" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+4, T+1, W+1, gain Steed, Deepstrike, Fly, Very Bulky</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+4, T+1, W+1, gain Steed, Deepstrike, Fly, Very Bulky.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -3205,7 +3205,7 @@
               <profiles>
                 <profile id="fa488b0d-9706-5c40-b42f-a409fd923365" name="Jetbike" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+4, T+1, W+1, gain Steed, Deepstrike, Fly, Very Bulky</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+4, T+1, W+1, gain Steed, Deepstrike, Fly, Very Bulky.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -4548,7 +4548,7 @@
         </profile>
         <profile id="ce00d8c7-5856-514d-a5af-875c1d3e0096" name="Shield" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
           <characteristics>
-            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">4+ Invulnerability Save</characteristic>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Sv-1 (Improves by 1).</characteristic>
           </characteristics>
         </profile>
         <profile id="a11ade8c-c67c-5ad8-833f-b2054d56e771" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -10798,7 +10798,7 @@
               <profiles>
                 <profile id="bd52f91d-6fb7-5ee5-b8c4-c91d35f70c90" name="Champion" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Lose Infantry. Gain Monstrous Infantry. Lose Infantry. Gain Monster. Lose Infantry. Gain Monster.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Lose Infantry. Gain Monstrous Infantry.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -10813,7 +10813,7 @@
               <profiles>
                 <profile id="a6370937-c833-51cb-b02e-aa6ca9aa8fdb" name="Exalted" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Lose Infantry. Gain Monstrous Infantry. Lose Infantry. Gain Monster. Lose Infantry. Gain Monster.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Lose Infantry. Gain Monster.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -10828,7 +10828,7 @@
               <profiles>
                 <profile id="eb291de7-e4d8-533f-ac82-f2a130864135" name="God of War" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Lose Infantry. Gain Monstrous Infantry. Lose Infantry. Gain Monster. Lose Infantry. Gain Monster.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Lose Infantry. Gain Monster.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>

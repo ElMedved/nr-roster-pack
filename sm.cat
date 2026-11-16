@@ -1854,7 +1854,7 @@
               <profiles>
                 <profile id="30ef762c-8889-5ccf-94f0-d7cda588845d" name="Chapter Master" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1 , Lose P and G weapons, Lose Infantry, Objective Secured. Gain Monstrous Infantry, Steady, Deepstrike. M+6, Fly, Deepstrike M+6, T+1, W+1, gain a second Stormbolter, gain Steed. W+1, A+1, gain Orbital Strike, gain Unique.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, A+1, gain Orbital Strike, gain Unique.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2342,7 +2342,7 @@
               <profiles>
                 <profile id="d7dfe37b-96ae-53ee-86f1-98a9cfd8b65e" name="Chief Chaplain" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1 , Lose P and G weapons, Lose Infantry, Objective Secured. Gain Monstrous Infantry, Steady, Deepstrike. M+6, Fly, Deepstrike M+6, T+1, W+1, gain a Stormbolter, gain Steed. W+1, A+1, may take one additional H, gain Unique. This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gain 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, A+1, may take one additional H, gain Unique.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2364,7 +2364,7 @@
               <profiles>
                 <profile id="80beb6e1-407f-51f8-a480-0321097a6874" name="Omen of Potency" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1 , Lose P and G weapons, Lose Infantry, Objective Secured. Gain Monstrous Infantry, Steady, Deepstrike. M+6, Fly, Deepstrike M+6, T+1, W+1, gain a Stormbolter, gain Steed. W+1, A+1, may take one additional H, gain Unique. This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gain 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains A+3.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2379,7 +2379,7 @@
               <profiles>
                 <profile id="b8ef3a19-a68c-551c-b83c-3d05db0f8c8d" name="Litany of Intimidation" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1 , Lose P and G weapons, Lose Infantry, Objective Secured. Gain Monstrous Infantry, Steady, Deepstrike. M+6, Fly, Deepstrike M+6, T+1, W+1, gain a Stormbolter, gain Steed. W+1, A+1, may take one additional H, gain Unique. This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gain 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, target unit takes Ld Tests on 3d6, discarding the lowest die.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2394,7 +2394,7 @@
               <profiles>
                 <profile id="620069d6-4db0-5abc-ad3f-fd8bdd528099" name="Litany of Faith" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1 , Lose P and G weapons, Lose Infantry, Objective Secured. Gain Monstrous Infantry, Steady, Deepstrike. M+6, Fly, Deepstrike M+6, T+1, W+1, gain a Stormbolter, gain Steed. W+1, A+1, may take one additional H, gain Unique. This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gain 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, target Unit gains 5+ Invulnerability Save.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2409,7 +2409,7 @@
               <profiles>
                 <profile id="f9bdbc74-c0e4-53c0-b389-56cd1bf6ce0d" name="True Sight" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1 , Lose P and G weapons, Lose Infantry, Objective Secured. Gain Monstrous Infantry, Steady, Deepstrike. M+6, Fly, Deepstrike M+6, T+1, W+1, gain a Stormbolter, gain Steed. W+1, A+1, may take one additional H, gain Unique. This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gain 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and Target unit gain BS-1 (Improves by 1).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2424,7 +2424,7 @@
               <profiles>
                 <profile id="03b4b7c4-50a1-515d-9d15-2ac322ce43b7" name="Exhortation of Rage" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1 , Lose P and G weapons, Lose Infantry, Objective Secured. Gain Monstrous Infantry, Steady, Deepstrike. M+6, Fly, Deepstrike M+6, T+1, W+1, gain a Stormbolter, gain Steed. W+1, A+1, may take one additional H, gain Unique. This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gain 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2839,7 +2839,7 @@
               <profiles>
                 <profile id="4f6c83b0-4905-5fc5-b182-6a6ec71538ef" name="Chief Chaplain" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">A+1, may take one additional H, gain Unique. This model ignores Models and Terrain when Moving, Advancing, Charging, or Falling Back This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gain 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, A+1, may take one additional H, gain Unique.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2904,7 +2904,7 @@
               <profiles>
                 <profile id="dbd052c2-7e27-550b-8420-ead5fde7b9c2" name="Magna Grapple" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">A+1, may take one additional H, gain Unique. This model ignores Models and Terrain when Moving, Advancing, Charging, or Falling Back This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gain 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model ignores Models and Terrain when Moving, Advancing, Charging, or Falling Back.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2923,7 +2923,7 @@
               <profiles>
                 <profile id="27f2d38c-5d31-5fbd-9314-b68219ff4f7c" name="Omen of Potency" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">A+1, may take one additional H, gain Unique. This model ignores Models and Terrain when Moving, Advancing, Charging, or Falling Back This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gain 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains A+3.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2938,7 +2938,7 @@
               <profiles>
                 <profile id="30f72be6-7c8b-598a-8032-e920da0a4e5d" name="Litany of Intimidation" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">A+1, may take one additional H, gain Unique. This model ignores Models and Terrain when Moving, Advancing, Charging, or Falling Back This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gain 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, target unit takes Ld Tests on 3d6, discarding the lowest die.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2953,7 +2953,7 @@
               <profiles>
                 <profile id="a78e5687-b518-5f87-a2f0-0548d618c75f" name="Litany of Faith" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">A+1, may take one additional H, gain Unique. This model ignores Models and Terrain when Moving, Advancing, Charging, or Falling Back This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gain 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, target Unit gains 5+ Invulnerability Save.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2968,7 +2968,7 @@
               <profiles>
                 <profile id="32525ffc-2e4a-5611-b07c-1ab4a86bec91" name="True Sight" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">A+1, may take one additional H, gain Unique. This model ignores Models and Terrain when Moving, Advancing, Charging, or Falling Back This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gain 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and Target unit gain BS-1 (Improves by 1).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2983,7 +2983,7 @@
               <profiles>
                 <profile id="509e7883-23c2-59fa-bce9-0b0555691847" name="Exhortation of Rage" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">A+1, may take one additional H, gain Unique. This model ignores Models and Terrain when Moving, Advancing, Charging, or Falling Back This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gain 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -3184,7 +3184,7 @@
               <profiles>
                 <profile id="5c212493-b9f7-5b78-a53c-c67039ea925e" name="Frag Launchers" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit count as being armed with Grenades for the purposes of Charging.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit count as being armed with Grenades for the purposes of Charging.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -3798,7 +3798,7 @@
               <profiles>
                 <profile id="91a107f0-1a9e-5035-8427-07e9bda2669a" name="Chief Librarian" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1, Lose P and G weapons, Lose Infantry, Objective Secured. Gain Monstrous Infantry, Steady, Deepstrike. W+1, A+1, gain Psychic Mastery +1, may Deny the Witch twice per Psychic Phase, gain Unique.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, A+1, gain Psychic Mastery +1, may Deny the Witch twice per Psychic Phase, gain Unique.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -4141,7 +4141,7 @@
               <profiles>
                 <profile id="ad280e16-fed5-59da-8c77-7800118b4905" name="Magna Grapple" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model ignores Models and Terrain when Moving, Advancing, Charging, or Falling Back A+1, gain Psychic Mastery +1, may Deny the Witch twice per Psychic Phase, gain Unique.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model ignores Models and Terrain when Moving, Advancing, Charging, or Falling Back.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -4163,7 +4163,7 @@
               <profiles>
                 <profile id="e4a228f3-d528-584d-9d27-a5959a0da690" name="Chief Librarian" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model ignores Models and Terrain when Moving, Advancing, Charging, or Falling Back A+1, gain Psychic Mastery +1, may Deny the Witch twice per Psychic Phase, gain Unique.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, A+1, gain Psychic Mastery +1, may Deny the Witch twice per Psychic Phase, gain Unique.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -4809,7 +4809,7 @@
               <profiles>
                 <profile id="bec67f36-aa20-5432-97aa-5b4c02cca86b" name="Chapter Master" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Infiltrate, Stealth M-2, W+1. Gain Monstrous Infantry, Deepstrike, Steady, Very Bulky. Lose Infantry, Grenades. M+6. Gain Deepstrike, Flying. M+6, T+1, W+2, gain 2 Linked Bolt Rifles, gain Steed, Devastating Charge. W+1, A+1, gain Orbital Strike, gain Unique.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, A+1, gain Orbital Strike, gain Unique.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -5182,7 +5182,7 @@
               <profiles>
                 <profile id="72d318e1-3794-5b28-9ee4-647eabe72f03" name="Chief Chaplain" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1. Gain Deepstrike, Steady, Very Bulky. Lose Very Bulky, Grenades. M+6. Gain Deepstrike, Fly. M+6, T+1, W+2, gain 2 Linked Bolt Rifles, gain Steed, Devastating Charge. W+1, A+1, may take one additional H, gain Unique. This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gain 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, A+1, may take one additional H, gain Unique.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -5204,7 +5204,7 @@
               <profiles>
                 <profile id="4a62fa92-393c-5acc-a68f-77003ae3012b" name="Omen of Potency" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1. Gain Deepstrike, Steady, Very Bulky. Lose Very Bulky, Grenades. M+6. Gain Deepstrike, Fly. M+6, T+1, W+2, gain 2 Linked Bolt Rifles, gain Steed, Devastating Charge. W+1, A+1, may take one additional H, gain Unique. This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gain 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains A+3.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -5219,7 +5219,7 @@
               <profiles>
                 <profile id="c7061a0e-ba91-504d-b681-c3cd98df1197" name="Litany of Intimidation" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1. Gain Deepstrike, Steady, Very Bulky. Lose Very Bulky, Grenades. M+6. Gain Deepstrike, Fly. M+6, T+1, W+2, gain 2 Linked Bolt Rifles, gain Steed, Devastating Charge. W+1, A+1, may take one additional H, gain Unique. This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gain 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, target unit takes Ld Tests on 3d6, discarding the lowest die.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -5234,7 +5234,7 @@
               <profiles>
                 <profile id="a3365311-4ae1-56a9-a405-b47e3ec53d4e" name="Litany of Faith" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1. Gain Deepstrike, Steady, Very Bulky. Lose Very Bulky, Grenades. M+6. Gain Deepstrike, Fly. M+6, T+1, W+2, gain 2 Linked Bolt Rifles, gain Steed, Devastating Charge. W+1, A+1, may take one additional H, gain Unique. This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gain 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, target Unit gains 5+ Invulnerability Save.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -5249,7 +5249,7 @@
               <profiles>
                 <profile id="59ce8d0e-7fc9-55bf-8426-cc5e8dab18f9" name="True Sight" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1. Gain Deepstrike, Steady, Very Bulky. Lose Very Bulky, Grenades. M+6. Gain Deepstrike, Fly. M+6, T+1, W+2, gain 2 Linked Bolt Rifles, gain Steed, Devastating Charge. W+1, A+1, may take one additional H, gain Unique. This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gain 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and Target unit gain BS-1 (Improves by 1).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -5264,7 +5264,7 @@
               <profiles>
                 <profile id="f76d773a-c6b4-5d99-ad62-52c166e08b5b" name="Exhortation of Rage" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1. Gain Deepstrike, Steady, Very Bulky. Lose Very Bulky, Grenades. M+6. Gain Deepstrike, Fly. M+6, T+1, W+2, gain 2 Linked Bolt Rifles, gain Steed, Devastating Charge. W+1, A+1, may take one additional H, gain Unique. This model gains A+3 6” Aura, target unit takes Ld Tests on 3d6, discarding the lowest die. 6” Aura, target Unit gain 5+ Invulnerability Save. 6” Aura, this model and Target unit gain BS-1 (Improves by 1). 6” Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target Unit gain A+1 and reroll 1s To Wound in Melee.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -5675,7 +5675,7 @@
               <profiles>
                 <profile id="01f69acd-f0c8-5acb-adc0-8652adee7d51" name="Chief Librarian" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Infiltrate, Stealth M-2, W+1. Gain Monstrous Infantry, Deepstrike, Steady, Very Bulky. Lose Infantry, Grenades. W+1, A+1, gain Psychic Mastery +1, may Deny the Witch twice per Psychic Phase, gain Unique.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, A+1, gain Psychic Mastery +1, may Deny the Witch twice per Psychic Phase, gain Unique.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -5871,7 +5871,7 @@
               <profiles>
                 <profile id="c7fb7b77-3e17-5a96-b825-c868edd89ed8" name="Terminator" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+1, gain a Stormbolter, gain Steed. M-2, W+1, Lose P and G weapons, Gain a Stormbolter, Lose Infantry, Objective Secured. Gain Monstrous Infantry, Steady, Deepstrike, 5+ Invulnerability Save. W+1, A+1, 6” Aura – This model and target unit may reroll 1s for Feel No Pain. Gain Unique.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1, Lose P and G weapons, Gain a Stormbolter, Lose Infantry, Objective Secured. Gain Monstrous Infantry, Steady, Deepstrike, 5+ Invulnerability Save.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -5893,7 +5893,7 @@
               <profiles>
                 <profile id="b6e1e65d-dace-557c-8644-88b236f6f273" name="Chief Apothecary" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+1, gain a Stormbolter, gain Steed. M-2, W+1, Lose P and G weapons, Gain a Stormbolter, Lose Infantry, Objective Secured. Gain Monstrous Infantry, Steady, Deepstrike, 5+ Invulnerability Save. W+1, A+1, 6” Aura – This model and target unit may reroll 1s for Feel No Pain. Gain Unique.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, A+1, 6" Aura – This model and target unit may reroll 1s for Feel No Pain. Gain Unique.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -6533,7 +6533,7 @@
               <profiles>
                 <profile id="028acd54-2be4-56c9-ad8d-837410984fd9" name="Terminator (.)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+1, gain a Stormbolter, gain Steed. M-2, W+1, Lose P and G weapons, Gain a Stormbolter, Lose Infantry, Objective Secured. Gain Monstrous Infantry, Steady, Deepstrike, 5+ Invulnerability Save. W+1, A+1, 6” Aura – this model and target unit may make an Immediate Free Shooting Phase against any unit that just arrived from Reserves that is in range.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M-2, W+1, Lose P and G weapons, Gain a Stormbolter, Lose Infantry, Objective Secured. Gain Monstrous Infantry, Steady, Deepstrike, 5+ Invulnerability Save.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -6555,7 +6555,7 @@
               <profiles>
                 <profile id="9884c89c-21be-5ac3-8738-3000510bf554" name="Chapter Ancient" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+1, gain a Stormbolter, gain Steed. M-2, W+1, Lose P and G weapons, Gain a Stormbolter, Lose Infantry, Objective Secured. Gain Monstrous Infantry, Steady, Deepstrike, 5+ Invulnerability Save. W+1, A+1, 6” Aura – this model and target unit may make an Immediate Free Shooting Phase against any unit that just arrived from Reserves that is in range.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, A+1, 6" Aura – This model and target unit may make an immediate free Shooting attack against any unit arriving from Reserves in range.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -6842,7 +6842,7 @@
               <profiles>
                 <profile id="ddaceeb0-143e-5146-877d-bb0192d88284" name="Chapter Champion" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+1, gain a Stormbolter, gain Steed. W+1, I+1, A+1, Reroll all failed To Hit and To Wound rolls. Gain Unique.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, I+1, A+1, Reroll all failed To Hit and To Wound rolls. Gain Unique.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -7158,7 +7158,7 @@
               <profiles>
                 <profile id="3fa07a0c-dad2-5b1a-9139-1d1137a18ab5" name="Chief Apothecary" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, A+1, 6” Aura – This model and target unit may reroll 1s for Feel No Pain. Gain Unique.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, A+1, 6" Aura – This model and target unit may reroll 1s for Feel No Pain. Gain Unique.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -7334,7 +7334,7 @@
               <profiles>
                 <profile id="bcad8bf4-55d6-5821-bdea-0e7918d5802b" name="Chapter Ancient" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, A+1, 6” Aura – this model and target unit may make an Immediate Free Shooting Phase against any unit that just arrived from Reserves that is in range.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, A+1, 6" Aura – This model and target unit may make an immediate free Shooting attack against any unit arriving from Reserves in range.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -8702,7 +8702,7 @@
               <profiles>
                 <profile id="195e6199-8c1f-56d8-a898-4fface44871e" name="Master of the Forge" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+1, gain a Stormbolter, gain Steed. W+1, A+1, Gain Repair D3 Wounds. May use both versions of Repair on the same target, gain Unique.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, A+1, Gain Repair D3 Wounds. May use both versions of Repair on the same target, gain Unique.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -8863,7 +8863,7 @@
               <profiles>
                 <profile id="3d5e5ab6-6379-5f32-affa-79d2ded96504" name="Master of the Forge" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, T+1, W+1, gain a Stormbolter, gain Steed. W+1, A+1, Gain Repair D3 Wounds. May use both versions of Repair on the same target, gain Unique.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">W+1, A+1, Gain Repair D3 Wounds. May use both versions of Repair on the same target, gain Unique.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -9259,7 +9259,7 @@
               <profiles>
                 <profile id="a6969cca-8a98-5ad9-b65b-702ee469a472" name="Jump Packs (+10 pts/model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6. Gain Deepstrike, Flying.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6. Gains Bulky, Fly.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -9954,7 +9954,7 @@
                   <profiles>
                     <profile id="b2d8e304-0b78-5399-be25-2e4731cfb6b2" name="Infiltrator Comms Array" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This unit is considered to always be in range of Auras that allow the reroll of 1s To Hit. This unit ignores the first Wound suffered in each phase.</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This unit is considered to always be in range of Auras that allow the reroll of 1s To Hit.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -10003,7 +10003,7 @@
               <profiles>
                 <profile id="2af156a8-9193-5368-b6d6-60d01161beba" name="Helix Gauntlet (+2 pts/model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This unit is considered to always be in range of Auras that allow the reroll of 1s To Hit. This unit ignores the first Wound suffered in each phase.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This unit ignores the first Wound suffered in each phase.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -19844,7 +19844,7 @@
               <profiles>
                 <profile id="bc1d1daf-a28d-52b4-ac08-71491643240a" name="Blizzard Shield" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">4+ Invulnerability Save This model ignores Models and Terrain when Moving, Advancing, Charging, or Falling Back</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">4+ Invulnerability Save.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -19875,7 +19875,7 @@
               <profiles>
                 <profile id="f4de2009-d082-5a11-9b63-df31fbeea38b" name="Magna Grapple" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">4+ Invulnerability Save This model ignores Models and Terrain when Moving, Advancing, Charging, or Falling Back</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model ignores Models and Terrain when Moving, Advancing, Charging, or Falling Back.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -20668,7 +20668,7 @@
                   <profiles>
                     <profile id="cc7ff65c-2936-508c-8a24-73ae8a631ff5" name="Blizzard Shield" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">4+ Invulnerability Save This model ignores Models and Terrain when Moving, Advancing, Charging, or Falling Back</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">4+ Invulnerability Save.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -20699,7 +20699,7 @@
                   <profiles>
                     <profile id="f8c1058d-182f-5e90-acd2-349d4c5d73c3" name="Magna Grapple" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">4+ Invulnerability Save This model ignores Models and Terrain when Moving, Advancing, Charging, or Falling Back</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model ignores Models and Terrain when Moving, Advancing, Charging, or Falling Back.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -22263,7 +22263,7 @@
               <profiles>
                 <profile id="5139aa9e-7428-5cf1-b624-9f39b3cf4e06" name="Jump Packs (+10 pts/model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6, Deepstrike, Fly</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6. Gains Bulky, Fly.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -25039,7 +25039,7 @@
                   <profiles>
                     <profile id="7051d1eb-149b-577a-bb6e-52a99eb80f68" name="Data Link" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Target Whirlwind unit may reroll the Scatter Dice for templates</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Target friendly artillery/Whirlwind unit may reroll Scatter Dice.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -25326,7 +25326,7 @@
                   <profiles>
                     <profile id="e7edbeb9-8b0a-53ad-b0bc-e4dfc2bb8383" name="Data Link" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Target Whirlwind unit may reroll the Scatter Dice for templates</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Target friendly artillery/Whirlwind unit may reroll Scatter Dice.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -30573,7 +30573,7 @@
               <profiles>
                 <profile id="9ea0f390-8abf-53b8-abe6-b500a7465c8e" name="Frag Launchers" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit count as being armed with Grenades for the purposes of Charging.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit count as being armed with Grenades for the purposes of Charging.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -30809,7 +30809,7 @@
               <profiles>
                 <profile id="4c696272-e915-5b59-8545-33d0d31c837b" name="Frag Launchers" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit count as being armed with Grenades for the purposes of Charging.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit count as being armed with Grenades for the purposes of Charging.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -33741,7 +33741,7 @@
               <profiles>
                 <profile id="cdc246a9-fb34-598b-bcb9-a015bfb06fdc" name="Shield Dome" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit gain 5+ Invulnerability Save.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain 5+ Invulnerability Save.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>

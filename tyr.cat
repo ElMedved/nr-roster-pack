@@ -931,7 +931,7 @@
               <profiles>
                 <profile id="23b8cf5b-530b-5c5c-8b5b-911ae3680682" name="Rumbling Roar" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">18” Aura, target unit suffers Ld-1 and must take a Fear Test 18” aura, target unit suffers Ld-2 and must take a Pinning Test</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">18" Aura, target unit suffers Ld-1 and must take a Fear Test.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -946,7 +946,7 @@
               <profiles>
                 <profile id="2a7b23d7-afa5-55fd-bfe4-d53dae11bddb" name="Piercing Screech" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">18” Aura, target unit suffers Ld-1 and must take a Fear Test 18” aura, target unit suffers Ld-2 and must take a Pinning Test</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">18" Aura, target unit suffers Ld-2 and must take a Pinning Test.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1380,7 +1380,7 @@
               <profiles>
                 <profile id="543ec63a-0b6d-54af-b5cc-7cd53eb7b87e" name="Rumbling Roar" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">18” Aura, target unit suffers Ld-1 and must take a Fear Test 18” aura, target unit suffers Ld-2 and must take a Pinning Test</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">18" Aura, target unit suffers Ld-1 and must take a Fear Test.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1395,7 +1395,7 @@
               <profiles>
                 <profile id="efc90f87-4ea8-52c3-b129-706f521214c2" name="Piercing Screech" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">18” Aura, target unit suffers Ld-1 and must take a Fear Test 18” aura, target unit suffers Ld-2 and must take a Pinning Test</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">18" Aura, target unit suffers Ld-2 and must take a Pinning Test.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -7613,7 +7613,7 @@
                   <profiles>
                     <profile id="0815630a-e577-50b8-976e-9b98b4d2dfe4" name="Spore Cysts (per model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model always has a 5+ Cover Save All models, friend or foe, in base Contact suffer a S4 AP- Auto Hit each Melee Phase at Initiative 0. BS-1 (improved by 1) Gain A+1 on the first round of combat after you successfully charge. 6” Aura, target unit suffers Ld-2 6” Aura, target unit suffers Ld-1 and must take a Fear Test.</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model always has a 5+ Cover Save.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -7628,7 +7628,7 @@
                   <profiles>
                     <profile id="3ec50518-e2ea-5263-b6cb-c47331d2d98b" name="Chitin Thorns (per model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model always has a 5+ Cover Save All models, friend or foe, in base Contact suffer a S4 AP- Auto Hit each Melee Phase at Initiative 0. BS-1 (improved by 1) Gain A+1 on the first round of combat after you successfully charge. 6” Aura, target unit suffers Ld-2 6” Aura, target unit suffers Ld-1 and must take a Fear Test.</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">All models, friend or foe, in base contact suffer a S4 AP- Auto Hit each Melee Phase at Initiative 0.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -7650,7 +7650,7 @@
                   <profiles>
                     <profile id="bdfff8ac-dcd9-55f4-bc5a-7090caa208a7" name="Enhanced Senses (per model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model always has a 5+ Cover Save All models, friend or foe, in base Contact suffer a S4 AP- Auto Hit each Melee Phase at Initiative 0. BS-1 (improved by 1) Gain A+1 on the first round of combat after you successfully charge. 6” Aura, target unit suffers Ld-2 6” Aura, target unit suffers Ld-1 and must take a Fear Test.</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">BS-1 (Improves by 1).</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -7680,7 +7680,7 @@
                   <profiles>
                     <profile id="dd7d95e7-8917-5fa2-8fa0-4f8c4d552204" name="Tusks (per model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model always has a 5+ Cover Save All models, friend or foe, in base Contact suffer a S4 AP- Auto Hit each Melee Phase at Initiative 0. BS-1 (improved by 1) Gain A+1 on the first round of combat after you successfully charge. 6” Aura, target unit suffers Ld-2 6” Aura, target unit suffers Ld-1 and must take a Fear Test.</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain A+1 on the first round of combat after you successfully charge.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -7695,7 +7695,7 @@
                   <profiles>
                     <profile id="2a76ad55-42ec-52aa-895c-5c5a356e9809" name="Screamer (per model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model always has a 5+ Cover Save All models, friend or foe, in base Contact suffer a S4 AP- Auto Hit each Melee Phase at Initiative 0. BS-1 (improved by 1) Gain A+1 on the first round of combat after you successfully charge. 6” Aura, target unit suffers Ld-2 6” Aura, target unit suffers Ld-1 and must take a Fear Test.</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, target unit suffers Ld-2.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -7710,7 +7710,7 @@
                   <profiles>
                     <profile id="8ba2fcdb-37c9-53ad-8747-50a8184b358c" name="Terror (per model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model always has a 5+ Cover Save All models, friend or foe, in base Contact suffer a S4 AP- Auto Hit each Melee Phase at Initiative 0. BS-1 (improved by 1) Gain A+1 on the first round of combat after you successfully charge. 6” Aura, target unit suffers Ld-2 6” Aura, target unit suffers Ld-1 and must take a Fear Test.</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, target unit suffers Ld-1 and must take a Fear Test.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -9631,7 +9631,7 @@
               <profiles>
                 <profile id="23ae66e9-dbd3-5d5f-8a84-9304ba932b79" name="Incendiary Ichor" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">For each unsaved Wound suffered in Melee during the Melee Phase, inflict 1 Auto Hit S8 AP2+ attack on the unit that inflicted it. Termagaunt Gestation – During your Command Phase, spawn 2d6 Termagaunts with the default options on their Datasheet within 6”.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">For each unsaved Wound suffered in Melee during the Melee Phase, inflict 1 Auto Hit S8 AP2+ attack on the unit that inflicted it.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -9646,7 +9646,7 @@
               <profiles>
                 <profile id="a60d9008-5f7a-5875-9dc5-f9436b879c42" name="Termagaunt Gestation" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">For each unsaved Wound suffered in Melee during the Melee Phase, inflict 1 Auto Hit S8 AP2+ attack on the unit that inflicted it. Termagaunt Gestation – During your Command Phase, spawn 2d6 Termagaunts with the default options on their Datasheet within 6”.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">During your Command Phase, spawn 2d6 Termagaunts with the default options on their Datasheet within 6".</characteristic>
                   </characteristics>
                 </profile>
               </profiles>

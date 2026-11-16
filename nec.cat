@@ -2014,7 +2014,7 @@
               <profiles>
                 <profile id="0127077b-86c9-5170-83c8-a0972fbd174b" name="Translocation Shroud" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model and its unit at the end of any of your Movement Phases may go into Reserve and immediately Deepstrike. This cannot take place if this model or its unit is Locked in Melee. This special Deepstrike does not grant the usual 4+ Cover Save.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">At the end of any of your Movement Phases, this model and its unit (if not Locked in Melee) may go into Reserve and immediately Deepstrike (without the 4+ Cover Save).</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2920,7 +2920,7 @@
               <profiles>
                 <profile id="d97633fb-9e61-5e10-b92a-13dd49df0f34" name="Canoptek Cloak" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6 and Fly. 6” Aura, target Canoptek Unit gains +1 To Hit.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6 and Fly.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2935,7 +2935,7 @@
               <profiles>
                 <profile id="5b76484d-8d18-5443-9d33-90fd506e3718" name="Canoptek Control Node" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6 and Fly. 6” Aura, target Canoptek Unit gains +1 To Hit.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, target Canoptek Unit gains +1 To Hit.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -3804,7 +3804,7 @@
               <profiles>
                 <profile id="c0bfd6a5-67cf-507b-b483-034cc0a454a0" name="Reanimator" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, target unit may reroll one failed Reanimation roll, even if it has already been rerolled. 6” Aura, this model and target unit count as double the models for Contesting Objective Markers.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, target unit may reroll one failed Reanimation roll, even if it has already been rerolled.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -3819,7 +3819,7 @@
               <profiles>
                 <profile id="1af404e4-903f-5a22-a0aa-29f5115ea342" name="Sparker" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, target unit may reroll one failed Reanimation roll, even if it has already been rerolled. 6” Aura, this model and target unit count as double the models for Contesting Objective Markers.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit count as double the models for Contesting Objective Markers.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -4093,7 +4093,7 @@
                   <profiles>
                     <profile id="31e8cda5-b7ad-5e93-b55a-39d643439712" name="Repair Drones" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Repair 1 Wound on Target unit within 3”. On a 5+, repair one Disabled Weapon, Crew Stun, Immobilize, or Weapon Destroyed result. Repair d3 Wounds to target Vehicle within 3” 6” Aura, target unit gains +1 to Reanimation Rolls. This can never be improved to better than 4+, though rerolls still apply. In your Command Phase, you may add one Scarab Swarm to an existing Scarab unit within 6”. This may not exceed the maximum size of the unit. The same unit may not benefit from this more than once per Turn.</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Repair 1 Wound on Target unit within 3". On a 5+, repair one Disabled Weapon, Crew Stun, Immobilize, or Weapon Destroyed result.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -4108,7 +4108,7 @@
                   <profiles>
                     <profile id="ab730cd3-a5a6-5585-a291-464cc79da28a" name="Fabricator Array" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Repair 1 Wound on Target unit within 3”. On a 5+, repair one Disabled Weapon, Crew Stun, Immobilize, or Weapon Destroyed result. Repair d3 Wounds to target Vehicle within 3” 6” Aura, target unit gains +1 to Reanimation Rolls. This can never be improved to better than 4+, though rerolls still apply. In your Command Phase, you may add one Scarab Swarm to an existing Scarab unit within 6”. This may not exceed the maximum size of the unit. The same unit may not benefit from this more than once per Turn.</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Repair d3 Wounds to target Vehicle within 3".</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -4123,7 +4123,7 @@
                   <profiles>
                     <profile id="87a03a83-693b-56bb-b492-57b3185b78b0" name="Repair Barge" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Repair 1 Wound on Target unit within 3”. On a 5+, repair one Disabled Weapon, Crew Stun, Immobilize, or Weapon Destroyed result. Repair d3 Wounds to target Vehicle within 3” 6” Aura, target unit gains +1 to Reanimation Rolls. This can never be improved to better than 4+, though rerolls still apply. In your Command Phase, you may add one Scarab Swarm to an existing Scarab unit within 6”. This may not exceed the maximum size of the unit. The same unit may not benefit from this more than once per Turn.</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, target unit gains +1 to Reanimation Rolls (to a max of 4+).</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -4138,7 +4138,7 @@
                   <profiles>
                     <profile id="402463d3-bb13-5279-90a7-0f23f9bc1b10" name="Scarab Hive" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Repair 1 Wound on Target unit within 3”. On a 5+, repair one Disabled Weapon, Crew Stun, Immobilize, or Weapon Destroyed result. Repair d3 Wounds to target Vehicle within 3” 6” Aura, target unit gains +1 to Reanimation Rolls. This can never be improved to better than 4+, though rerolls still apply. In your Command Phase, you may add one Scarab Swarm to an existing Scarab unit within 6”. This may not exceed the maximum size of the unit. The same unit may not benefit from this more than once per Turn.</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">In your Command Phase, you may add one Scarab Swarm to an existing Scarab unit within 6" (up to max unit size, once per unit per turn).</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -4994,7 +4994,7 @@
               <profiles>
                 <profile id="44f63318-3a09-5038-ac2b-9f740e358528" name="Nebuloscope (model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Ranged attacks from this model inflict a -1 Cover Save. Shroud This model has Sv3+</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Ranged attacks from this model inflict a -1 Cover Save.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -5009,7 +5009,7 @@
               <profiles>
                 <profile id="4f9d2043-cee2-5c5a-b001-496f4dad30ff" name="Shadowloom (model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Ranged attacks from this model inflict a -1 Cover Save. Shroud This model has Sv3+</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Shroud.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -5031,7 +5031,7 @@
               <profiles>
                 <profile id="0f13ee98-f861-5d43-ac39-6ca6cd6fa27f" name="Shield Vanes (model)" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Ranged attacks from this model inflict a -1 Cover Save. Shroud This model has Sv3+</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has Sv3+.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
