@@ -6881,7 +6881,7 @@
             <constraint id="5e0e9764-1fab-51e1-ab8d-04212ddcf89e" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="dc03f852-1608-5d6f-a94f-6c969d85372a" name="EMP Grenades" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="dc03f852-1608-5d6f-a94f-6c969d85372a" name="EMP Grenades (+2 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="2">
                   <repeats>
@@ -11922,7 +11922,7 @@
             <constraint id="06ab3e04-6624-5154-959e-ef11d7863156" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="397161f3-6496-52f7-95b7-98326f0f55ac" name="EMP Grenades" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="397161f3-6496-52f7-95b7-98326f0f55ac" name="EMP Grenades (+2 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="2">
                   <repeats>

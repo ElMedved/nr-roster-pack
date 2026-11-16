@@ -717,7 +717,7 @@
               <profiles>
                 <profile id="96b83cd1-9c5d-57c4-9de5-e112e636b2d8" name="Mindshackle Scarabs" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1"/>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, target non-Titanic model in a Challenge with this model suffers -1 To Hit.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -732,7 +732,7 @@
               <profiles>
                 <profile id="77323b0a-9f55-523c-adcf-a9652be9165f" name="Phase Shifter" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1"/>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -954,7 +954,7 @@
               <profiles>
                 <profile id="0a8e0f28-97af-562c-93f1-1cd9456c8fca" name="Mindshackle Scarabs" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1"/>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, target non-Titanic model in a Challenge with this model suffers -1 To Hit.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -969,7 +969,7 @@
               <profiles>
                 <profile id="2d5aca46-371a-57be-84d5-f290e8eb592b" name="Phase Shifter" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1"/>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1215,7 +1215,7 @@
               <profiles>
                 <profile id="17e0f4ab-d05a-5554-b9fc-0d467dede4ee" name="Mindshackle Scarabs" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1"/>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, target non-Titanic model in a Challenge with this model suffers -1 To Hit.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1230,7 +1230,7 @@
               <profiles>
                 <profile id="42641f23-43c6-519b-bd55-fc679e8a7cab" name="Phase Shifter" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1"/>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1360,7 +1360,7 @@
               <profiles>
                 <profile id="623d2f30-6b67-5e1d-ad57-8d2e5f968231" name="Mindshackle Scarabs" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1"/>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, target non-Titanic model in a Challenge with this model suffers -1 To Hit.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1375,7 +1375,7 @@
               <profiles>
                 <profile id="21812e8c-68d0-51a5-92fb-72bee2bb12a4" name="Phase Shifter" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1"/>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1452,6 +1452,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">5</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">10</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="5cb3fe96-7bf2-5381-8f1f-c2b6e938445e" name="Phase Shifter" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="a6a2ce91-3761-5cb4-86aa-13ccfbc096a6" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -1612,6 +1617,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">5</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">10</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="ce7a9b12-dd68-5993-9ee8-592ff1cd4116" name="Phase Shifter" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="d6d592dc-1cee-5f12-9214-3a21c968961e" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -1964,7 +1974,7 @@
               <profiles>
                 <profile id="9e3acc9f-7124-5e65-bbd0-27b87ca0e1eb" name="Mindshackle Scarabs" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model and its unit at the end of any of your Movement Phases may go into Reserve and immediately Deepstrike. This cannot take place if this model or its unit is Locked in Melee. This special Deepstrike does not grant the usual 4+ Cover Save.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, target non-Titanic model in a Challenge with this model suffers -1 To Hit.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1979,7 +1989,7 @@
               <profiles>
                 <profile id="17816e6b-cd67-5737-96c2-b17d4eb401e7" name="Phase Shifter" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model and its unit at the end of any of your Movement Phases may go into Reserve and immediately Deepstrike. This cannot take place if this model or its unit is Locked in Melee. This special Deepstrike does not grant the usual 4+ Cover Save.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2071,6 +2081,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">5</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">10</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="6511063d-346a-562f-8493-3d81cf90f065" name="Phase Shifter" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="d5b99540-5efe-58ee-b86e-8de10d07b6ee" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -2226,14 +2241,14 @@
             <constraint id="b92aa79a-0e4a-52ea-b0d6-280bb3081993" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="3521d058-c32d-53ee-bb28-c20de5f86cf2" name="Countertemporal Nanomines for" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="32b126a7-12c0-514e-8f21-60e9b24c76aa" name="Countertemporal Nanomines" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="b7b387ed-b6e6-5a99-bc0c-042339c2d042" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="465053e5-530e-59ea-867b-6ddc11dcbe9d" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="7931360b-fc26-5d05-bb09-4832457f9df2" name="Countertemporal Nanomines for" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+                <profile id="c280e18d-8806-5419-8f71-3af1c22d2262" name="Countertemporal Nanomines" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1"/>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">18" Aura, target unit gains Slow.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2293,7 +2308,7 @@
               <profiles>
                 <profile id="f8c70a2b-e4b2-5fb6-b1b3-5e20c8c34c05" name="Photonic Transubjector" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1"/>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model ignores the First Wound Suffered per Phase.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2464,14 +2479,14 @@
             <constraint id="1e200096-f3f1-5413-8707-f69e7749a7b7" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="44502dd4-459e-54c8-ab05-ed34174539f1" name="Countertemporal Nanomines for" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="fb2b3f60-2261-5db0-85b6-17f008032924" name="Countertemporal Nanomines" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="5d6d3838-d3a5-5e4f-982b-83d971cb4231" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="f32600fb-9185-540d-9bc2-890ce8e20463" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="17609293-1599-55df-ac31-84b133a5bd12" name="Countertemporal Nanomines for" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+                <profile id="dec2bedc-c947-5f40-93f1-e5878c6b5149" name="Countertemporal Nanomines" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1"/>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">18" Aura, target unit gains Slow.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2516,7 +2531,7 @@
               <profiles>
                 <profile id="32a4d22c-1813-5270-a93d-a03b66affe30" name="Photonic Transubjector" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1"/>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model ignores the First Wound Suffered per Phase.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2614,14 +2629,14 @@
             <constraint id="e553afe7-07c8-5c3f-959f-b8ed4bf0b486" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="07cf43c9-9ad6-571b-b526-bd77d8a6d3ad" name="Countertemporal Nanomines for" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="b3f65efb-f65e-5013-babe-490b3a8aae33" name="Countertemporal Nanomines" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="178906e5-901e-5dd0-a1a2-be8e2faded93" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="58386a15-da3b-5d1d-ae78-ec515a60b1f5" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="6ebaf47f-4dab-5ebc-959b-4df5e4cf84aa" name="Countertemporal Nanomines for" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+                <profile id="918149aa-051e-5b58-8659-9bc441f4cdbb" name="Countertemporal Nanomines" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1"/>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">18" Aura, target unit gains Slow.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2681,7 +2696,7 @@
               <profiles>
                 <profile id="5206adc7-f55d-527d-9f40-5d9817a17bea" name="Photonic Transubjector" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1"/>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model ignores the First Wound Suffered per Phase.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2779,14 +2794,14 @@
             <constraint id="42694016-5dc1-5288-9dbe-6df7dd3bc290" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="35271d5a-3072-5a22-8182-47b0d548a752" name="Countertemporal Nanomines for" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="2fdf8ec6-15ee-5732-9f7f-dd7a4028caa3" name="Countertemporal Nanomines" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="16d4d7a1-b45c-566c-9143-75e76f115e8d" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="43386649-4f54-5379-8ee2-e62751b68b43" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="e86227df-0937-50a5-b101-c0e20e0ae356" name="Countertemporal Nanomines for" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+                <profile id="d916dae8-b7b3-54c7-931f-c945cfab4548" name="Countertemporal Nanomines" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1"/>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">18" Aura, target unit gains Slow.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2846,7 +2861,7 @@
               <profiles>
                 <profile id="a5aa328e-9edb-5e59-9b95-8e1f44ee7a26" name="Photonic Transubjector" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1"/>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model ignores the First Wound Suffered per Phase.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2975,14 +2990,14 @@
             <constraint id="ee332b90-7d8f-575c-bb93-9be820efb74f" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="0d0adc39-8f42-5526-b429-27516b7b1a06" name="Countertemporal Nanomines for" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="49fcaab6-215b-5d6a-985e-99776d4299af" name="Countertemporal Nanomines" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="806628f1-07d6-5f87-a1dd-20481feb6c19" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="e509903f-965c-57a1-b47e-fcbf50fa3ecf" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="ab6334db-bd6b-5140-acde-ab70a6cfe517" name="Countertemporal Nanomines for" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+                <profile id="b23f7075-5896-59c2-b346-8577eb6f6f61" name="Countertemporal Nanomines" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6 and Fly. 6” Aura, target Canoptek Unit gains +1 To Hit.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">18" Aura, target unit gains Slow.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -3042,7 +3057,7 @@
               <profiles>
                 <profile id="bf997e02-ff81-52dc-8464-f41b3d3d7001" name="Photonic Transubjector" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">M+6 and Fly. 6” Aura, target Canoptek Unit gains +1 To Hit.</characteristic>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model ignores the First Wound Suffered per Phase.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -3290,7 +3305,7 @@
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="11839947-05f1-564a-950a-1e672c95dc22" name="Gauss Blaster" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="11839947-05f1-564a-950a-1e672c95dc22" name="Gauss Blaster (+1 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="1">
                   <repeats>
@@ -3410,7 +3425,7 @@
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="a98eea38-39c8-5739-bc74-1b846316d8b1" name="Gauss Reaper" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="a98eea38-39c8-5739-bc74-1b846316d8b1" name="Gauss Reaper (+3 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="3">
                   <repeats>
@@ -3685,7 +3700,7 @@
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="1e19d7bd-ce55-57bc-b00d-d00a185009a3" name="Hyperphase Sword and Dispersion Shield" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="1e19d7bd-ce55-57bc-b00d-d00a185009a3" name="Hyperphase Sword and Dispersion Shield (+8 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="8">
                   <repeats>
@@ -4185,7 +4200,7 @@
                   <profiles>
                     <profile id="9701fd53-214e-5ce2-96ca-426f4b66daee" name="Gloom Prison" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                       <characteristics>
-                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Repair 1 Wound on Target unit within 3”. On a 5+, repair one Disabled Weapon, Crew Stun, Immobilize, or Weapon Destroyed result. Repair d3 Wounds to target Vehicle within 3” 6” Aura, target unit gains +1 to Reanimation Rolls. This can never be improved to better than 4+, though rerolls still apply. In your Command Phase, you may add one Scarab Swarm to an existing Scarab unit within 6”. This may not exceed the maximum size of the unit. The same unit may not benefit from this more than once per Turn.</characteristic>
+                        <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">May attempt one Deny the Witch per Psychic Phase at Psychic Mastery Level 0.</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -4301,7 +4316,7 @@
               <profiles>
                 <profile id="a46f8ed0-2309-5a74-9dc0-41c075925c77" name="Gloom Prison" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1"/>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">May attempt one Deny the Witch per Psychic Phase at Psychic Mastery Level 0.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -4955,7 +4970,7 @@
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="b066115d-0fdb-5d09-a9e5-fd564003833d" name="2 Linked Tesla Carbines" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="b066115d-0fdb-5d09-a9e5-fd564003833d" name="2 Linked Tesla Carbines (+6 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="6">
                   <repeats>
@@ -4980,7 +4995,7 @@
                 <cost name="pts" typeId="points" value="18"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="754f18d3-9473-529c-bd22-7431deeabc82" name="2 Linked Gauss Blasters" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="754f18d3-9473-529c-bd22-7431deeabc82" name="2 Linked Gauss Blasters (+8 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="8">
                   <repeats>
@@ -5162,7 +5177,7 @@
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="b8757765-42eb-511a-9fe7-7d5d1e942336" name="Rod of Covenant" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="b8757765-42eb-511a-9fe7-7d5d1e942336" name="Rod of Covenant (+2 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="2">
                   <repeats>
@@ -5358,7 +5373,7 @@
               <profiles>
                 <profile id="b1f6ed11-5806-53f1-bfdd-2a8e7f0cb017" name="Gloom Prison" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
                   <characteristics>
-                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1"/>
+                    <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">May attempt one Deny the Witch per Psychic Phase at Psychic Mastery Level 0.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -6870,12 +6885,12 @@
                 <cost name="pts" typeId="points" value="17"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="2a3d84fe-f39c-59e5-941e-8e8a3bd2ef84" name="Transdimensiona l Thunderbolt" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="31b486d4-5fbb-5a96-8eb8-dd954bf345f1" name="Transdimensional Thunderbolt" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="507a91bd-bf07-5f16-9e81-37ab17ac2972" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="aea1f33a-0b3f-5aa4-b8a0-b59c175fed9e" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="1844b202-5507-574f-af84-7bfb9b355165" name="Transdimensiona l Thunderbolt" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="002f6c6b-fd61-5946-9165-5f37b5d7fbc0" name="Transdimensional Thunderbolt" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">24</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">9</characteristic>
@@ -7068,12 +7083,12 @@
                 <cost name="pts" typeId="points" value="17"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="d710b63c-5cb5-5ed1-a70a-04d53d11618a" name="Transdimensiona l Thunderbolt" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="50bd02bb-7478-5485-a590-30cb47a563c8" name="Transdimensional Thunderbolt" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="d6c196b9-a856-5a58-b0fb-62ed2afe65ef" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="e59307a6-eada-55b0-a7c7-68bb02128f42" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="3923cedf-3990-5014-bcfe-69e1423e2d6d" name="Transdimensiona l Thunderbolt" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="cc334dc0-0f16-5f5f-a222-4e124b52114e" name="Transdimensional Thunderbolt" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">24</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">9</characteristic>
@@ -7271,12 +7286,12 @@
                 <cost name="pts" typeId="points" value="17"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="30611897-cdf6-5695-8972-bbe989841637" name="Transdimensiona l Thunderbolt" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="e3c08464-d08b-5a43-9483-edd4e1b8c6a8" name="Transdimensional Thunderbolt" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="46990b1e-0aad-5e32-9aaf-ba007def355e" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="3f468bbe-bec2-51da-adc6-a4e5ba39e1f1" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="de34b09d-b08c-5034-a18b-2e03e1e7bc25" name="Transdimensiona l Thunderbolt" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="df75166d-5b42-5863-b692-f63f4edec100" name="Transdimensional Thunderbolt" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">24</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">9</characteristic>
@@ -7402,7 +7417,7 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="939d7f26-8d30-529f-9fce-ebbf9039c268" name="Weapon Option (POWER)" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="5a07deb1-81aa-5a59-aa10-84a3f2ce4322" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="5a07deb1-81aa-5a59-aa10-84a3f2ce4322" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="e99a9a35-6236-5735-9e23-2c1b1aac3b0e" name="Cosmic Fire" hidden="false" collective="false" import="true" type="upgrade">
@@ -7441,12 +7456,12 @@
                 <cost name="pts" typeId="points" value="17"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="8ce8de6b-cc8b-551f-80ae-aa360ab09ff4" name="Transdimensiona l Thunderbolt" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="478ed9d4-5699-52c5-8766-6a0d22b58d76" name="Transdimensional Thunderbolt" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="971f16c2-04e6-520c-8e34-aff87a20b98e" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="1c9968b3-8841-5dd0-a835-871407526633" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="3fd109c6-fa31-5759-852d-60a8fe79db1e" name="Transdimensiona l Thunderbolt" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="a2680439-9ca9-5c86-8851-ff47b6a651d6" name="Transdimensional Thunderbolt" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">24</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">9</characteristic>
@@ -7649,12 +7664,12 @@
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="4560d0e6-f79d-59dd-8d70-f5e6f9edda0e" name="2 Linked Synaptic Obliterators and Transdimensiona l Projectors" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="f4075d7b-e612-5cf7-bafb-27dc28ee5fba" name="2 Linked Synaptic Obliterators and Transdimensional Projectors" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="1c1d6536-a312-51c6-96b5-77f40f9ecb03" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="557481d9-bf0f-56fa-8ca3-54c5cec64b11" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="a62f7ca6-19bd-53da-b4d3-af27834ee55d" name="2 Linked Synaptic Obliterators and Transdimensiona l Projectors" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="3890dec4-681d-5d51-9025-9f17e992f800" name="2 Linked Synaptic Obliterators and Transdimensional Projectors" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">72 And 24</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">D And 6</characteristic>
@@ -7785,7 +7800,7 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="c74b30fc-caa8-5ef5-9706-ed04dc22d212" name="Weapon Option (POWER)" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="f18efdc5-c4ed-52fb-8525-3c746aceeaa5" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="f18efdc5-c4ed-52fb-8525-3c746aceeaa5" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="23557a03-e1b3-5a23-8271-ba5785fa1d53" name="Charged Time’s Arrow" hidden="false" collective="false" import="true" type="upgrade">
@@ -7824,12 +7839,12 @@
                 <cost name="pts" typeId="points" value="68"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="42cbabea-8f01-5c7b-8ad1-2912519f0de2" name="Charged Transdimensiona l Thunderbolt" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="8af60c8e-88cc-5262-addf-ec11479b6fb2" name="Charged Transdimensional Thunderbolt" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="58367ed2-fec7-5bb5-99c1-c61fd80761a8" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="53a648e3-7ea3-54e1-b4b5-7c3daff652d3" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="4aece3ed-46d3-5e74-944b-c3c74e93834a" name="Charged Transdimensiona l Thunderbolt" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="a0baac7c-40fb-5994-910d-424da3b9fc4f" name="Charged Transdimensional Thunderbolt" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">36</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">10</characteristic>
@@ -8134,6 +8149,14 @@
             <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 1, 10” Blast, Destroyer, Monsterbane, Hull</characteristic>
           </characteristics>
         </profile>
+        <profile id="ce94eb6e-1b54-5d25-9578-00c4622b37fa" name="4 Gauss Arc Fluxes" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">24</characteristic>
+            <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">5</characteristic>
+            <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">4+</characteristic>
+            <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Rapid Fire 5 x4, Gauss, Sponson</characteristic>
+          </characteristics>
+        </profile>
       </profiles>
       <rules>
         <rule id="400a328f-f68e-51c2-af68-c45622d7de17" name="Monolith Vault" hidden="false">
@@ -8157,80 +8180,17 @@
         <infoLink id="fef5591e-b7bb-5a17-a4d2-f779093409a4" name="Deepstrike" hidden="false" targetId="293506eb-35a8-5124-8a22-afe49151628f" type="rule"/>
       </infoLinks>
       <selectionEntryGroups>
-        <selectionEntryGroup id="8ef0894b-5edf-55f8-9146-f5493576a75d" name="Sponson / Side Weapons 1 (Replace 4 Gauss Arc Fluxes)" hidden="false" collective="false" import="true" defaultSelectionEntryId="e21b8cdb-3088-567e-a419-c4738e9cb45a">
+        <selectionEntryGroup id="467754a6-0cbf-5e2b-ad6d-2791b7f61b76" name="Sponson / Side Weapons" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="2a7fd37e-d650-5ef5-a29a-daf8b296a5c7" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="621d4b89-421f-5e45-bf5f-f91cb1d0c6a7" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="dc332b45-91e6-5ba4-b247-9391d99a0fd5" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="e21b8cdb-3088-567e-a419-c4738e9cb45a" name="4 Gauss Arc Fluxes" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="feba5627-214c-5a49-af0e-adcb95ff5b42" name="4 Death Rays" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="2d639e08-c4cd-5845-acb1-d79b56354e91" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="0b908960-0cdc-5d46-9186-b25747f2d30a" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="3f08ed5a-6666-56f1-b74b-18c86deead8f" name="4 Gauss Arc Fluxes" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">24</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">5</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">4+</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Rapid Fire 5 x4, Gauss, Sponson</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="0"/>
-              </costs>
-            </selectionEntry>
-            <selectionEntry id="13da4009-ca71-51c9-ae95-338d080d908b" name="4 Death Rays" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="fc9f2fbd-4f94-5f8b-9c01-1f86eb42d012" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="a37b052e-da67-549f-a5cd-c1f0464b1505" name="4 Death Rays" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">24</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">10</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">1+</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 1 x4, 3” Blast, Lance, Monsterbane, Sponson</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="88"/>
-              </costs>
-            </selectionEntry>
-          </selectionEntries>
-        </selectionEntryGroup>
-        <selectionEntryGroup id="4fa3aa1a-315b-56a8-aa7b-2a3d445d79b3" name="Sponson / Side Weapons 2 (Replace 4 Gauss Arc Fluxes)" hidden="false" collective="false" import="true" defaultSelectionEntryId="623829bd-85e1-55bb-8d66-e21b978aabc3">
-          <constraints>
-            <constraint id="3be68d1a-f747-5c4c-9511-94c705f4f338" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="8c1099b2-1950-5766-bafe-bd194a2b16ed" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-          </constraints>
-          <selectionEntries>
-            <selectionEntry id="623829bd-85e1-55bb-8d66-e21b978aabc3" name="4 Gauss Arc Fluxes" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="fd104403-e495-5c40-b9dd-a6876cc7fbbc" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="eb1d4adb-17f0-5f08-9951-e135d4a14698" name="4 Gauss Arc Fluxes" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">24</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">5</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">4+</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Rapid Fire 5 x4, Gauss, Sponson</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="0"/>
-              </costs>
-            </selectionEntry>
-            <selectionEntry id="0cca3d67-9d06-55e4-9a26-aa11c29cd19c" name="4 Death Rays" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="90ab2ac4-6d3e-5cb8-a018-e2f79901a8e5" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="301be195-d70c-5ef9-9c81-cc0a34e5271e" name="4 Death Rays" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="941bf2a0-507c-58d1-bc16-81b95a14c111" name="4 Death Rays" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">24</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">10</characteristic>
@@ -8351,6 +8311,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">-</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">-</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="303e9f0a-eb48-591e-97ee-7afc4e236a1f" name="Defense Field" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain a 5+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="cc908edf-f0c1-57aa-99df-9848fe581f20" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">

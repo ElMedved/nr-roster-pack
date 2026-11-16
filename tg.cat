@@ -9423,7 +9423,7 @@
             <constraint id="bae9468e-c2dc-5544-9c9a-7a94775fc045" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="b80bbe7b-b443-56a3-9c25-557cca76080b" name="Frag Bombs" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="b80bbe7b-b443-56a3-9c25-557cca76080b" name="Frag Bombs (+2 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="2">
                   <repeats>
@@ -10142,7 +10142,7 @@
             <constraint id="4b82a2f6-4889-507b-a09b-d054a57afeb1" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="cbc3b691-6857-51c7-a41f-f2132391fea5" name="Krak Grenades" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="cbc3b691-6857-51c7-a41f-f2132391fea5" name="Krak Grenades (+1 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="1">
                   <repeats>

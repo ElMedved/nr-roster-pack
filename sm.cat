@@ -10122,7 +10122,7 @@
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="96924eae-0bce-597f-bc6e-26fe9eeed04a" name="Stalker Bolt Rifle" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="96924eae-0bce-597f-bc6e-26fe9eeed04a" name="Stalker Bolt Rifle (+10 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="10">
                   <repeats>
@@ -11364,7 +11364,7 @@
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="8f68db26-add8-5598-87e4-2ba83262f93c" name="Executor Bolt Rifle" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="8f68db26-add8-5598-87e4-2ba83262f93c" name="Executor Bolt Rifle (+1 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="1">
                   <repeats>
@@ -11389,7 +11389,7 @@
                 <cost name="pts" typeId="points" value="3"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="f226126e-7203-588b-b024-b627e647d8a3" name="Hellstorm Bolt Rifle" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="f226126e-7203-588b-b024-b627e647d8a3" name="Hellstorm Bolt Rifle (+2 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="2">
                   <repeats>
@@ -26391,7 +26391,7 @@
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="f7257b8e-d654-5cc2-bdb8-62cd8cb8af86" name="Superkrak Launcher" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="f7257b8e-d654-5cc2-bdb8-62cd8cb8af86" name="Superkrak Launcher (+12 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="12">
                   <repeats>
@@ -27918,7 +27918,7 @@
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="4574d6c8-701f-5887-ab4b-c4b4507b02fc" name="Plasma Incinerator" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="4574d6c8-701f-5887-ab4b-c4b4507b02fc" name="Plasma Incinerator (+3 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="3">
                   <repeats>
@@ -27943,7 +27943,7 @@
                 <cost name="pts" typeId="points" value="15"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="49458328-66a1-57a8-9351-dd41ceeee1ce" name="Heavy Plasma Incinerator" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="49458328-66a1-57a8-9351-dd41ceeee1ce" name="Heavy Plasma Incinerator (+8 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="8">
                   <repeats>

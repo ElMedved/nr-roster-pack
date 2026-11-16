@@ -16371,7 +16371,7 @@
             <constraint id="eb75003b-de07-571e-b844-e67fe2c5d1cb" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="cec1860f-70af-5a72-8623-38ed5b5bdea9" name="Frag Grenades" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="cec1860f-70af-5a72-8623-38ed5b5bdea9" name="Frag Grenades (+1 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="1">
                   <repeats>
@@ -16396,7 +16396,7 @@
                 <cost name="pts" typeId="points" value="10"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="3478915e-51c1-5f67-b66e-48a9d3776af1" name="Krak Grenades" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="3478915e-51c1-5f67-b66e-48a9d3776af1" name="Krak Grenades (+2 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="2">
                   <repeats>
@@ -39031,7 +39031,7 @@
             <constraint id="83c4d300-68cc-5918-92fb-bcabc542c80f" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="b3f9d781-0aa6-5408-8cd7-10498011041c" name="Frag Grenades" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="b3f9d781-0aa6-5408-8cd7-10498011041c" name="Frag Grenades (+1 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="1">
                   <repeats>
@@ -39056,7 +39056,7 @@
                 <cost name="pts" typeId="points" value="5"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="410797da-9182-50b7-9d25-aa6bb06c355f" name="Krak Grenades" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="410797da-9182-50b7-9d25-aa6bb06c355f" name="Krak Grenades (+2 pts/model)" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="2">
                   <repeats>
