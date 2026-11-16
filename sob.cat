@@ -515,6 +515,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="04b964d4-b779-505e-99a9-e46d8f7afe88" name="Rosarius" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="bf449620-78c2-5630-9f83-c749c389d568" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Canoness</characteristic>
@@ -946,6 +951,11 @@
             <characteristic name="Sv" typeId="e57e3a75-3b6c-5bf0-911d-5a0c6340ede1">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="5c142ef8-14c9-5678-8450-9bdac57aeea9" name="Rosarius" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="16bc6555-a96c-5b30-b4ac-e113aa69e14d" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Purgator Mirabilis</characteristic>
@@ -1011,6 +1021,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">3</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">9</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="13a3cbad-4e2c-5c37-b92e-671df5073261" name="Standard" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit may reroll failed Ld Tests. 6" Aura, this model's unit and target unit gain A+1.</characteristic>
           </characteristics>
         </profile>
         <profile id="63a01273-a191-59c0-bd5b-18f4fd85d3fb" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -1490,6 +1505,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="71663db2-d362-51ae-83d7-d8d5a60b5a71" name="Laud Hailer" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain Ld+1.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="a51e1df5-238e-54bf-a8f9-9f40a04253e2" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Dialogus</characteristic>
@@ -1616,6 +1636,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">3</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">9</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="4c4814e5-3aa4-520d-a5a7-05240a103121" name="Rosarius" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="a2c69338-68f6-59b4-ad21-ca5b0404a0ec" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">

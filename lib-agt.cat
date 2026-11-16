@@ -20,6 +20,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">4+</characteristic>
           </characteristics>
         </profile>
+        <profile id="64d6adf9-7145-5622-b12f-74fb7e7a7cab" name="Force Field" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="9e02e6c2-0cf2-5fa1-8d8f-9eb2a2d7b043" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Inquisitor</characteristic>
@@ -1155,6 +1160,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="9f29f812-7e67-56f2-a007-782495f8273d" name="Force Field" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="94e24e81-e938-5eaa-9672-d368b6bc0824" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Greyfax</characteristic>
@@ -1399,6 +1409,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">4+</characteristic>
           </characteristics>
         </profile>
+        <profile id="e6579910-7836-56e8-bf5d-1005e99fca51" name="Force Field" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="997767b5-a006-50da-a001-7ac8ab4f1591" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Ostromandeus 1 Stentor-I-52</characteristic>
@@ -1631,6 +1646,11 @@
             <characteristic name="Sv" typeId="e57e3a75-3b6c-5bf0-911d-5a0c6340ede1">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="cb50738f-f8d4-51f7-b78b-3f513d170e6d" name="Force Field" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="9b62e652-72d9-5f72-8a3c-c34da64d1cf4" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Karamazov</characteristic>
@@ -1718,6 +1738,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">5</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">10</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="69e864c1-f559-5b6c-859d-c1b64db78117" name="Force Field" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="0fecd79f-a992-5174-9f79-b35a8e288e1d" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -2156,6 +2181,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="96aff2ff-8d01-5ad3-b844-b542e0f9c19f" name="Force Field" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="1ee587c8-b145-552a-8920-3e11d2379526" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Eisenhorn</characteristic>
@@ -2247,6 +2277,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">4</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">10</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">4+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="63ec2f04-ada2-5e05-99b2-c2041e1ee308" name="Force Field" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="61f24512-3931-5320-a0e6-757b3244d756" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -2490,6 +2525,11 @@
             <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model boosts all spell ranges by +6”.</characteristic>
           </characteristics>
         </profile>
+        <profile id="3f8b80e7-b019-55b5-b7a0-34e6d6bc3bad" name="Force Field" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="069d382b-45ae-538d-8c84-273b2df14914" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Kyria</characteristic>
@@ -2692,6 +2732,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">5</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">10</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="a50eec32-0bfb-5d7c-9700-ce347b644702" name="Force Field" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="060f5009-aff7-5a2d-b9bc-61a9c3d38f33" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">

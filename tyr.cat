@@ -601,6 +601,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="6aebc09f-98a7-569d-aab8-eb60ffc28c0d" name="Psychic Barrier" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="90494384-ee6b-5da5-a369-4c1ef9bb9fad" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Flyrant</characteristic>
@@ -978,6 +983,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">4</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">10</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="5644da13-3d02-54ba-973b-87ec41ecbac2" name="Psychic Barrier" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="782c974c-cc7d-504c-83af-8b4567cc0520" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -1429,6 +1439,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">-</characteristic>
           </characteristics>
         </profile>
+        <profile id="cae1fbdc-0ac6-5c1d-9538-20f379cd529b" name="Psychic Barrier" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="030634eb-8b63-5632-b927-94ed14213704" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Neuro Tyrant</characteristic>
@@ -1624,6 +1639,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="c7202951-5427-5000-be72-7dadb6945a48" name="Psychic Barrier" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="87c0d965-7aff-5552-93ca-b59859df53ae" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Swarmlord</characteristic>
@@ -1734,6 +1754,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">4</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">10</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">4+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="5d469c1a-8f79-56f8-bb49-42028fe802a5" name="Psychic Barrier" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="88ee7261-d457-59a7-afb4-89b83a78e483" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -7846,6 +7871,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">4</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">10</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="8b2b86e6-a18a-5dab-8ab7-93b12873406b" name="Psychic Barrier" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="ec6da63d-a165-5784-82cd-4a5ece691245" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">

@@ -635,6 +635,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">-</characteristic>
           </characteristics>
         </profile>
+        <profile id="6b8ed968-5296-50e1-937b-981aa3fe29cd" name="Forcefield" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="f9e7c38a-cf7f-51fa-a85e-6c35b56ecd16" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Wartrike</characteristic>
@@ -867,6 +872,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">1</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">5</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">-</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="a0e68be1-f218-5f2d-ab16-7da5fe65f1c8" name="Forcefield" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="fe6a7404-9f27-540c-b134-826620e38477" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -2850,6 +2860,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">6+</characteristic>
           </characteristics>
         </profile>
+        <profile id="47856933-6a4b-53d7-864f-2aecfe8879f8" name="Forcefield" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="18f3cd2e-990d-5b49-81fd-56ac4be685f3" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Snikrot</characteristic>
@@ -2934,6 +2949,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">4</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">9</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">6+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="b90c338a-9a75-598d-8a1d-7669a3162477" name="Forcefield" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="7bbff064-0e08-5793-ab23-70120fa0a27a" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -3193,6 +3213,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">3</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">9</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">6+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="5051136e-115d-509e-a062-10ee52541b2b" name="Forcefield" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="f6227d4a-ed3f-5041-b7f1-8da42073bcff" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -3935,13 +3960,13 @@
             <cost name="pts" typeId="points" value="20"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="0f434a86-7ab0-50ba-a409-9718094e879d" name="Additional Boyz" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="e47c6658-b82a-5164-92c0-3bdc7028c831" name="Additional Boyz" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
-            <constraint id="9ba3e8d4-f30f-5c73-ac3d-02e31d9f5958" field="selections" scope="parent" value="0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="9dd18a53-ec2d-5029-9e05-d76cb8178cb7" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="36a5925b-4ee6-537a-9cd8-5d354b82bb89" field="selections" scope="parent" value="0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="460c6621-6225-5273-af4c-604d43cbecb3" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <profiles>
-            <profile id="105cf64f-e73b-5192-aea6-0a13671b7119" name="Additional Boyz" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+            <profile id="53cf1c9d-7a50-5005-9e57-5dd18bb68eae" name="Additional Boyz" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
               <characteristics>
                 <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Add up to 10 Boyz (+15 pts each).</characteristic>
               </characteristics>
@@ -4186,7 +4211,7 @@
               <modifiers>
                 <modifier type="increment" field="points" value="2">
                   <repeats>
-                    <repeat field="selections" scope="75a5f67a-726a-53ee-baa0-ef07137debbf" value="1" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="0f434a86-7ab0-50ba-a409-9718094e879d" repeats="1" roundUp="false"/>
+                    <repeat field="selections" scope="75a5f67a-726a-53ee-baa0-ef07137debbf" value="1" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="e47c6658-b82a-5164-92c0-3bdc7028c831" repeats="1" roundUp="false"/>
                   </repeats>
                 </modifier>
               </modifiers>
@@ -9149,6 +9174,11 @@
             <characteristic name="A" typeId="488135b0-9b58-5406-adf9-2095b15a5b5b">3</characteristic>
             <characteristic name="Ld" typeId="605ce88b-1ada-590e-8bb0-a3c1e2779857">6</characteristic>
             <characteristic name="Sv" typeId="e57e3a75-3b6c-5bf0-911d-5a0c6340ede1">4+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="c68d42f3-77b2-577b-9dcd-7d3323fddc97" name="Tusks" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Gain A+1 on the first round of combat after you successfully charge.</characteristic>
           </characteristics>
         </profile>
         <profile id="a355c405-e60f-5e83-bd25-9dc0d292ee09" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -17035,6 +17065,11 @@
             <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model may reroll To Hit rolls with ranged weapons, and always scores Dakka with a successful To Hit roll regardless of the number.</characteristic>
           </characteristics>
         </profile>
+        <profile id="6f044ffd-f8b3-53b7-9658-80e09e02308f" name="Forcefield" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="69103b2d-dc32-5455-b024-364701cb0f2d" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Ufthak</characteristic>
@@ -17113,6 +17148,16 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">5</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">9</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="a84eee71-b47d-5abf-aefe-ea259ddf6e97" name="Forcefield" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="a67d0d01-9faa-5a12-af54-a92de878ada9" name="Targeting Squig" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model may reroll To Hit with ranged weapons.</characteristic>
           </characteristics>
         </profile>
         <profile id="5bf9ba55-011a-5953-a1fd-7f4f1ade18b4" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -17436,6 +17481,11 @@
             <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">If this weapon successfully Wounds (after Saves and Feel No Pains) while in a Challenge with an Infantry or Monstrous Infantry model, this model may leave Combat on its next Movement Phase and take its Challenger with it! The Challenge still resumes, but this model maintains Movement capabilities.</characteristic>
           </characteristics>
         </profile>
+        <profile id="6fe2301b-a240-51e9-81a3-f55f905081e8" name="Forcefield" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="ff743533-d3df-518d-a94d-8208745046ba" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">0-1 The Bike of the Aporkalypse 0-1 Big Revva</characteristic>
@@ -17699,6 +17749,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="55523ef7-7321-559b-b684-4aa4650da9fa" name="Forcefield" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="5b559260-7f55-552c-991e-86fc64ed3fb2" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Ghazghkull Thraka</characteristic>
@@ -17860,6 +17915,11 @@
             <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6” Aura, this model and target unit gain A+1</characteristic>
           </characteristics>
         </profile>
+        <profile id="85fba726-3078-5d16-80e3-466080dd8766" name="Forcefield" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="c9a7e4e8-fc49-5151-b327-645f905c35b2" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Grukk</characteristic>
@@ -17991,6 +18051,11 @@
             <characteristic name="A" typeId="488135b0-9b58-5406-adf9-2095b15a5b5b">6</characteristic>
             <characteristic name="Ld" typeId="605ce88b-1ada-590e-8bb0-a3c1e2779857">9</characteristic>
             <characteristic name="Sv" typeId="e57e3a75-3b6c-5bf0-911d-5a0c6340ede1">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="1ec17d01-eb28-58ba-81d5-9eb0ff878c97" name="Forcefield" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="e70ef73f-a61b-5c3c-847c-72c19f020e32" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">

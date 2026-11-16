@@ -460,6 +460,16 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="9c0e9140-6890-5bcc-8a34-7e75069c521c" name="Clone Field" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="6f51fd96-48fd-5eea-82be-bbb89e5fff29" name="Soul Trap" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model may choose the target of its Challenge; target may not Deny.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="c2185b33-c0d2-59ba-9552-ccd5a9546c83" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Archon</characteristic>
@@ -693,6 +703,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">4</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">10</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">-</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="ff24e10a-86cf-5d37-8bcc-06274fc4a77d" name="Clone Field" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="3a266ce1-008e-5a88-8bb5-a7e7d1b45a82" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -945,6 +960,16 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">4</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">10</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">-</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="13e1b8ed-9764-5b4c-a098-f745f2611b8e" name="Clone Field" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="4f569c7a-3635-5d93-9e0f-ca5275c12bb1" name="Soul Trap" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model may choose the target of its Challenge; target may not Deny.</characteristic>
           </characteristics>
         </profile>
         <profile id="32341606-93be-5773-b7e0-6eb59fda86f4" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -1214,6 +1239,16 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">-</characteristic>
           </characteristics>
         </profile>
+        <profile id="b8571285-2b0c-5afe-b832-88a6f15a4761" name="Flip Belt" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Ignores Terrain and Models for Moving, Advancing, Charging, and Falling Back.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="1e30780a-db2e-5bc8-8218-059748e3abb2" name="Holosuit" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="754bb6f6-1617-5341-838d-304b6d534090" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Shadowseer</characteristic>
@@ -1461,6 +1496,16 @@
             <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">All Charges against this model are considered Disorganized.</characteristic>
           </characteristics>
         </profile>
+        <profile id="596706c8-b6be-5ca2-b1a3-17f85c4b56ca" name="Flip Belt" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Ignores Terrain and Models for Moving, Advancing, Charging, and Falling Back.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="840d9183-309c-578c-9f01-ecd72bcf9d4b" name="Holosuit" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="50c190fa-6441-560a-80fc-e232db460a47" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Master</characteristic>
@@ -1697,6 +1742,16 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">4+</characteristic>
           </characteristics>
         </profile>
+        <profile id="c30bcf59-c389-5ffd-83c8-8f96fbcd655d" name="Clone Field" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="d4bfa4da-200f-5533-a08f-14037f8009e9" name="Soul Trap" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model may choose the target of its Challenge; target may not Deny.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="f1d8587b-6b22-5874-aab5-9442b419ec6b" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Kruellagh</characteristic>
@@ -1785,6 +1840,16 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">4</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">10</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="b371a434-dc71-5440-bbb7-49ca0217acb5" name="Clone Field" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="7b12f1d5-15ca-5c6a-acb0-1695e7bddcd4" name="Soul Trap" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model may choose the target of its Challenge; target may not Deny.</characteristic>
           </characteristics>
         </profile>
         <profile id="19522710-103d-5d9d-9509-ae3eafb081dd" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -1878,6 +1943,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">4</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">10</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="fd9708f7-46bb-524b-bb8d-73da7c59d4da" name="Soul Trap" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model may choose the target of its Challenge; target may not Deny.</characteristic>
           </characteristics>
         </profile>
         <profile id="a4e26e8b-e733-5115-b69d-7b95e9a2ad53" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -1976,6 +2046,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">4</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">10</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">-</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="74325116-304e-519a-88cb-5ac2e3fd2663" name="Clone Field" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="266e2da3-7341-5541-a0ab-a2efd2aa2f51" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -2265,6 +2340,16 @@
             <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">All Charges against this model are considered Disorganized.</characteristic>
           </characteristics>
         </profile>
+        <profile id="60ccdd4c-0dd4-58f9-9311-626892e35f01" name="Flip Belt" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Ignores Terrain and Models for Moving, Advancing, Charging, and Falling Back.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="25ca5afc-8713-5389-8c23-02349d232d2d" name="Holosuit" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="5fd787bb-345d-58b7-852b-c1f59389707a" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Death Jester</characteristic>
@@ -2527,6 +2612,16 @@
         <profile id="b2c05805-d2e4-5599-ad09-4fa768062eae" name="Blind" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
           <characteristics>
             <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">All Charges against this model are considered Disorganized.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="94efc2cd-670d-551f-81df-257e23725dbf" name="Flip Belt" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Ignores Terrain and Models for Moving, Advancing, Charging, and Falling Back.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="61d74c16-b6d4-58e1-a15e-f91d032cc68a" name="Holosuit" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="1209a313-a884-5b82-bdc9-4bbe7831126f" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -2793,6 +2888,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="72a7228d-df6f-5c98-8181-6246e1fd85b4" name="Soul Trap" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model may choose the target of its Challenge; target may not Deny.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="9713fce8-19c0-53e6-a16c-6afa68d12e7e" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Drazhar</characteristic>
@@ -2977,6 +3077,16 @@
         <profile id="f62fa29b-9ea2-51e1-b630-e7be262f438a" name="Blind" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
           <characteristics>
             <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">All Charges against this model are considered Disorganized.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="baa56614-ba47-5eea-88a3-d34868be992c" name="Flip Belt" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Ignores Terrain and Models for Moving, Advancing, Charging, and Falling Back.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="a03f93f1-fb06-59c0-ab2a-e8374e737250" name="Holosuit" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="df1d3aad-e2cf-5e3c-99e8-8bc0da9c602d" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -4796,12 +4906,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="3cdae84e-ac69-501f-90cb-95c70332ff63" name="Ranged Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="82c0c976-ab41-5978-b1fe-daa2b6936577" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="82c0c976-ab41-5978-b1fe-daa2b6936577" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="06b69949-3ba5-555b-9494-769cbfdfb326" name="Liquefier Gun" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="0ce8568f-96b9-563e-a731-da4b49a55a21" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="0ce8568f-96b9-563e-a731-da4b49a55a21" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="ac615140-6a51-5823-a71d-06f7200f51c1" name="Liquefier Gun" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -4819,7 +4929,7 @@
             </selectionEntry>
             <selectionEntry id="32529223-9ea0-56e0-b720-36b6106db125" name="Ossefactor" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="13fb2a77-0d8f-5f5a-a3d5-4d5b0daceaa0" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="13fb2a77-0d8f-5f5a-a3d5-4d5b0daceaa0" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="f33953ba-b44d-5c49-87a5-4ebaced7fe73" name="Ossefactor" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -5928,12 +6038,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="c9f10efb-3446-5e15-b143-037c553d5fb1" name="Special Weapon / System Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="9fbc102f-c92c-5cb5-9f08-abfb9f744f8a" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="9fbc102f-c92c-5cb5-9f08-abfb9f744f8a" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="906c1ebb-7caf-5386-9a81-8db7645ed57b" name="Cluster Caltrops" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="290004cb-cd9b-57da-8dca-914dd185fffd" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="290004cb-cd9b-57da-8dca-914dd185fffd" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="a561bcc5-44ea-5aa4-a016-2841c6b93b2d" name="Cluster Caltrops" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">

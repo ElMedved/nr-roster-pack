@@ -1708,6 +1708,16 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="64b5650f-1408-59b1-b2f0-16a9e990c28f" name="Timesplinter Mantle" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="3347ac82-2030-5a18-86de-182195373d2f" name="Chronometron" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain a 5+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="5a939dac-ea48-5388-a4b8-c4a33997fa29" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Orikan the Diviner</characteristic>
@@ -2133,6 +2143,16 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">4+</characteristic>
           </characteristics>
         </profile>
+        <profile id="9adfc3b2-38d8-59aa-a36e-9ee066f9a79f" name="Chronometron" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gain a 5+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="9aad0ab2-6d84-5893-a867-680114e72954" name="Timesplinter Mantle" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model gains a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="46c76eec-d8a8-5c89-8014-415e8b5703c1" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Chronomancer</characteristic>
@@ -2400,6 +2420,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">1</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">10</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">4+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="5d8b0a1b-f533-5407-ab75-a0cbc37856a9" name="Cryptogeometric Adjuster" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">18" Aura, target unit only charges and advances at half speed.</characteristic>
           </characteristics>
         </profile>
         <profile id="88f32ae9-6514-53e6-a642-b2135ab4b8d3" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -6412,6 +6437,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="78eb6f58-c394-5e9c-8a3c-444cf1a8383f" name="Sepulchral Scarabs" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Each Command Phase roll d6; on 5+ Heal one additional Wound.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="c7cc780a-673a-52c5-8922-a445c6e2bf1e" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1-3 Sentry Pylons</characteristic>
@@ -7369,24 +7399,6 @@
         <infoLink id="34b1630f-1d3b-5808-a50a-77db6d7bc74b" name="Fearless" hidden="false" targetId="bd22ae83-85f7-535c-9988-99fe047aef55" type="rule"/>
         <infoLink id="fb9c0e7e-e8d6-5cd7-90a8-c5086f28a698" name="Soulless Machine" hidden="false" targetId="44090a0c-3b26-58df-91a0-090c2adfe7a6" type="rule"/>
       </infoLinks>
-      <selectionEntries>
-        <selectionEntry id="b41cd2cd-61be-5d28-bffb-0eb457903da3" name="Randomize C'Tan Power each turn" hidden="false" collective="false" import="true" type="upgrade">
-          <constraints>
-            <constraint id="e24c1d22-f5ff-5135-9ae7-19e5bc17290d" field="selections" scope="parent" value="0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="040d86fc-258a-578a-83df-7b33adc77c61" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-          </constraints>
-          <profiles>
-            <profile id="ee97c0aa-b7d7-54fa-9672-a35ce9ce1f33" name="Randomize C'Tan Power each turn" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
-              <characteristics>
-                <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">May choose up to two C’Tan Powers or randomly choose two each turn for +54 points</characteristic>
-              </characteristics>
-            </profile>
-          </profiles>
-          <costs>
-            <cost name="pts" typeId="points" value="54"/>
-          </costs>
-        </selectionEntry>
-      </selectionEntries>
       <selectionEntryGroups>
         <selectionEntryGroup id="939d7f26-8d30-529f-9fce-ebbf9039c268" name="Weapon Option (POWER)" hidden="false" collective="false" import="true">
           <constraints>
@@ -7770,24 +7782,6 @@
         <infoLink id="11fb3c9d-e89f-535d-9aa0-83f34688f419" name="Deepstrike" hidden="false" targetId="293506eb-35a8-5124-8a22-afe49151628f" type="rule"/>
         <infoLink id="ebf7b6bb-846d-55b3-abf1-f03cf5a6a0c9" name="Open Topped" hidden="false" targetId="eebb19b2-145a-530d-bb48-27ecca51d325" type="rule"/>
       </infoLinks>
-      <selectionEntries>
-        <selectionEntry id="d2655d3d-975d-56b4-a049-dc09b2f6659b" name="Randomize C'Tan Power each turn" hidden="false" collective="false" import="true" type="upgrade">
-          <constraints>
-            <constraint id="c6d6ac14-837b-51ba-9de5-d3a9e458e6f7" field="selections" scope="parent" value="0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="9714c456-8976-5c62-9b12-ad32f88b7103" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-          </constraints>
-          <profiles>
-            <profile id="3f68a6c3-a77a-5588-9abb-bc9ed94a24db" name="Randomize C'Tan Power each turn" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
-              <characteristics>
-                <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Tesseract Vault may purchase two C’Tan Powers, either of which may be randomized each turn for +93 points each instead.</characteristic>
-              </characteristics>
-            </profile>
-          </profiles>
-          <costs>
-            <cost name="pts" typeId="points" value="93"/>
-          </costs>
-        </selectionEntry>
-      </selectionEntries>
       <selectionEntryGroups>
         <selectionEntryGroup id="c74b30fc-caa8-5ef5-9706-ed04dc22d212" name="Weapon Option (POWER)" hidden="false" collective="false" import="true">
           <constraints>

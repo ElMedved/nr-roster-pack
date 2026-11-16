@@ -3216,6 +3216,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="251d766e-fb84-5bf4-8757-e5d142ae837e" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="9615c84a-27fe-5e58-9791-8307c538bed5" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Lord</characteristic>
@@ -3962,6 +3967,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">4</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">9</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="38da749a-dfa5-5221-a5f2-f1b2547fdcdf" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="ef8e2619-260d-5d0f-a542-d9b7f9aa4c5c" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -5196,6 +5206,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="7ca3ff8d-1c9a-5920-abcb-342889c71728" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="e739c134-cc30-54b1-a612-1bbaf7881665" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Prince</characteristic>
@@ -6215,6 +6230,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">4</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">9</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="50e05937-b25d-5709-8cb0-91e6051a1bdf" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="fb251178-cb27-580b-aa0e-133ec9b223fe" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -8082,6 +8102,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="16241a9f-7d70-57a9-a3d9-f59a9e204c45" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="b9a81048-7624-531e-abe4-0447887b24a6" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Abaddon</characteristic>
@@ -8206,6 +8231,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">6</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">10</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="26114ff7-a460-5a80-a4fa-9b136a54603f" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="8603ff52-5072-5e1b-b845-82cd031969f1" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -8900,6 +8930,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="4961c53b-c405-5591-bf64-f10d51da232f" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="06d288bd-4acb-59de-9422-37b8028532a3" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Haarken</characteristic>
@@ -8993,6 +9028,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">5</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">9</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="bd2884a2-a9ef-59a8-9b4d-ad6d3300c6c0" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="3fd74072-8b5a-58d1-8c9f-75ffedd475cc" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -9735,6 +9775,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="0f2e2fc5-f725-5f58-82e4-07393296d508" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="7aba074c-b362-538a-bae5-d2322c47d946" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Kranon</characteristic>
@@ -9849,6 +9894,11 @@
         <profile id="908427da-8a2a-5999-b940-9d71925be4e8" name="Servo Arm" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
           <characteristics>
             <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Each model with a Servo Arm may add +1 to a Repair die roll to restore a weapon or mobilize result.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="0197cce9-0353-5d3c-921e-175dd3ac0c73" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="8f480b66-962c-590e-9acb-fca57fb77719" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -9974,6 +10024,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="76267aa3-fb8c-534e-969c-2e3da96c1d00" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="3b5491db-7e24-576c-b447-845a9439f1e0" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Arkos</characteristic>
@@ -10090,6 +10145,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">-</characteristic>
           </characteristics>
         </profile>
+        <profile id="9050235b-9842-50db-bcf5-71cc4d95b3fa" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="f2c2b48c-510c-5d67-815c-c428e23e5518" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Vashtorr</characteristic>
@@ -10158,6 +10218,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">3</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">7</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">5+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="04c85e2e-41fb-5515-a329-b31df964dc88" name="Icon of Chaos" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gains A+1. 6" Aura, this model and target unit may reroll failed Ld tests.</characteristic>
           </characteristics>
         </profile>
         <profile id="096ffef8-5761-5e58-a957-194e35b52c27" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -10768,6 +10833,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">3</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">7</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">6+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="f290d760-1f7a-523b-a644-c8e74f9f553c" name="Icon of Chaos" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gains A+1. 6" Aura, this model and target unit may reroll failed Ld tests.</characteristic>
           </characteristics>
         </profile>
         <profile id="a17e0fe2-dbbd-5345-be1b-eefc4169466e" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -12451,6 +12521,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">3</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">8</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="9edf3c06-e5d4-5dd0-b8bd-58759e50779e" name="Icon of Chaos" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">6" Aura, this model and target unit gains A+1. 6" Aura, this model and target unit may reroll failed Ld tests.</characteristic>
           </characteristics>
         </profile>
         <profile id="dbac848c-bb74-57f8-9aca-846dd90a07df" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -15012,6 +15087,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="566387b0-63a0-524c-bcd1-aa4bf42277e1" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="8879cb2b-023f-5bd2-a480-52d5c98d5d65" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Garlon</characteristic>
@@ -17369,12 +17449,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="27df32e9-03c3-555b-a4eb-c9e3aeeca8d7" name="Ranged Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="fe6efe97-d67f-5b45-99f7-a3caa5e9b28e" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="fe6efe97-d67f-5b45-99f7-a3caa5e9b28e" field="selections" scope="parent" value="29" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="4036997d-c055-5d98-a996-c421dbcd2c09" name="Shotgun" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="144222a8-5931-5ae4-bc3d-51b9148fbafc" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="144222a8-5931-5ae4-bc3d-51b9148fbafc" field="selections" scope="parent" value="29" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="4a2b0c69-d1e9-54bd-b380-4554ed1adfc2" name="Shotgun" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -17392,7 +17472,7 @@
             </selectionEntry>
             <selectionEntry id="1af85b4c-b7fb-58a3-8544-1916e674da6e" name="2 Chain Weapons" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="406b65cf-a897-55f0-ab29-e25ab15da0f5" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="406b65cf-a897-55f0-ab29-e25ab15da0f5" field="selections" scope="parent" value="29" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="1c06db47-f363-5f7d-bf9c-49d0558ae4e9" name="2 Chain Weapons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -17410,7 +17490,7 @@
             </selectionEntry>
             <selectionEntry id="4c580e1f-37a0-50e0-b66c-673fac3dd0c1" name="Autopistol and Brutal Weapon" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="d3c1d2d0-296c-5ecc-9286-5f26f40a674e" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="d3c1d2d0-296c-5ecc-9286-5f26f40a674e" field="selections" scope="parent" value="29" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="a0745a90-4b11-563d-ae50-4dd203b015b8" name="Autopistol and Brutal Weapon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -19562,12 +19642,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="fe09f803-0a86-5038-80dc-145be56be6a2" name="Heavy Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="6ab0f051-88cd-562d-af97-7dfdbdfcf396" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="6ab0f051-88cd-562d-af97-7dfdbdfcf396" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="2887b3f4-2530-5176-8beb-543edc9c316c" name="Heavy Flamer" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="cb81108c-672c-54b1-9cb4-20d1e602e90d" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="cb81108c-672c-54b1-9cb4-20d1e602e90d" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="7c9c6fab-4a6c-5025-8c32-d790e27de7b4" name="Heavy Flamer" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -19585,7 +19665,7 @@
             </selectionEntry>
             <selectionEntry id="d271629e-71b0-51f1-99da-43f9378e1501" name="Reaper Autocannon" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="43be6fb7-41a7-53a2-a26d-ee71cffa9c0a" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="43be6fb7-41a7-53a2-a26d-ee71cffa9c0a" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="4c8bcba1-3761-554a-8c00-07dc82ed15e1" name="Reaper Autocannon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -36330,6 +36410,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="b24f33d9-30fa-50c1-a113-ffcb677d0bae" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="9637b64b-debf-5b04-b519-9121e97eb56c" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Angron</characteristic>
@@ -37028,6 +37113,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="897ca27c-256c-517d-bf70-61c9ca8fb767" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="c769e183-a56d-50b7-b1ce-66af6eebce77" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Ka’Bandha</characteristic>
@@ -37106,6 +37196,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">6</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">9</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="f7cc97a6-add1-558e-aadf-3b5e4a24ccb7" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="84ee901a-1876-5b34-b03a-6bd5f6334d4b" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -37218,6 +37313,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="36912fd8-0af2-55cb-a40d-604fdfbb11dd" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="bd333a7d-202e-5782-9cf0-2c14895a3342" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Invocatus</characteristic>
@@ -37327,6 +37427,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">-</characteristic>
           </characteristics>
         </profile>
+        <profile id="5d8ffe25-3040-5ce7-b300-a9d48c41844c" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="4f3e3933-f624-566b-a51f-5010fb0983a7" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Samus</characteristic>
@@ -37388,6 +37493,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">7</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">9</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">-</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="ad7d3915-e966-5206-8b3a-e1b3a7af8a61" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="a6c9d471-f181-5785-89ef-3bd1119a3491" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -37458,6 +37568,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="57358ca1-ae69-5820-ac0c-0861ea02b52f" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="e62057fc-3d28-59a7-899d-816aa103d9ae" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Uraka</characteristic>
@@ -37519,6 +37634,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">6</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">9</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="9eb2bc4c-d917-54e3-9524-e331963ac267" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="90ce6ee8-0620-5b4d-a74a-50a415eaa27f" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -38786,12 +38906,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="1ad05a52-5249-51fc-8b57-8e337228c90e" name="Special Weapon / System Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="86d77ed5-03c2-50fb-8614-3ba5abad207c" field="selections" scope="parent" value="4" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="86d77ed5-03c2-50fb-8614-3ba5abad207c" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="cdbcacb0-eb3a-5bf3-832a-bbd182482d38" name="Plasma Pistol" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="3be6a7dd-87f5-5f03-9693-1da54bfe658f" field="selections" scope="parent" value="4" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="3be6a7dd-87f5-5f03-9693-1da54bfe658f" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="896ae81a-76e1-52cf-9ee6-18bb2eaf550b" name="Plasma Pistol" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -38809,7 +38929,7 @@
             </selectionEntry>
             <selectionEntry id="0e8e0fd2-7359-5374-ba0c-c09268823ea5" name="Eviscerator" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="35b79852-431c-5b83-8bf7-6c169e99909c" field="selections" scope="parent" value="4" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="35b79852-431c-5b83-8bf7-6c169e99909c" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="5a8dfcc6-fb7e-5f40-b4bb-58b9311318a1" name="Eviscerator" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -40748,6 +40868,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="a7df729b-ac22-5e33-8abd-315a18306a4f" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="b2001e17-8f25-54cc-9fd9-04d80f34f113" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Lord</characteristic>
@@ -40856,6 +40981,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">4</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">9</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="5c8b9364-97dc-523b-979b-754f9da48478" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="7148eda7-3fc6-5d6c-8af5-84cd6de44e45" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -40968,6 +41098,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">4</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">9</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="08a217bf-bdfa-5c96-acba-b43da3807a57" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="92c4d1ff-8ee8-5189-a5e2-b4c0d830e7de" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -41100,6 +41235,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">5</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">9</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">-</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="489690ce-d851-513e-a27b-eb41b18d6741" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="e5a4cfbb-06d6-55aa-80d6-11f553c79153" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -41767,6 +41907,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">5</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">10</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">-</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="509ed3ec-9f90-51c3-a196-22fdd1a9f1ac" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="abf38d90-1255-52e6-b11d-090ca5cce113" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -42450,6 +42595,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">-</characteristic>
           </characteristics>
         </profile>
+        <profile id="1a2311d2-04f6-5177-ac7b-c4c0e761dff6" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="7c43efa4-5fc1-5a49-9a36-5cf80711fa5c" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Mamon</characteristic>
@@ -42515,6 +42665,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">6</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">10</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="eda5e855-c048-5d0c-9b6c-ea34b1ad6ac4" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="0ca1f7ac-1e1e-5c28-b21b-01c4ee687819" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -43214,6 +43369,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">5</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">9</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="258fd1ed-28f7-5f11-ad8b-db7b3c035590" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="58b7e9cb-4aac-5410-a566-152b8c61313d" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -43934,6 +44094,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">-</characteristic>
           </characteristics>
         </profile>
+        <profile id="551b1f40-784c-57f3-b813-9b6aba006429" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="6f4fcc99-da61-50e8-9801-2ed63a369330" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Rotigus</characteristic>
@@ -44607,6 +44772,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">5</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">9</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="6c00088b-72ba-53b4-a113-edfecf6fd3e7" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="13508f78-dec6-5923-a871-e54c812de201" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -48542,6 +48712,11 @@
             <characteristic name="Sv" typeId="e57e3a75-3b6c-5bf0-911d-5a0c6340ede1">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="85061125-ddb4-5ed2-866c-be55df44235f" name="Siege Shield" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Automatically passes Dangerous Terrain tests.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="1f65dbd1-b9fc-5f31-983c-736d035d7e0c" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1-3 Crawlers</characteristic>
@@ -49345,6 +49520,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">-</characteristic>
           </characteristics>
         </profile>
+        <profile id="2fbed84c-b3f1-50ea-94df-11be2c71237c" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="d3444459-b3d6-5a1e-96f6-648fd60d4c5c" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Herald Seeker Chariot</characteristic>
@@ -49437,6 +49617,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">4</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">9</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="c6176f63-2772-5afd-837b-ee0d5dd7d63d" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="e59f346e-4461-5656-823c-158f58ec2f20" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -49865,6 +50050,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="38ebe534-c43d-5b65-8603-49c0d7363bb4" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="a4f687e4-ed1d-5586-b16d-89ac361fa4ae" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Fulgrim</characteristic>
@@ -50137,6 +50327,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">5</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">10</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">-</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="f999455f-fa99-5589-9aea-38086e6e0861" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="07421f0d-3b51-5fac-a7d9-65e7ef2a6443" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -50816,6 +51011,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">5</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">9</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">-</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="46b29e99-edef-5dee-ab7a-306714bfac44" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="2a044013-b8b8-5a48-9517-bc222b1368d0" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -52442,6 +52642,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">5</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">7</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="70cc2029-865f-5b4f-9497-492432f80077" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="db89dd90-7443-587d-925c-c18e046bc5a8" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
@@ -56438,6 +56643,11 @@
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
           </characteristics>
         </profile>
+        <profile id="cafbf8c5-789a-5358-8896-e3f4594f143b" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
+          </characteristics>
+        </profile>
         <profile id="9ac4b2a3-073f-561c-8916-f4726e817a72" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">
           <characteristics>
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Ahriman</characteristic>
@@ -57840,6 +58050,11 @@
             <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">6</characteristic>
             <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">10</characteristic>
             <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">-</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="108f4492-0c90-570d-91e5-f3ab1dc2fd73" name="Sigil of Corruption" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+          <characteristics>
+            <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">This model has a 4+ Invulnerability Save.</characteristic>
           </characteristics>
         </profile>
         <profile id="b75cb71f-447d-569d-8721-066006b61386" name="Unit Composition" hidden="false" typeId="35b65644-1892-5b82-90c0-20981913471e" typeName="Ability">

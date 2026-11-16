@@ -4465,12 +4465,12 @@ next Psychic Phase.</characteristic>
       <selectionEntryGroups>
         <selectionEntryGroup id="5f1b5f64-fe30-573c-ae74-9239eebfeb9d" name="Special Weapon / System Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="8655adba-7361-585c-9db6-20327b191b35" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="8655adba-7361-585c-9db6-20327b191b35" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="d2240d9e-68ab-51c4-89c4-c4737df74c79" name="Psilencer" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="94f84a8c-767d-5b68-bf35-e4abfb028449" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="94f84a8c-767d-5b68-bf35-e4abfb028449" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="947182fa-414c-5d45-a7a4-83a905e9f9eb" name="Psilencer" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -4488,7 +4488,7 @@ next Psychic Phase.</characteristic>
             </selectionEntry>
             <selectionEntry id="b447a32d-653d-5b18-bafe-d3f2885d94e3" name="Psycannon" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="0105e578-0585-52dd-9701-9f62473f72d7" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="0105e578-0585-52dd-9701-9f62473f72d7" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="f053f9b7-56cd-55d5-b348-7bd5e6d25e5c" name="Psycannon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -4506,7 +4506,7 @@ next Psychic Phase.</characteristic>
             </selectionEntry>
             <selectionEntry id="7df7b73e-5088-5819-b097-d1ad234d89dd" name="Incinerator" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="687b5e49-104d-531a-966c-ec864e4a7f47" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="687b5e49-104d-531a-966c-ec864e4a7f47" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="2fd4ece7-d6a3-5e15-afa2-e5e87fcb2fdb" name="Incinerator" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -6317,6 +6317,77 @@ next Psychic Phase.</characteristic>
         <infoLink id="0b3b5cf8-2894-575f-9b0b-79a0d084a2cf" name="Stubborn" hidden="false" targetId="39b9e921-bbee-560e-b4b3-27a92ef9eab0" type="rule"/>
       </infoLinks>
       <selectionEntries>
+        <selectionEntry id="338f2c33-61e1-5a90-926e-58c7c905ff96" name="Knight of the Flame" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint id="bbf032a4-a0c1-5b33-86e0-e01690a6ae3c" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="b0b1a241-f9c5-5931-a086-df36066de6a2" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+          </constraints>
+          <profiles>
+            <profile id="ec7874f8-7eea-5401-9866-ccd9af3acec7" name="Knight of the Flame" hidden="false" typeId="c4d93c9f-bd1a-5ef8-8b78-4f198aad6964" typeName="Unit">
+              <characteristics>
+                <characteristic name="M" typeId="1f4c78ac-1f27-5042-bfb7-0d00f8f695a2">6</characteristic>
+                <characteristic name="WS" typeId="d94fa72c-3ead-5b35-ae0e-3fdce3a41cf7">2+</characteristic>
+                <characteristic name="BS" typeId="887899fe-1bdf-5a72-a3e1-f87bdd96622a">2+</characteristic>
+                <characteristic name="S" typeId="135fb285-c97f-57fb-b178-be4a154ff49f">4</characteristic>
+                <characteristic name="T" typeId="755e50b9-0a88-5118-b150-4f991fea0b0b">4</characteristic>
+                <characteristic name="W" typeId="ab6f48e2-16a0-59de-9511-89fbff6d4548">2</characteristic>
+                <characteristic name="I" typeId="1bf29bae-0689-56f9-b0e3-2a022091b15b">4</characteristic>
+                <characteristic name="A" typeId="51d23fe8-6dd4-5bba-b2a9-8ef0f0d132ba">2</characteristic>
+                <characteristic name="Ld" typeId="494a7951-7cd9-524d-bf22-444838fed165">9</characteristic>
+                <characteristic name="Sv" typeId="3516322a-033e-5517-b8bd-1c7dfa38d6de">3+</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <selectionEntryGroups>
+            <selectionEntryGroup id="741203e3-d9eb-55ee-b87d-2bd2f4fd40a1" name="Replace Krak Grenades With (Grenades / Bombs)" hidden="false" collective="false" import="true" defaultSelectionEntryId="1cda5316-35fa-5ae9-9ad8-e0da2d84f1e2">
+              <constraints>
+                <constraint id="93386e0d-2ad2-5e40-b713-b1dc93db9cef" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+                <constraint id="2559ff11-f233-5627-b789-4fdc5202f50b" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="1cda5316-35fa-5ae9-9ad8-e0da2d84f1e2" name="Krak Grenades" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="b16d1e12-7c8c-5c30-9d2c-aeccfcf62ccd" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="2ff778df-b071-5a94-baeb-b8e8d080601e" name="Krak Grenades" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                      <characteristics>
+                        <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">8</characteristic>
+                        <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">6</characteristic>
+                        <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">4+</characteristic>
+                        <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Grenade 1, Nonblast</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                  <costs>
+                    <cost name="pts" typeId="points" value="0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="86395d36-b81a-555c-aca9-0518336ec8b4" name="Meltabombs" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="9789a93e-a0b3-5bbc-8421-f525511f986b" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="dadec863-d61f-584a-8661-156b9c8c0728" name="Meltabombs" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                      <characteristics>
+                        <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">6</characteristic>
+                        <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">8</characteristic>
+                        <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">1+</characteristic>
+                        <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Grenade 1, Armourbane, Monsterbane, Nonblast</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                  <costs>
+                    <cost name="pts" typeId="points" value="5"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="pts" typeId="points" value="0"/>
+          </costs>
+        </selectionEntry>
         <selectionEntry id="ef338779-40ff-5580-94ea-ad18a1067b2c" name="Additional Purifiers" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint id="99f23715-fc5e-5cbd-b089-0343cf912a3c" field="selections" scope="parent" value="0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
@@ -6471,50 +6542,6 @@ next Psychic Phase.</characteristic>
               </profiles>
               <costs>
                 <cost name="pts" typeId="points" value="13"/>
-              </costs>
-            </selectionEntry>
-          </selectionEntries>
-        </selectionEntryGroup>
-        <selectionEntryGroup id="0d88d136-eac5-5eee-a339-fa8388e6b3c4" name="Replace Krak Grenades With (Grenades / Bombs)" hidden="false" collective="false" import="true" defaultSelectionEntryId="593c426a-77b6-5ef5-af3d-2e25c479d6fe">
-          <constraints>
-            <constraint id="5691db2d-39cc-51eb-baf8-c890ecb5c2e6" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="97721507-b8bb-54c0-8306-ae820785c7be" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-          </constraints>
-          <selectionEntries>
-            <selectionEntry id="593c426a-77b6-5ef5-af3d-2e25c479d6fe" name="Krak Grenades" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="e8cb17a2-d21a-5f0d-87dd-3d9f31da3cd6" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="b24a2e4e-22cf-55fa-bcdf-6ac621c99974" name="Krak Grenades" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">8</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">6</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">4+</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Grenade 1, Nonblast</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="0"/>
-              </costs>
-            </selectionEntry>
-            <selectionEntry id="39a0788a-8e29-54a2-953a-9aee7537318a" name="Meltabombs" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="c270caf0-8225-546d-b294-b7b81cc0f5d1" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="b9674d8c-2f55-5872-a76a-e806aff1f681" name="Meltabombs" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">6</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">8</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">1+</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Grenade 1, Armourbane, Monsterbane, Nonblast</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="5"/>
               </costs>
             </selectionEntry>
           </selectionEntries>

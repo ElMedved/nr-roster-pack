@@ -4915,7 +4915,7 @@
           <profiles>
             <profile id="2fc6ff0f-4f5a-5c09-87b9-877c091bd10e" name="Additional Land Train Car" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
               <characteristics>
-                <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">May take 0+ Cars for +241 points each</characteristic>
+                <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">May take 0+ Cars for +241 points</characteristic>
               </characteristics>
             </profile>
           </profiles>
