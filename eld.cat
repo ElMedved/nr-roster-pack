@@ -3878,12 +3878,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="c6c14d93-1fcc-5640-bbd4-46a034f94fff" name="Ranged Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="d62d587b-4f01-5e12-bde2-5a65d990c023" field="selections" scope="parent" value="20" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="d62d587b-4f01-5e12-bde2-5a65d990c023" field="selections" scope="parent" value="21" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="12f6f4f1-f348-5e5c-ad8f-95304d144aed" name="Shuriken Catapult" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="4572e5b5-2ee2-55b4-818d-567fc0c8c23c" field="selections" scope="parent" value="20" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="4572e5b5-2ee2-55b4-818d-567fc0c8c23c" field="selections" scope="parent" value="21" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="66f4d8bb-0234-51e2-8592-160ce500e683" name="Shuriken Catapult" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -3903,12 +3903,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="72068092-a966-57f0-a83c-f6a1b7c1603d" name="Pistol / Sidearm Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="b97a6f36-5f32-5364-b772-a4cd79444ef2" field="selections" scope="parent" value="20" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="b97a6f36-5f32-5364-b772-a4cd79444ef2" field="selections" scope="parent" value="21" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="8e754886-6854-5f5b-b09c-de2955cf87b7" name="Dual Laspistols" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="733f4b3d-0430-5d9c-b3c9-3781da1c9275" field="selections" scope="parent" value="20" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="733f4b3d-0430-5d9c-b3c9-3781da1c9275" field="selections" scope="parent" value="21" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="b0d6f0ba-613b-56e1-9a2a-0d84f4573c7a" name="Dual Laspistols" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -4046,12 +4046,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="a44b136e-bd93-54f3-8b1d-f7570d9894f6" name="Pistol / Sidearm Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="d8944047-d2da-5dae-95f5-5eb6cc4f6bfd" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="d8944047-d2da-5dae-95f5-5eb6cc4f6bfd" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="29ece104-9fb2-5078-a1ab-117ad1d33f6a" name="Neuro Disrupter" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="d674d27e-faf1-5e6d-8861-ab9ee343ac66" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="d674d27e-faf1-5e6d-8861-ab9ee343ac66" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="4cec51fb-5fe6-5d22-9573-7fd022be3149" name="Neuro Disrupter" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -4069,7 +4069,7 @@
             </selectionEntry>
             <selectionEntry id="db7c92ca-48bf-5b58-a813-de3b4b0dcfdb" name="Fusion Pistol" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="56650d94-14bc-57ef-9dcb-dedf02cfaddf" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="56650d94-14bc-57ef-9dcb-dedf02cfaddf" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="6be35814-a03b-54f9-a3c3-a0cb502f6f79" name="Fusion Pistol" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -4089,12 +4089,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="28e39463-6103-529c-89a2-d9ea31161acb" name="Melee Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="708478a3-f6a9-584a-b613-4f8bbf05a36c" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="708478a3-f6a9-584a-b613-4f8bbf05a36c" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="f00346e9-5d70-5513-82c5-5284bcceb81c" name="Harlequin’s Kiss" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="83402bf5-8624-54f1-934e-dfbfe6f6f2a6" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="83402bf5-8624-54f1-934e-dfbfe6f6f2a6" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="bdf9bea3-52b8-5d31-a7c2-544ca9f03893" name="Harlequin’s Kiss" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -4112,7 +4112,7 @@
             </selectionEntry>
             <selectionEntry id="bd0d3ea5-15ec-5064-933d-01bde41cdc05" name="Harlequin’s Caress" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="b0b20d59-d55a-52b6-abe3-d9b7a3e0a89f" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="b0b20d59-d55a-52b6-abe3-d9b7a3e0a89f" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="56ecf87a-38fe-5dfa-b9ca-8d297f5fb6eb" name="Harlequin’s Caress" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -4130,7 +4130,7 @@
             </selectionEntry>
             <selectionEntry id="27a5f08a-403d-5516-b124-e970c4f578aa" name="Harlequin’s Embrace" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="714c0eef-713f-5ca6-9300-04f65709f603" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="714c0eef-713f-5ca6-9300-04f65709f603" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="0983f5ae-ba30-50cd-a6b7-01ffdbb3c438" name="Harlequin’s Embrace" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -4703,12 +4703,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="54c6331b-93a9-5319-9c4b-35e42389988e" name="Melee Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="ff02e0b9-f815-5345-839d-b511eabd88cd" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="ff02e0b9-f815-5345-839d-b511eabd88cd" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="285c8dba-da57-59cc-b259-dd02da499f1e" name="Wraith Cannon" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="3f492416-5bb7-56d5-aaac-3a732dfdb874" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="3f492416-5bb7-56d5-aaac-3a732dfdb874" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="2e695f90-42a9-5545-8821-8c32d04b28df" name="Wraith Cannon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -4726,7 +4726,7 @@
             </selectionEntry>
             <selectionEntry id="ceef270f-0ae4-5a4a-ae87-f96442e87cee" name="D-Scythe" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="f7d2208f-964d-58e6-a1b8-57f225e518f2" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="f7d2208f-964d-58e6-a1b8-57f225e518f2" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="ae4ecbb4-973a-5653-a59e-9b5cf0809ec4" name="D-Scythe" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -4744,7 +4744,7 @@
             </selectionEntry>
             <selectionEntry id="5925dfed-30cb-59b3-ad51-e4a23a70ebe3" name="Ghost Axe" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="75e82317-9762-5a23-b9d1-65de276ed46c" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="75e82317-9762-5a23-b9d1-65de276ed46c" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="07be4bab-3043-5484-8b7a-bea0748fabc4" name="Ghost Axe" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -6317,12 +6317,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="5160a3fa-bc9e-5bf7-90a4-6b54d2a4a23d" name="Heavy Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="e83cc210-820b-5850-8ac6-70213ac5ed74" field="selections" scope="parent" value="8" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="e83cc210-820b-5850-8ac6-70213ac5ed74" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="ce8d4f09-e498-52f5-af66-e5361d3d0379" name="Shuriken Cannon" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="005eda5f-5188-5fe8-8409-6be70eafcc69" field="selections" scope="parent" value="8" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="005eda5f-5188-5fe8-8409-6be70eafcc69" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="3813cddb-b5ab-53fb-a50d-864f31d599bb" name="Shuriken Cannon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -6340,7 +6340,7 @@
             </selectionEntry>
             <selectionEntry id="d5c5158a-d502-5142-9599-3535d9ab6bd6" name="Scatter Laser" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="4eeadf87-fa98-5e9d-af4a-47de37e2eae7" field="selections" scope="parent" value="8" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="4eeadf87-fa98-5e9d-af4a-47de37e2eae7" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="222ac029-ee63-5a92-93ba-4b1a7b12b1c4" name="Scatter Laser" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -11556,18 +11556,18 @@
         <infoLink id="98c1e2a1-a668-593f-945f-4f85bf648155" name="Steady" hidden="false" targetId="67083dab-2fb6-5873-a373-f8432bf199cf" type="rule"/>
       </infoLinks>
       <selectionEntryGroups>
-        <selectionEntryGroup id="1770fd7c-30ca-5c8a-bdca-ed3ef5328b39" name="Turret / Primary Weapon (Replace Phantom Pulsar)" hidden="false" collective="false" import="true" defaultSelectionEntryId="241b422c-cb59-52e3-8e49-a694944ef2ef">
+        <selectionEntryGroup id="49b721f6-0c45-5d4e-8eaa-d817984fde93" name="Turret / Primary Weapon 1 (Replace Phantom Pulsar)" hidden="false" collective="false" import="true" defaultSelectionEntryId="23a85ffa-89c6-5dc3-8297-dfb555b9fa85">
           <constraints>
-            <constraint id="67addf07-8e0c-5121-8530-8d17c5982f3a" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="077d415c-ef2f-5f77-b26e-889e21314125" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="2694cbde-92a3-540a-a14e-767e2d8a9495" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="d95b3795-7146-572b-8c9c-1eacbd4eb0b5" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="241b422c-cb59-52e3-8e49-a694944ef2ef" name="Phantom Pulsar" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="23a85ffa-89c6-5dc3-8297-dfb555b9fa85" name="Phantom Pulsar" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="c176468f-077d-5617-b631-81547502f00e" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="a0ddc0a4-1b51-5901-89cc-241122f7b45e" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="c7f0389f-ef3a-5334-9da4-032de3e734ac" name="Phantom Pulsar" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="b9583b4b-0ee2-54b5-b9e5-f0582d633a89" name="Phantom Pulsar" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">120</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">D</characteristic>
@@ -11580,12 +11580,12 @@
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="756a58d5-8902-52a7-b882-65e9088aa479" name="Phantom Distort Bombard" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="4d7a23ad-9b8e-51da-b142-ed6df5fec14a" name="Phantom Distort Bombard" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="14c8655f-9891-513a-bee3-b50c98b14948" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="8a81e0cd-f24c-5f90-8a98-b72d8028a2a1" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="243849b0-243a-5d6b-b50d-fbe94f7d7989" name="Phantom Distort Bombard" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="929216aa-923d-52c2-b6e3-17d568e53b66" name="Phantom Distort Bombard" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">72</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">D</characteristic>
@@ -11598,12 +11598,12 @@
                 <cost name="pts" typeId="points" value="64"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="af4c37fa-66be-5884-8c32-c1cb92d45e51" name="Phantom Glaive and 2 Linked Starcannons" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="d75952af-0f99-5bfd-bf14-41b4b5b51325" name="Phantom Glaive and 2 Linked Starcannons" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="8ab8042b-fac7-50df-94ee-ed5f054e398b" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="08f87ad2-f9a3-55cb-8fc8-53ba3ca5c759" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="8db69af2-6537-55ca-964e-1ae6a62008dd" name="Phantom Glaive and 2 Linked Starcannons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="80b4a61a-d360-5376-a5d3-debc2f52445a" name="Phantom Glaive and 2 Linked Starcannons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">36 Or Melee</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">6 Or D</characteristic>
@@ -11616,12 +11616,92 @@
                 <cost name="pts" typeId="points" value="137"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="bbc71325-d6ac-54d9-b423-e21ab1158d2d" name="Phantom Glaive and 2 Linked Pulse Lasers" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="b7d2e86c-ca5c-57a8-8ff3-713c19c61d2a" name="Phantom Glaive and 2 Linked Pulse Lasers" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="af357e9a-bb18-5a4b-b858-13d9eb3d3d3f" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="ea8c63e5-b585-5a55-9f71-360cbfc2f47b" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="6d86b886-be3b-5968-ae35-90b8f55d560c" name="Phantom Glaive and 2 Linked Pulse Lasers" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="cba8cd9a-3e73-5826-a708-95eba609cdfd" name="Phantom Glaive and 2 Linked Pulse Lasers" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">48 Or Melee</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">8 Or D</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">2+ Or 1+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 2 x2, Monsterbane, Hull, Primary, Or Slow, Destroyer, Monsterbane, Primary</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="144"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="11674e56-dfc7-59ba-8818-e93ef24c110b" name="Turret / Primary Weapon 2 (Replace Phantom Pulsar)" hidden="false" collective="false" import="true" defaultSelectionEntryId="461436c6-c694-5083-91fc-75fbe8a768d2">
+          <constraints>
+            <constraint id="85097cec-54ef-519b-8b37-5c47253e1e12" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="21b60409-df5c-5906-91c1-d0176055b77f" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="461436c6-c694-5083-91fc-75fbe8a768d2" name="Phantom Pulsar" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="5c335b6a-485e-5987-b57e-250371224b53" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="b6ef46c0-f4c9-534a-9029-27c092101bae" name="Phantom Pulsar" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">120</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">D</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">1+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 1, 7” Blast, Destroyer, Monsterbane, Hull, Primary</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="2f8f5d41-6567-5b1b-b49f-a7eee86f0724" name="Phantom Distort Bombard" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="fc1991a9-07da-5f00-9e13-f9fd774fa685" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="162c4810-68cf-5ab1-b64a-6f21d9ce285a" name="Phantom Distort Bombard" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">72</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">D</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">2+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 1, 10” Blast, Destroyer, Monsterbane, Spatial Rift, Hull, Primary</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="64"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="49e797b4-4829-5e5a-820f-4a69413be7e6" name="Phantom Glaive and 2 Linked Starcannons" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="77a2dbb6-51c0-5678-8323-820fb73ee7d5" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="a4c3eaa4-fb20-5b0a-95d2-055f4df1d584" name="Phantom Glaive and 2 Linked Starcannons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">36 Or Melee</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">6 Or D</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">2+ Or 1+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 2 x2, Hull, Primary Or Slow, Destroyer, Monsterbane, Primary</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="137"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="b341a146-b0ef-5829-b97f-1468c383c0d2" name="Phantom Glaive and 2 Linked Pulse Lasers" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="89a2b443-1dbc-57b0-adcf-970aef71ceb5" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="0dac60a1-8959-59c6-8c27-9501c2f514ab" name="Phantom Glaive and 2 Linked Pulse Lasers" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">48 Or Melee</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">8 Or D</characteristic>
@@ -11799,18 +11879,18 @@
         <infoLink id="b43dbf0b-52d1-56f4-a01f-ea20970bb909" name="Steady" hidden="false" targetId="67083dab-2fb6-5873-a373-f8432bf199cf" type="rule"/>
       </infoLinks>
       <selectionEntryGroups>
-        <selectionEntryGroup id="2850a74f-f3f9-5562-b676-d9616c661563" name="Turret / Primary Weapon (Replace Pulsar)" hidden="false" collective="false" import="true" defaultSelectionEntryId="6da13c82-c6f0-501e-b2f2-bd80bf507a45">
+        <selectionEntryGroup id="0fe5b95c-9255-5cbc-8ac7-237e93a3817b" name="Turret / Primary Weapon 1 (Replace Pulsar)" hidden="false" collective="false" import="true" defaultSelectionEntryId="46100388-faba-57bf-941b-619100f81df8">
           <constraints>
-            <constraint id="a6675165-9882-5e17-9fde-6726fad0e37b" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="fc4756a2-c333-5420-8df6-3ef488be25f0" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="fb403ad3-7723-5f80-ae05-e0c248af710b" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="f07d8340-a122-5539-bb5e-ab5b8af24ad6" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="6da13c82-c6f0-501e-b2f2-bd80bf507a45" name="Pulsar" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="46100388-faba-57bf-941b-619100f81df8" name="Pulsar" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="130e46eb-a35d-5274-b453-88b6e17b69db" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="5c44de81-fce2-5e92-9b52-3ea3ccfb6bad" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="569f4085-3dbf-5408-9334-325cf3c9675a" name="Pulsar" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="43d7b4e6-c077-5bd2-b869-04a347923ffc" name="Pulsar" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">60</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">D</characteristic>
@@ -11823,12 +11903,56 @@
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="00ed9d24-363b-5118-95d2-cdd439b7df7d" name="Sonic Lance" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="b0d017b4-d618-5a2c-a0f4-fa09262eb8ff" name="Sonic Lance" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="8d71ea4f-2540-57ed-a4ee-191480c991b7" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="0b43f4d4-09ed-525d-a8da-b3c615a90780" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="ac12554a-c657-5943-8e1d-89b3880c7d94" name="Sonic Lance" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="af2caa7d-90b3-5797-9361-5091772e6b3c" name="Sonic Lance" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Hell Storm</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">9</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">3+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Assault 1, Monsterbane, Hull, Primary</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="1"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="2eb37bdb-5ccc-5562-9b35-e92b4dbb1509" name="Turret / Primary Weapon 2 (Replace Pulsar)" hidden="false" collective="false" import="true" defaultSelectionEntryId="cdcc349e-5228-5446-923d-a6fb3af31b5a">
+          <constraints>
+            <constraint id="dad6abbe-4b16-551c-ad5f-e1cdc598dd1f" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="2bca2a8d-9dc0-57d4-9563-4a90f8b6b375" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="cdcc349e-5228-5446-923d-a6fb3af31b5a" name="Pulsar" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="25917410-372d-562a-bbb0-8babcd815f28" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="9a32a5ca-4aa3-5063-8775-c462af4f9c63" name="Pulsar" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">60</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">D</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">2+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 1, 5” Blast, Destroyer, Monsterbane, Hull, Primary</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="f4c85669-571e-5357-9413-1e80512f78e9" name="Sonic Lance" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="1fa9fe3f-d9ef-5494-89d0-4be74ca0c889" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="435a0d53-0ef8-5257-a76b-dfbcff1f3f2e" name="Sonic Lance" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Hell Storm</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">9</characteristic>
@@ -11911,18 +12035,18 @@
         <infoLink id="a7602267-2841-5ac8-808c-6f94e4073f2d" name="Steady" hidden="false" targetId="67083dab-2fb6-5873-a373-f8432bf199cf" type="rule"/>
       </infoLinks>
       <selectionEntryGroups>
-        <selectionEntryGroup id="7ee3b7df-a310-53e8-b2e4-7aa48e2b22bb" name="Turret / Primary Weapon (Replace Inferno Lance)" hidden="false" collective="false" import="true" defaultSelectionEntryId="e81fd6f8-9b6f-5809-9324-ec3b795afe0f">
+        <selectionEntryGroup id="2b594e85-7cd7-5dde-bc65-361cbe4f2e32" name="Turret / Primary Weapon 1 (Replace Inferno Lance)" hidden="false" collective="false" import="true" defaultSelectionEntryId="71736df6-f1f6-583c-b48f-7c5678f41e64">
           <constraints>
-            <constraint id="89df0d8f-745c-524b-aca3-c69237e51360" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="364a95a1-5314-53f2-b7d0-80a63e1affad" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="44c40a47-941f-5733-909a-3287a77a8f24" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="0804fec7-72f6-50d0-ac33-a4dca2fed254" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="e81fd6f8-9b6f-5809-9324-ec3b795afe0f" name="Inferno Lance" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="71736df6-f1f6-583c-b48f-7c5678f41e64" name="Inferno Lance" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="b8cf89f7-9b26-5965-a492-ec029f0da6a5" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="c2e538a9-c3ec-50e8-a072-0adb3bc2876b" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="cdc8ba16-9259-5f87-b522-0d5c23f9a41c" name="Inferno Lance" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="d1c8f1f1-1ec0-5b04-883d-42b0be301458" name="Inferno Lance" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">36</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">9</characteristic>
@@ -11935,12 +12059,56 @@
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="9a60e9d6-87d5-593a-ad4a-3d7ccf259f9e" name="Deathshroud Cannon" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="21f303f7-d294-5595-9267-385eb6388d78" name="Deathshroud Cannon" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="a2b5505d-6393-5a09-bf8c-92627bb7b5e5" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="370d8d75-dc6e-5406-b91c-22a50483b835" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="90bbee60-e51f-52d7-b037-43c2e818e948" name="Deathshroud Cannon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="52c3b343-377a-58fe-af72-179a5399cf3b" name="Deathshroud Cannon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">48</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">7</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">4+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 1, 7” Blast, Rending, Monsterbane, Sponson, Primary</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="28"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="2abb3f98-96c1-5074-a246-fcd9c703efb2" name="Turret / Primary Weapon 2 (Replace Inferno Lance)" hidden="false" collective="false" import="true" defaultSelectionEntryId="4145bfdc-b6a1-503a-aec0-5f508352ab0e">
+          <constraints>
+            <constraint id="67b62871-28f1-5a7a-a2d1-8ece7d5c5499" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="5ad97801-fb8e-53c9-93df-be391c29627b" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="4145bfdc-b6a1-503a-aec0-5f508352ab0e" name="Inferno Lance" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="67068450-aa0d-587b-9d3e-4cccf351c147" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="2582d6eb-968c-53bc-ba2c-3711f0f30250" name="Inferno Lance" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">36</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">9</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">1+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 4, Lance, Monsterbane, Sponson, Primary</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="e7a62c78-1540-5d38-aad4-1b9af85fe0af" name="Deathshroud Cannon" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="16ae2671-3ff0-5ac9-839c-6ec08622d901" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="7cda9184-85af-57c9-8e52-506ef4c30b33" name="Deathshroud Cannon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">48</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">7</characteristic>
@@ -12079,18 +12247,18 @@
         <infoLink id="e21e4a12-bb68-5802-8aad-9d1d01f97c14" name="Steady" hidden="false" targetId="67083dab-2fb6-5873-a373-f8432bf199cf" type="rule"/>
       </infoLinks>
       <selectionEntryGroups>
-        <selectionEntryGroup id="562ad825-d9db-531c-9434-ffd565e71a47" name="Turret / Primary Weapon (Replace Heavy Wraith Cannon)" hidden="false" collective="false" import="true" defaultSelectionEntryId="fedfec5a-2c0f-5d37-8458-d9a4e5b44bb3">
+        <selectionEntryGroup id="70730f87-5b5b-5ba3-b3be-a84be404ab10" name="Turret / Primary Weapon 1 (Replace Heavy Wraith Cannon)" hidden="false" collective="false" import="true" defaultSelectionEntryId="d2d12527-84bc-50e1-a65e-9660c8b31ac4">
           <constraints>
-            <constraint id="2b0a13ed-c46f-5c14-89b7-aa02733776d7" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="8cb89cf7-569f-53a8-bf2d-c7514c658959" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="a59b499a-6379-5403-87dd-9c15f71bb1d4" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="a4397d34-3e1d-52ce-85a3-433b4ff86688" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="fedfec5a-2c0f-5d37-8458-d9a4e5b44bb3" name="Heavy Wraith Cannon" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="d2d12527-84bc-50e1-a65e-9660c8b31ac4" name="Heavy Wraith Cannon" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="5a3d8ec5-de14-556a-9e09-659437cb4116" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="a584994f-c3aa-524f-a3d2-f051d7fe6609" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="94cff765-4115-5dd0-b5db-2b80e099474c" name="Heavy Wraith Cannon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="88ada012-70d4-53c4-a3ed-06702bb817d7" name="Heavy Wraith Cannon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">36</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">D</characteristic>
@@ -12103,12 +12271,12 @@
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="78b53fff-0df0-5b5c-98fb-886999f15dee" name="Suncannon" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="f060b9eb-a0df-5dfb-852d-8c3ec1fc0f0c" name="Suncannon" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="0b4f5ad4-1ec4-5cef-b285-a7dcfa65266a" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="66269bb0-38da-55fc-85e8-a50c00750fce" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="04e7e31b-75b3-5344-8686-8d469c491261" name="Suncannon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="f2315b7e-9dd7-54b7-ac97-cffb5d7a269d" name="Suncannon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">48</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">6</characteristic>
@@ -12121,12 +12289,12 @@
                 <cost name="pts" typeId="points" value="3"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="fc10602c-1f0a-5251-832d-d59b636f3b20" name="Inferno Lance" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="981e7924-dc1f-5f0f-9375-09692318c5ea" name="Inferno Lance" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="0b7de439-4b2b-5e2c-b313-dd5859c8a40e" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="318d1870-6f29-53d8-834c-716525424538" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="dd882a96-26b3-56aa-9270-2c6399844274" name="Inferno Lance" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="b6cf0629-8628-5e4b-809b-5d8befe53be5" name="Inferno Lance" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">36</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">9</characteristic>
@@ -12139,12 +12307,12 @@
                 <cost name="pts" typeId="points" value="14"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="3383b2bd-8168-5faa-9898-b63abf6c3a42" name="Ghostglaive" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="f583e12b-8396-56ab-8607-6bab258e21df" name="Ghostglaive" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="c06ebfd0-69f7-5ace-9524-42601bc6307c" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="02204f2b-dbb9-5d8d-a619-1cb8372b8987" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="9dc92a43-2e8a-52eb-afe5-35d5f44324ed" name="Ghostglaive" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="20a76d16-182f-5c24-8b6f-c1999b43d4b0" name="Ghostglaive" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">X2</characteristic>
@@ -12157,12 +12325,110 @@
                 <cost name="pts" typeId="points" value="20"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="c9efe8d9-b238-58c1-b59e-8fd57b0c5d0e" name="Deathshroud Cannon" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="f0bc6b5c-54fd-5d78-bd41-458146fcca51" name="Deathshroud Cannon" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="2228bbf1-0f1e-5898-8240-156134410306" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="ef0a35c9-97ed-55de-adbf-5d161f438075" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="e3a0f2a6-c123-57ad-99d0-4b2c36fdf193" name="Deathshroud Cannon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="205bfcfb-95cf-5de2-b9b5-99599fe2e5a4" name="Deathshroud Cannon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">48</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">7</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">4+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 1, 7” Blast, Rending, Monsterbane, Sponson, Primary</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="42"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="5f818438-9fef-59d9-9d70-0bb03b427ba8" name="Turret / Primary Weapon 2 (Replace Heavy Wraith Cannon)" hidden="false" collective="false" import="true" defaultSelectionEntryId="abd0a2f9-3243-54fc-a36f-81fa29feb6aa">
+          <constraints>
+            <constraint id="9720e62a-208d-58b4-838f-7603cbe35ab9" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="ea30034c-24aa-5f3b-8d96-0e505cae0eed" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="abd0a2f9-3243-54fc-a36f-81fa29feb6aa" name="Heavy Wraith Cannon" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="f0462cfc-790f-5002-84e7-17d0f509f2c2" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="bab81938-e801-59d9-8c28-c0909aa39b64" name="Heavy Wraith Cannon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">36</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">D</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">2+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Assault 1, Destroyer, Monsterbane, Sponson, Primary</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="c6dc4fb7-be92-5f9c-b359-f2042c85812e" name="Suncannon" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="ee9e187c-45f1-5f7b-af07-a6303374cb71" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="dc2f8680-699b-5711-8ba2-c369be97ab8a" name="Suncannon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">48</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">6</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">2+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 3, 3” Blast, Sponson, Primary</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="3"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="07a10496-df43-50a8-81f3-af1b36ca7949" name="Inferno Lance" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="6e8d8a1c-ff13-5153-bbdd-6cab96c97575" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="7227d51e-6a32-5af7-bdca-f025b0d94914" name="Inferno Lance" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">36</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">9</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">1+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 4, Lance, Monsterbane, Sponson, Primary</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="14"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="2f69cf44-c215-5bca-a3f4-5b8c88cfbf0f" name="Ghostglaive" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="26038148-16f7-5c0e-8fc3-2e5bc89537a5" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="11ce76a3-f1ee-5071-b769-5ee611138852" name="Ghostglaive" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">X2</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">2+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Slow, Monsterbane, Primary</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="20"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="554126a6-0160-5c13-96b8-9e368b0bc8b5" name="Deathshroud Cannon" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="43e91602-3d26-588a-acf8-4a503c578691" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="af0763bd-4deb-5146-97f8-3178728f52b0" name="Deathshroud Cannon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">48</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">7</characteristic>

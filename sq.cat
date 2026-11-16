@@ -2089,12 +2089,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="c0d0be89-81c8-52e0-b8cc-7acba249b2c0" name="Ranged Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="77780802-6b44-507c-a7b3-9dbdfc4f5649" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="77780802-6b44-507c-a7b3-9dbdfc4f5649" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="ac762a1f-36ff-518a-bec3-2329c22a41d6" name="Bolt Pistol" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="99c75e0e-fb74-5e5c-80da-a4f0776f8baa" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="99c75e0e-fb74-5e5c-80da-a4f0776f8baa" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="390f2c31-fefc-591b-955a-f3a6fc447213" name="Bolt Pistol" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -2112,7 +2112,7 @@
             </selectionEntry>
             <selectionEntry id="06acfabd-a46b-581e-8f0a-926d0108e717" name="Bolt Shotgun" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="df31ad86-157d-5b65-99a5-928045470420" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="df31ad86-157d-5b65-99a5-928045470420" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="e963383f-6147-526c-b381-c7fd1bce6c28" name="Bolt Shotgun" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -2130,7 +2130,7 @@
             </selectionEntry>
             <selectionEntry id="96b671f6-bd17-526b-88d0-537fef734154" name="Ion Blaster" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="0d70c6c4-50d4-5812-923a-edc100202a94" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="0d70c6c4-50d4-5812-923a-edc100202a94" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="5d2377ea-73d0-546f-b6fe-803f42f3cfa4" name="Ion Blaster" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -2485,12 +2485,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="9216f35d-dc49-5807-bd95-81d8a23e05ca" name="Melee Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="fc08e2d9-a0f9-5f7b-9989-a15df52585ed" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="fc08e2d9-a0f9-5f7b-9989-a15df52585ed" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="ff0bf240-59f9-50c9-9db4-fe16f7e3517b" name="Concussion Gauntlets" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="fb92bad9-425a-5ccb-9fe8-5497c9d33642" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="fb92bad9-425a-5ccb-9fe8-5497c9d33642" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="c3b47870-d189-51bc-bfea-38a43e807ab4" name="Concussion Gauntlets" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -2508,7 +2508,7 @@
             </selectionEntry>
             <selectionEntry id="fe1c6ddc-8b09-58f4-8fad-a8aa9b86b599" name="Concussion Hammer" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="abd2715e-8e81-573a-b423-74527bd67908" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="abd2715e-8e81-573a-b423-74527bd67908" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="4234c95c-0d2a-596a-8de4-70d3213c8c49" name="Concussion Hammer" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -2690,12 +2690,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="88d938ca-f03d-5f1d-a81f-8a0d1348b007" name="Ranged Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="454b34f3-2d95-556c-beae-e7bd60d07a0e" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="454b34f3-2d95-556c-beae-e7bd60d07a0e" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="21ef741e-59c5-54ad-8035-d67132b13a14" name="EtaCarn Plasma Gun" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="fc3f6f96-0a4e-5805-a1f8-d0d89b6a0709" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="fc3f6f96-0a4e-5805-a1f8-d0d89b6a0709" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="f8c9a1ff-87f3-54fd-b85d-89c1a680dacc" name="EtaCarn Plasma Gun" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -2715,12 +2715,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="eb2740e2-8552-5253-8d97-0dacfc056193" name="Melee Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="ca1ca2ab-565c-59e3-877d-31af3e845c34" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="ca1ca2ab-565c-59e3-877d-31af3e845c34" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="bd6ee6a0-e3c5-5eda-a7c6-1b7e9a428d1a" name="Concussion Gauntlet" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="e79ebcfb-6062-57df-9748-68dbaf55544b" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="e79ebcfb-6062-57df-9748-68dbaf55544b" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="4908709f-5a71-5655-8ef3-71ff2b72276e" name="Concussion Gauntlet" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -3931,12 +3931,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="e7efd791-7fcc-50db-a275-3dcd0f1e63c1" name="Heavy Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="62da1a6c-3536-592a-9022-6d520b425d98" field="selections" scope="parent" value="5" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="62da1a6c-3536-592a-9022-6d520b425d98" field="selections" scope="parent" value="6" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="ebc9b989-ee5e-5ce8-b097-6cff778849b6" name="Graviton Cannon" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="039bf4f0-f820-58b9-afc6-07ffbe62fc7b" field="selections" scope="parent" value="5" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="039bf4f0-f820-58b9-afc6-07ffbe62fc7b" field="selections" scope="parent" value="6" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="f4412179-6e3f-5a89-87d7-d2a6a8894e90" name="Graviton Cannon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -3954,7 +3954,7 @@
             </selectionEntry>
             <selectionEntry id="a71162e1-6bea-5a3e-bcc6-a04f9fec26a6" name="Beam Matter Converter" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="e81f0976-b66f-5478-8120-fc1105d3f5f3" field="selections" scope="parent" value="5" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="e81f0976-b66f-5478-8120-fc1105d3f5f3" field="selections" scope="parent" value="6" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="5396c79d-f13c-5aa0-89f5-c784f9d84b95" name="Beam Matter Converter" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -4915,7 +4915,7 @@
           <profiles>
             <profile id="2fc6ff0f-4f5a-5c09-87b9-877c091bd10e" name="Additional Land Train Car" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
               <characteristics>
-                <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">May take 0+ Cars for +241 points</characteristic>
+                <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">May take 0+ Cars for +241 points each</characteristic>
               </characteristics>
             </profile>
           </profiles>

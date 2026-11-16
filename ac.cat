@@ -1829,12 +1829,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="688d654f-81a8-55c6-995d-89794f32ff90" name="Special Weapon / System Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="ad43953d-ebdc-593d-b745-c20498880c4d" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="ad43953d-ebdc-593d-b745-c20498880c4d" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="37320afc-8542-50d0-bcfe-fc863a08b559" name="Flamer" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="8ac843be-3dee-570b-9917-52dd77edd609" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="8ac843be-3dee-570b-9917-52dd77edd609" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="c5733d0a-af27-59e8-b7c2-ad97ed22a6f4" name="Flamer" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -1854,12 +1854,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="a2a7b73d-bb70-5998-b2e9-a49db65a2b72" name="Melee Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="c192cff0-b065-58fa-b31f-06298c0f55c2" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="c192cff0-b065-58fa-b31f-06298c0f55c2" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="20237bb1-40bb-5376-89ab-cafc5b30ab81" name="Executioner Sword" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="33619fd8-50c1-5b55-bbd9-acdb35cb5276" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="33619fd8-50c1-5b55-bbd9-acdb35cb5276" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="11ae86ee-d44b-5f5e-8c8c-edf6ce2d333e" name="Executioner Sword" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">

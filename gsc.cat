@@ -5958,12 +5958,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="4642fd64-265f-5366-9374-68c61cad29b1" name="Pistol / Sidearm Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="18e9c04d-2ce4-5759-b077-54c341097e0a" field="selections" scope="parent" value="19" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="18e9c04d-2ce4-5759-b077-54c341097e0a" field="selections" scope="parent" value="20" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="ab0114ed-8e5a-5999-bde9-5546a9eab147" name="Handflamer" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="45adf8c7-2150-5816-ae44-92f98ea07130" field="selections" scope="parent" value="19" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="45adf8c7-2150-5816-ae44-92f98ea07130" field="selections" scope="parent" value="20" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="74952955-4abf-5a18-9e5c-3cefff7f7038" name="Handflamer" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -7268,12 +7268,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="6934ad9c-b281-55a8-9883-9cb5d6240dcb" name="Melee Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="d179598c-1e9e-5a9f-9f8b-4ed0c6a93fe5" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="d179598c-1e9e-5a9f-9f8b-4ed0c6a93fe5" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="9a7ac5e2-65f0-5e5b-b8dc-6404134c2556" name="Power Hammer" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="4e93fb7a-7593-5acf-856a-a726eb519e50" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="4e93fb7a-7593-5acf-856a-a726eb519e50" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="fd7e0dc8-be68-5b7a-9946-a16ee4fbb7ec" name="Power Hammer" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -7293,12 +7293,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="a44b8e05-0230-5429-9431-e042b924160d" name="Special Weapon / System Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="1fb36916-d21d-59a6-a3fd-e52dc2bee8cf" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="1fb36916-d21d-59a6-a3fd-e52dc2bee8cf" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="3013b07a-4f68-5790-a878-c450746cc61b" name="Rocks" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="2a31e8ba-b637-5088-9382-e4669581b4ec" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="2a31e8ba-b637-5088-9382-e4669581b4ec" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="0ed00503-520f-5011-a980-38daba222877" name="Rocks" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -7469,12 +7469,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="f7c98e33-c9a8-558f-8377-7db28e84f1dd" name="Auxiliary / Shield / Arm Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="90abe447-7ce4-5aba-be97-4a610159a284" field="selections" scope="parent" value="19" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="90abe447-7ce4-5aba-be97-4a610159a284" field="selections" scope="parent" value="20" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="0ba2d5a4-f969-5895-8783-5d845ac4f2b4" name="Acid Maw" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="5843acca-d872-5585-b6e7-dd48670c645e" field="selections" scope="parent" value="19" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="5843acca-d872-5585-b6e7-dd48670c645e" field="selections" scope="parent" value="20" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="38224865-f842-5c9c-a17e-5e23478a31ce" name="Acid Maw" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -7787,12 +7787,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="8aaaa777-a162-5e46-a348-9ad2b267d376" name="Pistol / Sidearm Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="40ddaccd-f982-5481-b027-6d752ec02052" field="selections" scope="parent" value="19" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="40ddaccd-f982-5481-b027-6d752ec02052" field="selections" scope="parent" value="20" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="3ccea6dd-d6f6-5bc5-8286-5c76728309b3" name="Handflamer" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="885c05ce-db1e-5a66-8231-bcda4432d7fe" field="selections" scope="parent" value="19" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="885c05ce-db1e-5a66-8231-bcda4432d7fe" field="selections" scope="parent" value="20" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="1d1eb8ff-e278-530f-881f-7816e4c2bb31" name="Handflamer" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -7812,12 +7812,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="3bfd178e-7a46-5e6b-9876-7842d0d975da" name="Melee Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="1850d9c0-e280-5cd0-94ba-0777470f3d73" field="selections" scope="parent" value="19" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="1850d9c0-e280-5cd0-94ba-0777470f3d73" field="selections" scope="parent" value="20" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="5b91e615-14dc-5e52-af44-82c2e3d557e5" name="Scything Talons" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="4e90f9d1-2b90-5f76-bb71-7728fecf0edf" field="selections" scope="parent" value="19" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="4e90f9d1-2b90-5f76-bb71-7728fecf0edf" field="selections" scope="parent" value="20" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="dbf2acaa-2833-5898-9695-6070953f8531" name="Scything Talons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -7835,7 +7835,7 @@
             </selectionEntry>
             <selectionEntry id="26faf6a4-6dce-55db-8d11-94427d97292d" name="Lash Whip" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="58e7d66a-6da0-5dc3-b84d-4e32b7d3de12" field="selections" scope="parent" value="19" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="58e7d66a-6da0-5dc3-b84d-4e32b7d3de12" field="selections" scope="parent" value="20" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="831ce88e-5e5f-5df5-9c94-343ede908581" name="Lash Whip" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -8243,12 +8243,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="6af74670-4ccd-5f79-b406-1fc11b64c290" name="Special Weapon / System Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="31b1f362-ce1a-5b56-90c6-c15dc7d066bf" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="31b1f362-ce1a-5b56-90c6-c15dc7d066bf" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="aa6c6d83-fad0-569c-bf3b-f4b79bf8f6f8" name="Sniper Rifle" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="2c240503-3757-5cc3-9ea1-4fe04ae178d8" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="2c240503-3757-5cc3-9ea1-4fe04ae178d8" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="9afc658b-ef1f-5907-97ca-b7cac76e4b38" name="Sniper Rifle" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -8266,7 +8266,7 @@
             </selectionEntry>
             <selectionEntry id="678d6f52-4cb8-5b41-9c76-9c3a83e03ff6" name="Flamer" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="bd81b21c-9e71-5083-8152-c2eabee2b166" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="bd81b21c-9e71-5083-8152-c2eabee2b166" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="fba6cc49-f142-5858-b4c2-d1b1697554ac" name="Flamer" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -8284,7 +8284,7 @@
             </selectionEntry>
             <selectionEntry id="e91c7f1b-8059-5721-8fc4-ac7016ca8f86" name="Grenade Launcher" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="42e1d900-f0bd-5852-9fee-b0405b833fcf" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="42e1d900-f0bd-5852-9fee-b0405b833fcf" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="121535dd-8b71-5a59-97f4-a56df4e86be9" name="Grenade Launcher" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -8302,7 +8302,7 @@
             </selectionEntry>
             <selectionEntry id="215a0aea-e3ae-52f3-919d-aef4fb2d8953" name="Plasma Gun" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="124debfd-2392-509e-b211-414014d2cd75" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="124debfd-2392-509e-b211-414014d2cd75" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="23710fb9-aabe-5445-8d39-31f4cb7daf9b" name="Plasma Gun" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -8320,7 +8320,7 @@
             </selectionEntry>
             <selectionEntry id="3406bbff-c120-5421-9255-248c16cc584b" name="Heavy Stubber" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="8123a01e-4fa4-5fcf-8b78-18f3c0ba3154" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="8123a01e-4fa4-5fcf-8b78-18f3c0ba3154" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="d2879b26-3576-50fb-8c0f-d61577aec8ef" name="Heavy Stubber" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -8338,7 +8338,7 @@
             </selectionEntry>
             <selectionEntry id="8f4b1ab2-645e-5f67-8ef7-a022992cdcdd" name="Meltagun" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="e98455f1-7661-5778-9b90-8b02722c0617" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="e98455f1-7661-5778-9b90-8b02722c0617" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="615841ce-f80b-5bc7-8d9e-e061e71fe86d" name="Meltagun" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -8520,12 +8520,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="e78e25c9-dfd1-57d3-a497-c95cca97dbbf" name="Melee Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="8c78a36d-97e9-57fc-b552-43812a5381b8" field="selections" scope="parent" value="5" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="8c78a36d-97e9-57fc-b552-43812a5381b8" field="selections" scope="parent" value="6" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="b1752670-4b26-53be-a939-ddb3cfe2d893" name="Shock Maul" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="172fdc31-b29b-59ce-b994-ba960cd0555f" field="selections" scope="parent" value="5" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="172fdc31-b29b-59ce-b994-ba960cd0555f" field="selections" scope="parent" value="6" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="a2fe9f6c-fe27-598d-b3b3-3b113da13a87" name="Shock Maul" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -9197,12 +9197,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="09b0c2f8-0880-5840-86c1-30e756f729cf" name="Ranged Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="1bec5788-06d3-5fc4-b9b1-4620d2fdfdb8" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="1bec5788-06d3-5fc4-b9b1-4620d2fdfdb8" field="selections" scope="parent" value="11" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="165be79d-f8a1-53f8-8134-21cade0a2d21" name="Shotgun" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="5782ac0f-8db7-5769-b55e-3f6e0e7b6bc7" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="5782ac0f-8db7-5769-b55e-3f6e0e7b6bc7" field="selections" scope="parent" value="11" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="d4167c66-2a91-5b89-a36a-f5e1819c1dc7" name="Shotgun" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -9222,12 +9222,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="2d650363-e376-553a-bfed-7747ed3f6953" name="Special Weapon / System Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="956c7111-9693-5310-997d-e5dd4dd461a0" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="956c7111-9693-5310-997d-e5dd4dd461a0" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="2c32f3e6-36af-5357-9dc4-cec7dd39349c" name="Sniper Rifle" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="e7ce18fd-a194-59a7-b478-34b3e2dbe813" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="e7ce18fd-a194-59a7-b478-34b3e2dbe813" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="651b77eb-9d5c-5166-84a1-b156198edc54" name="Sniper Rifle" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -9245,7 +9245,7 @@
             </selectionEntry>
             <selectionEntry id="2ef24484-3f42-5ac4-8aac-508a7317b470" name="Flamer" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="5ee06285-748e-53e3-bd16-35eb0afa21af" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="5ee06285-748e-53e3-bd16-35eb0afa21af" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="ad67853b-e888-5148-8559-cce7fee34252" name="Flamer" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -9263,7 +9263,7 @@
             </selectionEntry>
             <selectionEntry id="d21afdf8-4d0a-5b03-aa54-6d3840e02e89" name="Grenade Launcher" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="a27057f3-6bec-5b37-9fa2-2facff292372" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="a27057f3-6bec-5b37-9fa2-2facff292372" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="e3e2d64a-2c16-51f9-b053-738baf36de24" name="Grenade Launcher" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -9281,7 +9281,7 @@
             </selectionEntry>
             <selectionEntry id="4f6b1673-4dd5-53fe-93ad-3869c0109f74" name="Plasma Gun" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="dd4d1370-b550-5fc0-99c7-da636045f624" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="dd4d1370-b550-5fc0-99c7-da636045f624" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="602e05bb-78e6-58dc-803b-61db4da7e946" name="Plasma Gun" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -9299,7 +9299,7 @@
             </selectionEntry>
             <selectionEntry id="87730c61-dd68-5703-b6f9-5f3758968a02" name="Heavy Stubber" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="f87578f9-a2de-5db3-8303-42624c96cdb4" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="f87578f9-a2de-5db3-8303-42624c96cdb4" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="c45a7734-85bf-53d4-ba56-ca7657d0914f" name="Heavy Stubber" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -9317,7 +9317,7 @@
             </selectionEntry>
             <selectionEntry id="851ed8fb-7d7c-534c-8065-b7bc7ad13980" name="Meltagun" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="ed0d6918-3b47-5b13-9b53-e2984f463bb1" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="ed0d6918-3b47-5b13-9b53-e2984f463bb1" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="8828a6b0-935e-58d4-9452-34fc65b99e81" name="Meltagun" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -9958,12 +9958,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="3e8dbfa0-220e-5d4e-9546-ee65d59f703d" name="Special Weapon / System Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="c67d4f42-fa97-54fd-b56e-ebbac30bd626" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="c67d4f42-fa97-54fd-b56e-ebbac30bd626" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="78b135dc-8be6-5c90-8bad-96546c33bca7" name="Hotshot Volleygun" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="72adfb89-c822-574d-b6f6-9890f7511054" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="72adfb89-c822-574d-b6f6-9890f7511054" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="d706f2dc-39f7-5863-99de-7b1d34328b1f" name="Hotshot Volleygun" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -9981,7 +9981,7 @@
             </selectionEntry>
             <selectionEntry id="fb73f30a-1684-5fa8-9fab-ea4ca36fcccb" name="Sniper Rifle" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="f4e0f7d7-4dcc-5cca-b8f9-ab3fa59b6c48" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="f4e0f7d7-4dcc-5cca-b8f9-ab3fa59b6c48" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="18593007-d9ec-5855-9944-8c7670ca93c5" name="Sniper Rifle" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -9999,7 +9999,7 @@
             </selectionEntry>
             <selectionEntry id="1cb77a0d-8600-5b92-bbe9-a01b58dfccbd" name="Flamer" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="3d7acb99-ff1e-534b-80da-903983f624ec" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="3d7acb99-ff1e-534b-80da-903983f624ec" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="163719e9-560e-5f24-afab-d398e0032c7b" name="Flamer" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -10017,7 +10017,7 @@
             </selectionEntry>
             <selectionEntry id="9c82dc73-2ad4-593a-8714-857f89a747ac" name="Grenade Launcher" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="5a570332-4ee1-5a6d-a03e-cd4880ddf0af" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="5a570332-4ee1-5a6d-a03e-cd4880ddf0af" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="846d0dd2-94a2-5967-9974-c1b830c5ae81" name="Grenade Launcher" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -10035,7 +10035,7 @@
             </selectionEntry>
             <selectionEntry id="49652135-4b38-5ecd-aa10-546104206c3d" name="Plasma Gun" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="150710ea-9aab-5855-bf3e-cb759d6563cf" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="150710ea-9aab-5855-bf3e-cb759d6563cf" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="c5c4be16-e33e-58df-a552-13cf8024dfc8" name="Plasma Gun" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -10053,7 +10053,7 @@
             </selectionEntry>
             <selectionEntry id="0bf836fc-5ac5-5c6f-9a69-9c65fc02593b" name="Heavy Stubber" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="61eaa8d6-e5d3-5505-8f2c-b0dae41e1df4" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="61eaa8d6-e5d3-5505-8f2c-b0dae41e1df4" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="54ee6b61-147c-538d-94cc-01a1a6385a97" name="Heavy Stubber" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -10071,7 +10071,7 @@
             </selectionEntry>
             <selectionEntry id="92b52d25-df61-5ea1-991c-2a950bfd9348" name="Meltagun" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="5c2385a1-bd2d-5a6d-ace3-b16f8589ef74" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="5c2385a1-bd2d-5a6d-ace3-b16f8589ef74" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="1d836809-3131-5350-8703-3b041fbea13a" name="Meltagun" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -10091,12 +10091,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="d70b0210-ca70-5137-9543-d09bb88b8387" name="Demolition Charge" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="d53e6a18-9f6d-5ffb-bd46-1684cf50efd2" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="d53e6a18-9f6d-5ffb-bd46-1684cf50efd2" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="f44d8597-04cb-5e96-9a43-364a32722e2d" name="Demolition Charge" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="1e4964e0-a2de-56cb-9406-01afadcc7345" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="1e4964e0-a2de-56cb-9406-01afadcc7345" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="dfe1f31d-3659-5dc2-99ac-4e88236247c1" name="Demolition Charge" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -10116,12 +10116,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="e294be71-6058-5751-ab30-282f8c12404c" name="Pistol / Sidearm Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="a64dea6a-40e4-5237-b802-7e88e89d2280" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="a64dea6a-40e4-5237-b802-7e88e89d2280" field="selections" scope="parent" value="11" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="0a838f00-f17b-5e8f-b521-e04dea3df90f" name="Hotshot Laspistol" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="4020f9dc-64d4-50ab-91e4-46a3d3b4fded" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="4020f9dc-64d4-50ab-91e4-46a3d3b4fded" field="selections" scope="parent" value="11" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="4004fec1-3a1f-570a-9095-e454074da974" name="Hotshot Laspistol" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -10869,12 +10869,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="539aa2b9-801f-569e-8f5d-2df3926fc8b4" name="Ranged Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="5af29d92-09ed-5af3-a50e-65d11e573e62" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="5af29d92-09ed-5af3-a50e-65d11e573e62" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="4884aeaf-463f-5ce5-b790-f2ea13b5989b" name="Autogun" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="e712dee9-0425-53db-9030-66fb4b872990" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="e712dee9-0425-53db-9030-66fb4b872990" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="13276573-9cb2-51ad-bf3d-e5854c7774ce" name="Autogun" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -10892,7 +10892,7 @@
             </selectionEntry>
             <selectionEntry id="334a8099-4ca5-5570-9849-9f2583a14bcf" name="Shotgun" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="1d5b8728-14a3-58a1-9a46-e0717b0bcddf" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="1d5b8728-14a3-58a1-9a46-e0717b0bcddf" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="8afd77a3-d1ed-5d4d-a696-98bc309ed631" name="Shotgun" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -10973,12 +10973,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="91dd6ed1-40b2-5e8a-9152-ea879162d804" name="Melee Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="f7a4377f-9bb2-56f9-aee1-dd81c0ef68b9" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="f7a4377f-9bb2-56f9-aee1-dd81c0ef68b9" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="a63be5e9-bdaf-51bb-8837-43e65eab0135" name="Power Axe" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="ea8a4e78-4c6b-5109-93ac-e84b68bfa512" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="ea8a4e78-4c6b-5109-93ac-e84b68bfa512" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="73681572-58a6-573e-9127-2fb23dd9e041" name="Power Axe" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -11412,12 +11412,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="86573373-ba02-5da5-9f86-e6258d209442" name="Ranged Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="376c2c0f-6af5-5da8-a7fc-605944b10e0c" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="376c2c0f-6af5-5da8-a7fc-605944b10e0c" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="ef60f0fc-4bcc-57ba-8318-93a7add064f5" name="Lasgun" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="2f0c268a-0de2-517e-8368-0e8b18cc7b7b" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="2f0c268a-0de2-517e-8368-0e8b18cc7b7b" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="48d583db-18de-5c2f-8ed7-ffea3b01bb1c" name="Lasgun" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -11437,12 +11437,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="e2c75697-d6a2-51af-8fdd-f5fe20f2d2a8" name="Melee Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="d917c591-e348-5e59-8586-6d2c4e5e45d0" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="d917c591-e348-5e59-8586-6d2c4e5e45d0" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="a98b280b-9793-5034-92e3-e2bf7e15f7b9" name="Power Sword" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="da3b25c9-07f3-50fe-a157-72e3227710b3" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="da3b25c9-07f3-50fe-a157-72e3227710b3" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="a0178791-de10-5d41-976b-3041c82b9a0c" name="Power Sword" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -11462,12 +11462,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="a4a13645-3054-5637-9db1-6467435f1cdc" name="Special Loadout Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="82dd6f99-dc07-527a-ac9e-07ffd1687615" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="82dd6f99-dc07-527a-ac9e-07ffd1687615" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="c0ccf7d1-934c-54b3-a0ec-1fa0db34c443" name="Hunting Lance" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="f63310a6-7ce7-5acb-93d4-a685871f1123" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="f63310a6-7ce7-5acb-93d4-a685871f1123" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="d645d5a0-eb4b-583d-b14a-b424cd327686" name="Hunting Lance" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -25361,18 +25361,18 @@
             </profile>
           </profiles>
           <selectionEntryGroups>
-            <selectionEntryGroup id="b596506b-5a96-5e4d-9108-dc1a77e4d9f7" name="Wing Hardpoints / Ordnance (Replace 2 Linked Multilasers)" hidden="false" collective="false" import="true" defaultSelectionEntryId="f299cfd8-f602-528c-ba67-3f082fffd948">
+            <selectionEntryGroup id="4ca15c43-328b-5207-8e5d-60e1d018f884" name="Wing Hardpoints / Ordnance 1 (Replace 2 Linked Multilasers)" hidden="false" collective="false" import="true" defaultSelectionEntryId="472db572-9e1d-5d6b-91c4-b7aaebc101c4">
               <constraints>
-                <constraint id="e1e820aa-f60c-5005-bcea-07d889933757" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-                <constraint id="ac3a9c34-ca73-5e12-a707-d675c773a599" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="7ca430d8-186e-5ec2-b063-4f3e4e932bc4" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+                <constraint id="9c756649-6e97-5b14-931b-0f9049e14fab" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="f299cfd8-f602-528c-ba67-3f082fffd948" name="2 Linked Multilasers" hidden="false" collective="false" import="true" type="upgrade">
+                <selectionEntry id="472db572-9e1d-5d6b-91c4-b7aaebc101c4" name="2 Linked Multilasers" hidden="false" collective="false" import="true" type="upgrade">
                   <constraints>
-                    <constraint id="cc0715fe-189e-5028-b55e-f809c89e4c37" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                    <constraint id="a862e715-61f9-5fcb-9242-3981067b292d" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
                   </constraints>
                   <profiles>
-                    <profile id="cfd800a3-2efd-5ba1-ad4f-ded49bd4db18" name="2 Linked Multilasers" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                    <profile id="0b7bd64c-9e7e-5c68-aa49-540d2e71ca3b" name="2 Linked Multilasers" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                       <characteristics>
                         <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">36</characteristic>
                         <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">6</characteristic>
@@ -25385,12 +25385,12 @@
                     <cost name="pts" typeId="points" value="0"/>
                   </costs>
                 </selectionEntry>
-                <selectionEntry id="d8b80b40-0edb-5bb7-afd3-70a0ea3fbee2" name="2 Linked Autocannons" hidden="false" collective="false" import="true" type="upgrade">
+                <selectionEntry id="50c72125-1e8a-5f01-9011-119a6501a0fe" name="2 Linked Autocannons" hidden="false" collective="false" import="true" type="upgrade">
                   <constraints>
-                    <constraint id="8cd52e0a-fa71-5c02-828c-242ba5aa2401" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                    <constraint id="988539ce-a2e2-509f-9809-50b7303a45bf" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
                   </constraints>
                   <profiles>
-                    <profile id="3a13ff48-e9f4-5356-afc3-953cb4d85a9d" name="2 Linked Autocannons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                    <profile id="9521f366-b3e1-54f1-879e-32861f5a1a9f" name="2 Linked Autocannons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                       <characteristics>
                         <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">48</characteristic>
                         <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">7</characteristic>
@@ -25403,12 +25403,12 @@
                     <cost name="pts" typeId="points" value="4"/>
                   </costs>
                 </selectionEntry>
-                <selectionEntry id="b0cc021e-b6e0-542c-b155-1f4b55abc5e3" name="2 Linked Hellstrike Missiles" hidden="false" collective="false" import="true" type="upgrade">
+                <selectionEntry id="b43cf5ce-9c8a-5fe2-a423-85b4cb8d82c6" name="2 Linked Hellstrike Missiles" hidden="false" collective="false" import="true" type="upgrade">
                   <constraints>
-                    <constraint id="01797348-eaa4-5410-9373-b8a70d66bace" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                    <constraint id="62970acb-540b-5e7f-a0d7-1db6555658c2" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
                   </constraints>
                   <profiles>
-                    <profile id="1376edcf-3c92-5253-8f59-29c37cc4ff9b" name="2 Linked Hellstrike Missiles" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                    <profile id="084ae248-fdbb-51ef-938d-176000ba8dd5" name="2 Linked Hellstrike Missiles" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                       <characteristics>
                         <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">72</characteristic>
                         <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">8</characteristic>
@@ -25421,12 +25421,12 @@
                     <cost name="pts" typeId="points" value="4"/>
                   </costs>
                 </selectionEntry>
-                <selectionEntry id="f167c924-af69-51b6-831d-b7759b0fb60e" name="2 Linked Tactical Bomb Racks" hidden="false" collective="false" import="true" type="upgrade">
+                <selectionEntry id="d7966363-7cc6-5034-a39f-455e5d38fae8" name="2 Linked Tactical Bomb Racks" hidden="false" collective="false" import="true" type="upgrade">
                   <constraints>
-                    <constraint id="9502f9d2-0c40-59b1-b209-5b85e9f4e76a" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                    <constraint id="4dcec32c-25ba-5478-9fc3-eb192019c47c" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
                   </constraints>
                   <profiles>
-                    <profile id="4486ef9a-998a-51cc-a7ae-a580fc263ff8" name="2 Linked Tactical Bomb Racks" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                    <profile id="cf836e2c-bb87-5710-9d7b-806ea748a685" name="2 Linked Tactical Bomb Racks" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                       <characteristics>
                         <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Bomb</characteristic>
                         <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">6</characteristic>
@@ -25439,12 +25439,12 @@
                     <cost name="pts" typeId="points" value="4"/>
                   </costs>
                 </selectionEntry>
-                <selectionEntry id="ceb8d34f-0650-5a60-bd44-e801400109f9" name="2 Linked Hellfury Missiles" hidden="false" collective="false" import="true" type="upgrade">
+                <selectionEntry id="5b4a1575-5ff8-5f7b-b7ac-845634b420af" name="2 Linked Hellfury Missiles" hidden="false" collective="false" import="true" type="upgrade">
                   <constraints>
-                    <constraint id="bba53b92-f836-5d45-9a3e-9007adc9f238" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                    <constraint id="daaf76e7-9e7d-57cb-9d58-0a6794abebea" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
                   </constraints>
                   <profiles>
-                    <profile id="43ff3ad9-3f2a-5065-bff4-52d2fca19dc0" name="2 Linked Hellfury Missiles" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                    <profile id="bda19127-b576-536f-a96f-cf08261aa055" name="2 Linked Hellfury Missiles" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                       <characteristics>
                         <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">72</characteristic>
                         <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">4</characteristic>
@@ -25457,12 +25457,12 @@
                     <cost name="pts" typeId="points" value="6"/>
                   </costs>
                 </selectionEntry>
-                <selectionEntry id="99a353af-88b8-5970-86f7-6d92fabd079e" name="2 Linked Multiple Rocket Pods" hidden="false" collective="false" import="true" type="upgrade">
+                <selectionEntry id="cf114c61-2e62-52f2-9c70-b9ee36f8d555" name="2 Linked Multiple Rocket Pods" hidden="false" collective="false" import="true" type="upgrade">
                   <constraints>
-                    <constraint id="2e7b91fd-3b67-5926-8a1c-580990e27255" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                    <constraint id="793e4db9-0886-5c59-bace-b51798bfd692" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
                   </constraints>
                   <profiles>
-                    <profile id="54cfac76-2665-596e-956c-9471fc3c03af" name="2 Linked Multiple Rocket Pods" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                    <profile id="0c0bf109-aa86-5847-988d-2d91b2458a8c" name="2 Linked Multiple Rocket Pods" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                       <characteristics>
                         <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">48</characteristic>
                         <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">4</characteristic>
@@ -25475,12 +25475,12 @@
                     <cost name="pts" typeId="points" value="8"/>
                   </costs>
                 </selectionEntry>
-                <selectionEntry id="41f0ae0d-daa6-50fe-afda-87b8b50f82fd" name="2 linked Lascannons" hidden="false" collective="false" import="true" type="upgrade">
+                <selectionEntry id="fda6c61b-1635-5d91-87c5-f84db3d4ecb6" name="2 linked Lascannons" hidden="false" collective="false" import="true" type="upgrade">
                   <constraints>
-                    <constraint id="5f0d7c2f-68bf-5f15-8cec-0911cd475ca1" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                    <constraint id="81996336-541a-5df8-9341-2396b1e599c4" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
                   </constraints>
                   <profiles>
-                    <profile id="69a40126-4aaa-5de6-a373-ea59a94ebec1" name="2 linked Lascannons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                    <profile id="a9c777a9-ffba-5c5b-ad68-10588a0fe535" name="2 linked Lascannons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                       <characteristics>
                         <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">48</characteristic>
                         <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">9</characteristic>
@@ -25493,12 +25493,164 @@
                     <cost name="pts" typeId="points" value="12"/>
                   </costs>
                 </selectionEntry>
-                <selectionEntry id="02866e91-75df-5df9-aa47-b252022f26ba" name="2 Linked Missile Launchers" hidden="false" collective="false" import="true" type="upgrade">
+                <selectionEntry id="d24891d5-0aae-5ba6-8e4b-0f977f7a845d" name="2 Linked Missile Launchers" hidden="false" collective="false" import="true" type="upgrade">
                   <constraints>
-                    <constraint id="b860e03b-d07a-54e7-ac19-0b0fd2f36bde" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                    <constraint id="bab74fdd-5e64-5164-84e8-024d6349ce6a" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
                   </constraints>
                   <profiles>
-                    <profile id="a1762bcd-5d89-5ddc-8dc6-3c6a75eb10e4" name="2 Linked Missile Launchers" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                    <profile id="2cae5ff4-2182-5236-b7d6-95b961e904a0" name="2 Linked Missile Launchers" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                      <characteristics>
+                        <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">48 or 48</characteristic>
+                        <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">8 or 4</characteristic>
+                        <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">3+ or 6+</characteristic>
+                        <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 1 x2, Monsterbane, Hull Heavy 1 x2, 3” Blast, Hull, Primary</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                  <costs>
+                    <cost name="pts" typeId="points" value="12"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="2cfc04c8-d288-5d5a-99b3-e6043b3be7d2" name="Wing Hardpoints / Ordnance 2 (Replace 2 Linked Multilasers)" hidden="false" collective="false" import="true" defaultSelectionEntryId="6b0519e1-e02a-5351-902f-c45812c5cc0b">
+              <constraints>
+                <constraint id="0ad1d2d1-1da2-5720-8b92-4faedbfd60a4" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+                <constraint id="1f9c5689-be31-52e2-bc7b-60ab735284c3" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="6b0519e1-e02a-5351-902f-c45812c5cc0b" name="2 Linked Multilasers" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="ead6e641-096e-562a-b9cb-099e41ab2e78" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="0729defa-0a09-5fcb-adcb-49595a008424" name="2 Linked Multilasers" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                      <characteristics>
+                        <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">36</characteristic>
+                        <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">6</characteristic>
+                        <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">6+</characteristic>
+                        <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 3 x2, Hull, Primary</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                  <costs>
+                    <cost name="pts" typeId="points" value="0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="d0139815-801a-5313-b4a4-732550ae2b9b" name="2 Linked Autocannons" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="2df95c09-e0e3-5d1a-8311-e228eeb59227" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="a59253b5-9b21-5e4d-be69-69ab88f1ef66" name="2 Linked Autocannons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                      <characteristics>
+                        <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">48</characteristic>
+                        <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">7</characteristic>
+                        <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">4+</characteristic>
+                        <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 2 x2, Monsterbane, Hull, Primary</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                  <costs>
+                    <cost name="pts" typeId="points" value="4"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="58ddbc88-c9b6-5fa3-a169-be7da575538d" name="2 Linked Hellstrike Missiles" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="b229bf14-36d8-598b-b017-a5a781ff9f7b" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="0e0d5adb-a6c3-57c8-9b29-01523c2ea70f" name="2 Linked Hellstrike Missiles" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                      <characteristics>
+                        <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">72</characteristic>
+                        <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">8</characteristic>
+                        <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">3+</characteristic>
+                        <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 1 x2, Ordnance, Monsterbane, One Use Only, Hull, Primary</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                  <costs>
+                    <cost name="pts" typeId="points" value="4"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="c338777c-9463-519f-b45f-d3bb973a9ea1" name="2 Linked Tactical Bomb Racks" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="59444abd-8676-5ec8-b357-d8f75efe7508" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="0e8afa25-3d96-5331-9831-0357dda02e11" name="2 Linked Tactical Bomb Racks" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                      <characteristics>
+                        <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Bomb</characteristic>
+                        <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">6</characteristic>
+                        <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">4+</characteristic>
+                        <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 1 x2, 3” Blast, Pinning, Hull, Primary</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                  <costs>
+                    <cost name="pts" typeId="points" value="4"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="c0a5b219-18ed-513b-8a1c-96cb7b328179" name="2 Linked Hellfury Missiles" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="b195291c-4982-5c94-8ef6-c61d89b92326" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="dc8a3d7a-3d31-5b43-bf06-abf9a2e2d896" name="2 Linked Hellfury Missiles" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                      <characteristics>
+                        <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">72</characteristic>
+                        <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">4</characteristic>
+                        <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">5+</characteristic>
+                        <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 1 x2, 5” Blast, Ignores Cover, One Use Only, Hull, Primary</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                  <costs>
+                    <cost name="pts" typeId="points" value="6"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="eb7309f2-0445-538d-b00f-25d174c33f46" name="2 Linked Multiple Rocket Pods" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="5aa8ede5-b574-5f4d-90b1-f4cfca8de288" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="1cc05110-dfa1-5ec0-a719-bbb03790ddb5" name="2 Linked Multiple Rocket Pods" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                      <characteristics>
+                        <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">48</characteristic>
+                        <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">4</characteristic>
+                        <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">6+</characteristic>
+                        <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 1 x2, 5” Blast, Hull</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                  <costs>
+                    <cost name="pts" typeId="points" value="8"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="62722dc0-bda0-5b95-bf14-4232522396a9" name="2 linked Lascannons" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="de870590-692a-58c9-8a8e-a7b281192323" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="845bdb3f-4812-5cbe-9067-85451163f58a" name="2 linked Lascannons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                      <characteristics>
+                        <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">48</characteristic>
+                        <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">9</characteristic>
+                        <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">2+</characteristic>
+                        <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 1 x2, Monsterbane, Hull, Primary</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                  <costs>
+                    <cost name="pts" typeId="points" value="12"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="42e4b798-6a73-556c-9204-f4ee0bd6eb49" name="2 Linked Missile Launchers" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="1dea54a9-a17b-5059-b6b6-13668e174bf5" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="5a38d8d5-ec81-564a-8bc1-af71e80ea87e" name="2 Linked Missile Launchers" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                       <characteristics>
                         <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">48 or 48</characteristic>
                         <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">8 or 4</characteristic>
@@ -27437,18 +27589,18 @@
         <infoLink id="8b3a7a48-c42e-558b-b1aa-36ef1ca020b6" name="Transport" hidden="false" targetId="9c524365-05e9-5970-827c-e584ee25b266" type="rule"/>
       </infoLinks>
       <selectionEntryGroups>
-        <selectionEntryGroup id="3f053225-9d72-5fa8-993f-c9a9fa78939b" name="Hull / Main Weapon (Replace Storm Bolter)" hidden="false" collective="false" import="true" defaultSelectionEntryId="43901458-2026-5fc2-9e9f-5671eb30e9df">
+        <selectionEntryGroup id="ed43bedf-49a7-52ad-ba31-38074ec861ef" name="Hull / Main Weapon 1 (Replace Storm Bolter)" hidden="false" collective="false" import="true" defaultSelectionEntryId="0b8a37c5-c346-536c-a325-89e1fbcb44a4">
           <constraints>
-            <constraint id="fde52bb1-cbc2-5883-98f0-991268bdc369" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="85c3d634-471d-5abf-bd4c-c0a9bc1a6884" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="592e28e3-4dc6-5191-80ca-5a0dfd7e883c" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="90fda879-232e-5111-a7ee-ff79063e7a30" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="43901458-2026-5fc2-9e9f-5671eb30e9df" name="Storm Bolter" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="0b8a37c5-c346-536c-a325-89e1fbcb44a4" name="Storm Bolter" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="ed1d31a0-76da-5745-8039-36d6ae939540" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="98f89828-4b73-5f45-9552-3f140c77e09a" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="d8a4ba55-4678-5bb6-993d-6e7b367cbefc" name="Storm Bolter" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="8888f931-0c21-5616-805d-4b4639410944" name="Storm Bolter" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">24</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">4</characteristic>
@@ -27461,12 +27613,12 @@
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="6a724373-b670-59fe-9167-81b0032b405f" name="Heavy Flamer" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="964b3b9e-70bd-55f9-95cd-d38791712a33" name="Heavy Flamer" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="85da6c95-c209-5e75-b3fd-623570fded4b" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="d887887d-a36a-549e-8f3f-d801b568ce2d" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="73be50c6-db76-5d68-8511-ecb144da28e5" name="Heavy Flamer" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="aaae995d-5bb6-5c2f-ad44-6e3769df9f86" name="Heavy Flamer" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Flame</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">5</characteristic>
@@ -27479,12 +27631,74 @@
                 <cost name="pts" typeId="points" value="3"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="36d8d357-0ae2-5a78-86fd-43b84216252f" name="2 Linked Terrax Volkite Chargers" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="d32d768f-cca1-5674-a4a1-d454a460ca5f" name="2 Linked Terrax Volkite Chargers" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="486e968c-e193-52f3-b32e-78ef975a2aba" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="10ecb4ac-0076-5899-9526-47a8b63c6cfd" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="88499909-75fc-5411-8e09-81e7d17dacfa" name="2 Linked Terrax Volkite Chargers" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="1cd1edc6-dca6-54bd-871a-64fbae7ff9c0" name="2 Linked Terrax Volkite Chargers" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">18</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">5</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">4+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 1 x2, Beam, Hull</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="4"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="6f926488-53a0-524d-9f96-d90be1f83852" name="Hull / Main Weapon 2 (Replace Storm Bolter)" hidden="false" collective="false" import="true" defaultSelectionEntryId="b057604f-0717-5932-87d4-bf02601d6af0">
+          <constraints>
+            <constraint id="966303a8-363b-5605-a91f-b642dbeb3904" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="8d52cdaa-6d04-5d49-b21f-d960557e7423" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="b057604f-0717-5932-87d4-bf02601d6af0" name="Storm Bolter" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="d43793ef-48b1-57f7-a2b0-ee85b9f49e2e" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="01db7395-529d-5bc9-a90c-3e3901878d8f" name="Storm Bolter" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">24</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">4</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">5+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Rapid Fire 2, Hull</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="4627539e-a025-5f80-bb45-2aa6fd4b9c67" name="Heavy Flamer" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="b0504d75-c163-5d43-bcce-39a5b9aa84af" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="7d89108a-99ab-5895-bdd6-77a8d782c384" name="Heavy Flamer" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Flame</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">5</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">4+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Assault 1, Hull</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="3"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="c2bd7e00-5f2d-5ff0-a4aa-b996880a77d7" name="2 Linked Terrax Volkite Chargers" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="b859e32b-0623-5576-8e50-097e2cd98bc6" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="963eebf8-cce7-5660-aa8c-518af7f317e0" name="2 Linked Terrax Volkite Chargers" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">18</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">5</characteristic>

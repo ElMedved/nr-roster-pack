@@ -3812,12 +3812,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="07efd16b-31ad-5501-828f-13193a98c26c" name="Ranged Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="360c3076-7aa3-5802-8719-bebc079f3144" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="360c3076-7aa3-5802-8719-bebc079f3144" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="c2e198ba-c849-59c6-856b-d4cec8cdfb30" name="Atomizer Beam" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="fc96828c-4ccc-5aa5-a13b-a5805d53c5bd" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="fc96828c-4ccc-5aa5-a13b-a5805d53c5bd" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="71532622-1abb-59d0-9ce2-f7491c00f5f3" name="Atomizer Beam" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -7414,6 +7414,24 @@
         <infoLink id="34b1630f-1d3b-5808-a50a-77db6d7bc74b" name="Fearless" hidden="false" targetId="bd22ae83-85f7-535c-9988-99fe047aef55" type="rule"/>
         <infoLink id="fb9c0e7e-e8d6-5cd7-90a8-c5086f28a698" name="Soulless Machine" hidden="false" targetId="44090a0c-3b26-58df-91a0-090c2adfe7a6" type="rule"/>
       </infoLinks>
+      <selectionEntries>
+        <selectionEntry id="b41cd2cd-61be-5d28-bffb-0eb457903da3" name="Randomize C'Tan Power each turn" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint id="e24c1d22-f5ff-5135-9ae7-19e5bc17290d" field="selections" scope="parent" value="0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="040d86fc-258a-578a-83df-7b33adc77c61" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+          </constraints>
+          <profiles>
+            <profile id="ee97c0aa-b7d7-54fa-9672-a35ce9ce1f33" name="Randomize C'Tan Power each turn" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+              <characteristics>
+                <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">May choose up to two C’Tan Powers or randomly choose two each turn for +54 points</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="pts" typeId="points" value="54"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
       <selectionEntryGroups>
         <selectionEntryGroup id="939d7f26-8d30-529f-9fce-ebbf9039c268" name="Weapon Option (POWER)" hidden="false" collective="false" import="true">
           <constraints>
@@ -7797,6 +7815,24 @@
         <infoLink id="11fb3c9d-e89f-535d-9aa0-83f34688f419" name="Deepstrike" hidden="false" targetId="293506eb-35a8-5124-8a22-afe49151628f" type="rule"/>
         <infoLink id="ebf7b6bb-846d-55b3-abf1-f03cf5a6a0c9" name="Open Topped" hidden="false" targetId="eebb19b2-145a-530d-bb48-27ecca51d325" type="rule"/>
       </infoLinks>
+      <selectionEntries>
+        <selectionEntry id="d2655d3d-975d-56b4-a049-dc09b2f6659b" name="Randomize C'Tan Power each turn" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint id="c6d6ac14-837b-51ba-9de5-d3a9e458e6f7" field="selections" scope="parent" value="0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="9714c456-8976-5c62-9b12-ad32f88b7103" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+          </constraints>
+          <profiles>
+            <profile id="3f68a6c3-a77a-5588-9abb-bc9ed94a24db" name="Randomize C'Tan Power each turn" hidden="false" typeId="ac5ce483-3b55-59be-afc5-de14cfb350f6" typeName="Wargear">
+              <characteristics>
+                <characteristic name="Description" typeId="1c2f4080-02ec-5486-826a-4d2299dd0bb1">Tesseract Vault may purchase two C’Tan Powers, either of which may be randomized each turn for +93 points each instead.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="pts" typeId="points" value="93"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
       <selectionEntryGroups>
         <selectionEntryGroup id="c74b30fc-caa8-5ef5-9706-ed04dc22d212" name="Weapon Option (POWER)" hidden="false" collective="false" import="true">
           <constraints>

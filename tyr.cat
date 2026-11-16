@@ -2086,18 +2086,18 @@
         <infoLink id="d042b2b9-3c56-5a1a-82aa-ee57dc8773ef" name="Synapse" hidden="false" targetId="ea3d749e-8c64-57e5-9ef6-92a5a943adff" type="rule"/>
       </infoLinks>
       <selectionEntryGroups>
-        <selectionEntryGroup id="42761d53-552c-5b9d-b9d4-6ddb60033e41" name="Replace Rending Claws With (Melee Weapon Option)" hidden="false" collective="false" import="true" defaultSelectionEntryId="a7f487a8-88da-555c-9502-10c47b6d5341">
+        <selectionEntryGroup id="3903084e-9eea-580a-b401-7d430321a274" name="Melee Weapon Option 1 (Replace Rending Claws)" hidden="false" collective="false" import="true" defaultSelectionEntryId="6396cf2a-cad0-5c1c-8aa0-84b59ef74de9">
           <constraints>
-            <constraint id="7e41f5e0-b754-5be7-a876-691db73fa18f" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="41cf314d-a202-5d59-845c-d87c9d00d312" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="771aae9c-6301-51f2-b25d-b8b26aff8d30" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="70f53e88-76fd-55f7-9dfb-341ccb8fbe8c" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="a7f487a8-88da-555c-9502-10c47b6d5341" name="Rending Claws" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="6396cf2a-cad0-5c1c-8aa0-84b59ef74de9" name="Rending Claws" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="208a3df3-4266-52c8-8c41-49f0a55b1d8d" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="24aae3d2-17e4-56b0-b39f-03c27d76666c" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="a4cb5459-db69-5258-a5a2-83ca57cc2930" name="Rending Claws" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="c467c3fd-27b3-5a96-8e73-3ffd1a06f64c" name="Rending Claws" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
@@ -2110,12 +2110,56 @@
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="98731e82-0ce6-5b09-a1a4-772cc1a01d6f" name="Scything Talons" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="e5583b0a-6b75-545e-bc02-bdbcc95eda57" name="Scything Talons" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="be58800c-c066-5c35-808a-2a2bd252f7c2" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="3b0c039d-def0-5dac-b1a6-e54a5951b45e" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="30ab23aa-eabd-5d95-98c3-dd66bb98f183" name="Scything Talons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="2fd2c058-bb9f-5188-9e5a-49e1f4e10e82" name="Scything Talons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">-</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Extra Attack 1, Reroll 1’s To Hit</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="0"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="b5c03a39-fdde-5540-a689-78c5fd215f9c" name="Melee Weapon Option 2 (Replace Rending Claws)" hidden="false" collective="false" import="true" defaultSelectionEntryId="7a87eca2-78d6-516f-8676-52498a980ae1">
+          <constraints>
+            <constraint id="619c5c77-1e25-5792-aa24-e9dde986ff8d" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="ec51a256-885f-55ba-876b-76ee7777ddfb" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="7a87eca2-78d6-516f-8676-52498a980ae1" name="Rending Claws" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="812ee9f8-4dbb-5313-a87a-6aee52578a56" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="dd5ae582-8fc5-518f-867f-cc439b0d246d" name="Rending Claws" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">5+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Rending</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="21fce504-2566-508f-a3cb-644ad00f44c7" name="Scything Talons" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="7b86ceda-6a19-5f80-b218-effd78211376" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="9ce0b92b-2345-5898-a847-d66a591aba44" name="Scything Talons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
@@ -2267,18 +2311,18 @@
         <infoLink id="99d4f008-26d8-5a6a-91be-4c3b07caf1d3" name="Synapse" hidden="false" targetId="ea3d749e-8c64-57e5-9ef6-92a5a943adff" type="rule"/>
       </infoLinks>
       <selectionEntryGroups>
-        <selectionEntryGroup id="9d294e9f-a3b4-5cce-9305-1f5d6a779c4b" name="Replace Rending Claws With (Melee Weapon Option)" hidden="false" collective="false" import="true" defaultSelectionEntryId="0e827936-090a-530d-88fb-84b55c3994c9">
+        <selectionEntryGroup id="7bdb08ae-74aa-5d8f-96ea-b7ece242f62f" name="Melee Weapon Option 1 (Replace Rending Claws)" hidden="false" collective="false" import="true" defaultSelectionEntryId="7d54ffb9-6553-567a-968e-df55b647868c">
           <constraints>
-            <constraint id="fac76351-8e0c-52c7-a4e9-1901ee0dbd94" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="4fc02ecf-b7cb-5e77-9a4f-0f705a99f6fb" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="e3c69807-fd1e-5a86-a6f1-fa187785cec1" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="1e28538c-2ae5-5f58-bdb4-56d92baa9d81" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="0e827936-090a-530d-88fb-84b55c3994c9" name="Rending Claws" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="7d54ffb9-6553-567a-968e-df55b647868c" name="Rending Claws" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="8f30500d-dff3-5f5c-bcb4-a6b6f3147cf1" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="1f393551-e81b-5564-9595-ef7504e58029" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="4f857b0f-29b7-54ba-b5d1-d280cacbc1f2" name="Rending Claws" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="69aef401-742d-5b96-91e4-95ebe5962cc3" name="Rending Claws" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
@@ -2291,12 +2335,12 @@
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="8641a6a7-729a-572c-9339-f4b8f1e54bd4" name="Scything Talons" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="746acc58-b97f-5298-b049-3a8890e2e973" name="Scything Talons" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="4f49eb72-1810-5a60-80c1-1cb48461afae" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="a5f724a6-bdd4-5bf9-8df2-a360fcfb08af" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="cb71c542-f78a-51c3-872c-4e17b053e704" name="Scything Talons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="710c468a-26c1-5aec-8983-a2e4d5a17d3f" name="Scything Talons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
@@ -2309,12 +2353,12 @@
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="636d65f6-904c-5388-8277-e1d3f4de4fca" name="Bone Swords" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="28a7d29c-9c67-5350-8dbb-49e335cadceb" name="Bone Swords" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="3045f525-db00-54a9-bc1f-bfccdc53b175" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="b4d19152-d53a-52ff-9d09-59770603b4d5" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="199c323e-0de6-5158-b6b3-a886490e3f82" name="Bone Swords" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="70393e35-7652-514b-8bb5-7eac05937c2a" name="Bone Swords" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
@@ -2327,12 +2371,92 @@
                 <cost name="pts" typeId="points" value="3"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="013b55f3-82c7-5743-b36d-ec481f54db9b" name="Lash Whip and Bone Sword" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="b04662ab-5324-5f77-ab0c-3f0bd0d917e3" name="Lash Whip and Bone Sword" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="98fac147-afb1-5ce4-9c0a-210c60957250" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="2075522e-2f72-587b-ae4d-43cab69ff554" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="e1ed8ff2-7ef0-5494-8bc2-9481b61f13ea" name="Lash Whip and Bone Sword" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="164fbff4-6d66-56a7-8628-eb2bd79ba22c" name="Lash Whip and Bone Sword" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">3+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Counterattack, Initiative 6</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="9"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="1283bf19-799b-56f3-82a9-a8b6df218e0b" name="Melee Weapon Option 2 (Replace Rending Claws)" hidden="false" collective="false" import="true" defaultSelectionEntryId="b8f4ff6e-da23-524b-9675-8e495f69cbb2">
+          <constraints>
+            <constraint id="95ad1c7d-49ff-56fb-8e99-43b00a94314b" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="c888cb32-d86d-537f-b4e7-9609303fefbb" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="b8f4ff6e-da23-524b-9675-8e495f69cbb2" name="Rending Claws" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="9a673032-530e-5c8a-845b-e845b4f83b0b" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="894d1290-5f6b-5bd9-ad8b-dfed7f50f56d" name="Rending Claws" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">5+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Rending</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="6d496062-43c3-5854-9640-76d53b5ed8d7" name="Scything Talons" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="1914fc85-81ad-57a2-a525-4bb158468e01" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="d87362ae-7fbb-5366-8975-fdc70f90deac" name="Scything Talons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">-</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Extra Attack 1, Reroll 1’s To Hit</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="b7a82df2-1ae2-5cbc-a98c-58f1ec12b84d" name="Bone Swords" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="e0657e3a-83c7-59dc-9290-693add26b670" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="b0d63b34-73bb-5122-a609-05ab19645f15" name="Bone Swords" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">3+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Extra Attack 1</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="3"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="e1bc3c3d-cf7e-5ead-9efc-a77a7f5471c8" name="Lash Whip and Bone Sword" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="4f8b530e-febf-5557-86d3-863707a26641" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="486eae7c-c988-538f-b24c-f29b0e661499" name="Lash Whip and Bone Sword" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
@@ -2552,18 +2676,18 @@
         <infoLink id="609f037e-6705-5eb0-824d-49c9f43f30e3" name="Synapse" hidden="false" targetId="ea3d749e-8c64-57e5-9ef6-92a5a943adff" type="rule"/>
       </infoLinks>
       <selectionEntryGroups>
-        <selectionEntryGroup id="f9ef4110-ab57-541c-86c1-540d3ef9aba9" name="Replace Rending Claws With (Melee Weapon Option)" hidden="false" collective="false" import="true" defaultSelectionEntryId="4b71c43b-3050-5bea-a8e2-a71d959925a4">
+        <selectionEntryGroup id="705311f2-b25a-57b2-9690-c7f7bc52b720" name="Melee Weapon Option 1 (Replace Rending Claws)" hidden="false" collective="false" import="true" defaultSelectionEntryId="247c353e-b18c-5238-b7eb-6400b4117b28">
           <constraints>
-            <constraint id="8c3da35e-a0a5-5c82-bac0-720ce273e4c3" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="ffb0726a-0d45-5b45-8b48-16d43c668a24" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="642153a3-1f2d-5a95-9809-7f088e95ab30" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="eaefd8a3-67e7-580f-9e2c-548ac22572f3" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="4b71c43b-3050-5bea-a8e2-a71d959925a4" name="Rending Claws" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="247c353e-b18c-5238-b7eb-6400b4117b28" name="Rending Claws" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="26036686-e3b4-574e-af29-c9710d2900f7" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="9f78d31b-a2f0-5dc7-99c3-2fece12ab680" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="81827a97-9066-5f14-a310-69bdb3ba6a40" name="Rending Claws" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="d717d625-e53d-5038-9f71-98a776ca3ebe" name="Rending Claws" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
@@ -2576,12 +2700,12 @@
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="2d6d51b9-47af-54d7-9f3c-26ce663f59e0" name="Scything Talons" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="4bd7ccdb-4105-50f6-80c3-9ef703a7a29f" name="Scything Talons" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="2fc4494e-d8fa-5517-b0c6-6a29e1b987d5" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="57e417bc-0bd0-53aa-aa1b-ef3f7e71895d" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="71dadee5-3efb-590b-9b4e-8facbc63f1c1" name="Scything Talons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="38e0412e-c734-5fac-9569-6a039bef79df" name="Scything Talons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
@@ -2594,12 +2718,12 @@
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="69a0e959-9174-5b71-8a13-5da049f606a1" name="Bone Swords" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="d5fd7118-013e-518d-80ed-095e1605da49" name="Bone Swords" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="6a64ee17-2278-5a4b-adda-a86d454a5592" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="6c99719f-7b16-5593-a79d-738c95d23ee1" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="7a0fee45-d789-5871-8fb1-726709175bba" name="Bone Swords" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="ba48fe19-f7ed-5968-9561-d0d5aaa65499" name="Bone Swords" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
@@ -2612,12 +2736,92 @@
                 <cost name="pts" typeId="points" value="3"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="df822aca-1218-5554-a6c0-ad9ccb4f61a7" name="Lash Whip and Bone Sword" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="76ad6ed1-aff0-5dfc-82ee-53bff661a94a" name="Lash Whip and Bone Sword" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="99f42b0c-cb0b-5d2b-a18d-5f9eda62538d" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="c88ab318-d3de-5248-8f0e-ac302c140ca3" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="27901a41-ef70-55b7-868c-79ef83f1551a" name="Lash Whip and Bone Sword" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="fa30744d-ab21-5f5d-b38d-0cdcd3a82ca6" name="Lash Whip and Bone Sword" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">3+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Counterattack, Initiative 6</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="9"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="36b351fa-3ca0-543e-9d45-db33a40d9b90" name="Melee Weapon Option 2 (Replace Rending Claws)" hidden="false" collective="false" import="true" defaultSelectionEntryId="57f9d952-b395-5fba-ac28-1c45a351c8c2">
+          <constraints>
+            <constraint id="d1b17ef8-b8bb-59b6-beba-90673662e259" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="5bfaa2e7-bca4-5072-b666-fcc0ffaee31a" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="57f9d952-b395-5fba-ac28-1c45a351c8c2" name="Rending Claws" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="001f8d1b-7343-583b-a494-7982d5544c53" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="9c5324c4-ae80-5272-9dbe-bbed80e74f76" name="Rending Claws" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">5+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Rending</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="d58dc3b8-9fc7-5434-9f68-a089aa6ef3c3" name="Scything Talons" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="880f7d37-fa92-50b0-ab62-cd404f0411fd" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="60a5d0c0-22bf-5675-9551-174a17446d2a" name="Scything Talons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">-</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Extra Attack 1, Reroll 1’s To Hit</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="cac58f9c-51ba-5862-81b3-1be807eb282a" name="Bone Swords" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="0d98a4cf-9a13-5a8a-b323-f849df49e6a1" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="7904044c-58fb-5878-9002-d065a3e52b00" name="Bone Swords" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">3+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Extra Attack 1</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="3"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="c0521f6d-1571-5789-bb8e-594287877b93" name="Lash Whip and Bone Sword" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="52a51d6e-a384-505b-a965-7a1a72091af2" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="c284e6d9-d604-549d-a014-00d133bd325b" name="Lash Whip and Bone Sword" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
@@ -2857,12 +3061,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="db4544a5-a1f4-59ec-8e8e-c32776356314" name="Melee Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="abe87cfd-323b-589e-b379-2207dcab5e26" field="selections" scope="parent" value="29" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="abe87cfd-323b-589e-b379-2207dcab5e26" field="selections" scope="parent" value="30" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="49b8e953-243f-574a-b3f8-9167a55c85e5" name="Scything Talons" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="989a01e3-a286-5a7d-ae21-28a11b611e23" field="selections" scope="parent" value="29" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="989a01e3-a286-5a7d-ae21-28a11b611e23" field="selections" scope="parent" value="30" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="aaeab90a-7e4f-50ee-8324-1a363a2eb143" name="Scything Talons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -3090,12 +3294,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="099d69ca-cf50-53ea-a859-3acaa7eabc34" name="Ranged Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="261e74ab-601a-5cd9-a006-1b5049371d93" field="selections" scope="parent" value="29" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="261e74ab-601a-5cd9-a006-1b5049371d93" field="selections" scope="parent" value="30" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="13c5bae9-ec00-554f-822e-f408c37b1749" name="Spike Rifle" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="fb865763-139d-5685-ad77-9f9921a32d49" field="selections" scope="parent" value="29" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="fb865763-139d-5685-ad77-9f9921a32d49" field="selections" scope="parent" value="30" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="8fc5fcdd-e61b-59e3-a742-d741da205f8a" name="Spike Rifle" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -3113,7 +3317,7 @@
             </selectionEntry>
             <selectionEntry id="2ecd65a3-bf87-5022-95f6-a49b7c94fd78" name="2 Linked Spine Fists" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="37d0ced3-1ae7-5d74-b74d-e4b100bcd61f" field="selections" scope="parent" value="29" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="37d0ced3-1ae7-5d74-b74d-e4b100bcd61f" field="selections" scope="parent" value="30" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="05dcac0b-b2dd-5c4d-91d1-c66b9c5a19e4" name="2 Linked Spine Fists" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -3131,7 +3335,7 @@
             </selectionEntry>
             <selectionEntry id="b1cf87f7-4cd7-50f2-bb3b-e048596a8688" name="Devourer" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="30d4e09f-9b24-5871-afbd-3c089b2f1e0d" field="selections" scope="parent" value="29" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="30d4e09f-9b24-5871-afbd-3c089b2f1e0d" field="selections" scope="parent" value="30" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="8acc14d9-cbb6-5938-b68c-aa16cd724364" name="Devourer" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -3313,12 +3517,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="2c8bbb78-2d42-5b7e-92f7-0d5197d77c75" name="Auxiliary / Shield / Arm Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="061f5db8-72b8-5d5e-9ee2-40881bc26722" field="selections" scope="parent" value="19" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="061f5db8-72b8-5d5e-9ee2-40881bc26722" field="selections" scope="parent" value="20" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="3669bbcd-4722-5f82-bcc3-d70abd4940db" name="Acid Maw" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="f0700a37-363a-505c-aaf4-49ce9f16daaf" field="selections" scope="parent" value="19" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="f0700a37-363a-505c-aaf4-49ce9f16daaf" field="selections" scope="parent" value="20" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="7f3149e2-b90d-5dc5-b222-e62f48612932" name="Acid Maw" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -3501,12 +3705,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="1763e508-d528-51b3-acc5-17316368724c" name="Pistol / Sidearm Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="105125e6-ad1b-57d5-81f2-84ca24b65be5" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="105125e6-ad1b-57d5-81f2-84ca24b65be5" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="db7e8e2f-b87f-5772-83fd-a53727988c8f" name="Spine Maws" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="c2aff24c-13e3-5ab9-b927-17297c1d6dd4" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="c2aff24c-13e3-5ab9-b927-17297c1d6dd4" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="07359c65-64d1-515e-bace-3faa51981a75" name="Spine Maws" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -5624,12 +5828,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="35d9f84e-266d-58d5-8679-42d2767ecf35" name="Biomorph / Wargear Weapon" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="ac4f9a00-029c-589d-b7ef-50ee79eb70a4" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="ac4f9a00-029c-589d-b7ef-50ee79eb70a4" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="ab0b1a27-600a-5097-83df-8f0665271262" name="Air Burst Bomb" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="7ee8415d-697b-5499-b22f-7dab94e338af" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="7ee8415d-697b-5499-b22f-7dab94e338af" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="a177245d-c56b-5668-91bc-f6b2cbb8f500" name="Air Burst Bomb" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -5723,12 +5927,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="4bcb2b8c-472f-5059-b74c-c767b819836a" name="Melee Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="94d5e304-c370-5e97-b3bc-b4fc187871a3" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="94d5e304-c370-5e97-b3bc-b4fc187871a3" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="7fbec656-d673-5115-9219-e8dea5a0e06f" name="Scything Talons" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="2b9f2042-2303-5632-a476-2b34735e017d" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="2b9f2042-2303-5632-a476-2b34735e017d" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="57c96d72-0663-5731-997f-d4846c9f884c" name="Scything Talons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -5746,7 +5950,7 @@
             </selectionEntry>
             <selectionEntry id="fa2f0c5f-60d6-5958-99a2-4ca3bfc1cebc" name="Bone Swords" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="a847cc1b-9c76-5728-8576-39c935807c34" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="a847cc1b-9c76-5728-8576-39c935807c34" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="54f73ea5-c286-590d-9711-1262515d4647" name="Bone Swords" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -5764,7 +5968,7 @@
             </selectionEntry>
             <selectionEntry id="038e9205-8c5d-520b-a22b-e5d8b015e1fc" name="Lash Whip and Bone Sword" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="db41b00c-3938-52ec-8825-512d8b2e042c" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="db41b00c-3938-52ec-8825-512d8b2e042c" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="044dc411-81a4-507a-8ae6-3dd7ea3d46fb" name="Lash Whip and Bone Sword" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -5784,12 +5988,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="f200d1ae-2be7-5467-b4b9-9e810afae18b" name="Ranged Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="f1be961e-fc93-5a4b-afae-45dde5671306" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="f1be961e-fc93-5a4b-afae-45dde5671306" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="d8a13177-3bd7-5403-be9d-5ef11c487514" name="Devourer" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="04e812b4-8da0-581f-a611-9f85647822cb" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="04e812b4-8da0-581f-a611-9f85647822cb" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="b9fa9db9-8a08-565b-a3c5-2b53dde687a3" name="Devourer" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -5807,7 +6011,7 @@
             </selectionEntry>
             <selectionEntry id="d63e9d4d-c4b6-594d-83ee-e084fbf365be" name="Death Spitter" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="d6cc3f9d-2cf6-5b39-9831-06a1f104e7b0" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="d6cc3f9d-2cf6-5b39-9831-06a1f104e7b0" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="8fe35bdb-634d-5680-a254-ded82f3a3b94" name="Death Spitter" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -5825,7 +6029,7 @@
             </selectionEntry>
             <selectionEntry id="5abce673-46ab-58c8-9947-3713e0224395" name="2 Linked Spine Fists" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="3483920b-5b15-5e52-9bf6-52b312f552cf" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="3483920b-5b15-5e52-9bf6-52b312f552cf" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="5f0f9f29-3455-5639-90f4-62d4aeff8d0b" name="2 Linked Spine Fists" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -5843,7 +6047,7 @@
             </selectionEntry>
             <selectionEntry id="4ded4ab8-e6c0-5b4a-b26f-386be8f41478" name="Venom Cannon" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="4f3030ff-f251-56d5-bfad-2bf78ec4a763" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="4f3030ff-f251-56d5-bfad-2bf78ec4a763" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="2f8b0d86-f17e-5012-94b0-006ab36dc50c" name="Venom Cannon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -5861,7 +6065,7 @@
             </selectionEntry>
             <selectionEntry id="2500815c-0590-5939-aa0b-1c58a9b6a72e" name="Barbed Strangler" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="3c47d9c9-2e43-5918-bd5e-1ff26ea824b1" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="3c47d9c9-2e43-5918-bd5e-1ff26ea824b1" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="63d890d3-5a64-59b5-871c-8477edee91d4" name="Barbed Strangler" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -6026,12 +6230,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="03ccaaa8-e809-50aa-b940-7e5a255e6e8b" name="Melee Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="ed0cf3f5-da27-5bb5-af56-761ec73af836" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="ed0cf3f5-da27-5bb5-af56-761ec73af836" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="eab23786-9d83-5d91-acb4-e54ed6ff60b7" name="Scything Talons" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="a154165a-eda2-5891-b4c1-c5a66da1351f" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="a154165a-eda2-5891-b4c1-c5a66da1351f" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="76d24b1f-9ec3-5276-82bd-cc14208ef9e9" name="Scything Talons" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -6051,12 +6255,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="c58a04bf-277e-5e1a-86f3-0e1144f44158" name="Ranged Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="9fdd6887-7786-5f58-98c3-711460f438e9" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="9fdd6887-7786-5f58-98c3-711460f438e9" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="48352ba3-362a-5c7e-9b6b-9bfc99a44055" name="Devourer" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="fc56cb7c-6c9e-5a62-8d81-bea028439223" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="fc56cb7c-6c9e-5a62-8d81-bea028439223" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="0079a9ff-6da5-5e5d-ad40-1f2a31a484e4" name="Devourer" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -6074,7 +6278,7 @@
             </selectionEntry>
             <selectionEntry id="4fb3626b-8bc0-5f1e-9818-9acf8599e036" name="Death Spitter" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="04011f4c-d913-530b-9bca-67687d9a1caf" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="04011f4c-d913-530b-9bca-67687d9a1caf" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="e0d0dc6f-6339-5d69-a444-ebf0023ed38a" name="Death Spitter" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -6092,7 +6296,7 @@
             </selectionEntry>
             <selectionEntry id="f3b73c0f-0d4f-5f08-a226-5b0176b0e3bb" name="Toxic Glands" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="89fafccc-3dd2-5c9f-81f0-d2ec1b443547" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="89fafccc-3dd2-5c9f-81f0-d2ec1b443547" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="fb48fdca-495d-5a33-9fbe-1b5d76a6e732" name="Toxic Glands" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -6110,7 +6314,7 @@
             </selectionEntry>
             <selectionEntry id="2fd6972a-ed96-5246-a3e8-716ce2ac8f6e" name="2 Linked Spine Fists" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="35a85941-1d44-573f-a446-33cc9eb9dc23" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="35a85941-1d44-573f-a446-33cc9eb9dc23" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="e1be1056-9b3a-5864-975c-8e8fda0c0e8f" name="2 Linked Spine Fists" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -6909,12 +7113,12 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="9c5a6d8c-3be7-5cb2-a89f-855c036a96ac" name="Pistol / Sidearm Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="b1e4bd88-94fd-581a-95be-a6a4051291c3" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="b1e4bd88-94fd-581a-95be-a6a4051291c3" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="1bf0f524-ec8b-5b7a-8737-3f3c599c5dc2" name="Spine Maws" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="58901067-a781-5e84-bf3a-8601ed842e87" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="58901067-a781-5e84-bf3a-8601ed842e87" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="1f6381dc-b466-53e2-8eb5-ec2497739731" name="Spine Maws" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
