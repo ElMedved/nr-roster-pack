@@ -3733,6 +3733,14 @@
             <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Extra Attack 1, Rending</characteristic>
           </characteristics>
         </profile>
+        <profile id="a0874723-95b3-5353-9f97-fec0038df5d3" name="Gauss Scalpel" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">12</characteristic>
+            <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">4</characteristic>
+            <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">5+</characteristic>
+            <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Assault 3, Gauss</characteristic>
+          </characteristics>
+        </profile>
       </profiles>
       <infoLinks>
         <infoLink id="3c35e8a4-f8fa-5ad5-978b-50c6b827aa49" name="Infantry" hidden="false" targetId="1c63b9cc-d5dc-5e00-99f3-357cdc80505b" type="rule"/>
@@ -3762,36 +3770,17 @@
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
-        <selectionEntryGroup id="07efd16b-31ad-5501-828f-13193a98c26c" name="Replace Gauss Scalpel With (Ranged Weapon Option)" hidden="false" collective="false" import="true" defaultSelectionEntryId="84b6c504-5338-51eb-9fdf-6fa45db333d5">
+        <selectionEntryGroup id="07efd16b-31ad-5501-828f-13193a98c26c" name="Ranged Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="225d8ee2-91db-598d-ae60-2397515b1b54" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="360c3076-7aa3-5802-8719-bebc079f3144" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="360c3076-7aa3-5802-8719-bebc079f3144" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="84b6c504-5338-51eb-9fdf-6fa45db333d5" name="Gauss Scalpel" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="c2e198ba-c849-59c6-856b-d4cec8cdfb30" name="Atomizer Beam" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="b258de17-4f27-529d-8b23-e285b81958df" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="fc96828c-4ccc-5aa5-a13b-a5805d53c5bd" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="9f77288b-a20e-531b-9d65-7a82d71551e0" name="Gauss Scalpel" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">12</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">4</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">5+</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Assault 3, Gauss</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="0"/>
-              </costs>
-            </selectionEntry>
-            <selectionEntry id="c45106ed-399e-5f96-9305-1b6197381e99" name="Atomizer Beam" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="8bb7bb6d-940c-563e-8262-5b987e408295" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="e67f886a-4f7f-5b56-99a0-deae3d22b721" name="Atomizer Beam" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="71532622-1abb-59d0-9ce2-f7491c00f5f3" name="Atomizer Beam" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">12</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">6</characteristic>

@@ -813,18 +813,18 @@
         <infoLink id="af53cb6e-c563-5d1b-9442-e52778ef4a39" name="Steady" hidden="false" targetId="67083dab-2fb6-5873-a373-f8432bf199cf" type="rule"/>
       </infoLinks>
       <selectionEntryGroups>
-        <selectionEntryGroup id="e11c4aff-373b-57cc-8cd1-eb4d4e5e9d9e" name="Missile / Melee Option (Replace Slaughter Claw)" hidden="false" collective="false" import="true" defaultSelectionEntryId="f3d7942d-1e0c-598e-8363-555ea7322e6a">
+        <selectionEntryGroup id="3ccf8cca-7dac-597d-8c77-616e1fbcf237" name="Missile / Melee Option 1 (Replace Slaughter Claw)" hidden="false" collective="false" import="true" defaultSelectionEntryId="450e3033-9922-5090-a322-b076a466dd37">
           <constraints>
-            <constraint id="2125ee37-31ab-5af8-9fef-c318314e44b1" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="769044dc-b6c1-5bff-a691-ecb6497d2a18" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="b66115ce-de52-5b4f-ac4d-850b4cb1b66a" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="57cd95db-2d36-5e61-8154-ccfddb708ecf" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="f3d7942d-1e0c-598e-8363-555ea7322e6a" name="Slaughter Claw" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="450e3033-9922-5090-a322-b076a466dd37" name="Slaughter Claw" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="540bb1c7-eba7-5854-9f76-ec1c5bbda7a4" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="3cceb53d-c329-532e-95af-2d7798fe29ec" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="ff7fd702-a8fb-540f-8589-a32ed9b7a10d" name="Slaughter Claw" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="0a1d6f92-6e56-5dec-9eab-2846b5554eeb" name="Slaughter Claw" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
@@ -837,12 +837,56 @@
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="b77dd1a9-cd88-5c61-81c1-0cd48dd2f714" name="Reaper Chain Strike" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="11610504-2b94-5ec8-9e45-e3b9cba90ce3" name="Reaper Chain Strike" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="91d8c374-7345-5b12-8fc3-24e8ff4bd2ed" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="59d248af-fee4-5dd3-8587-faa0d2290b23" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="5cf100f5-d7ca-5263-af7e-f2ad30a69d4e" name="Reaper Chain Strike" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="fc05af89-e88d-595d-be21-598b50d55ad7" name="Reaper Chain Strike" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">+2</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">2+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Primary</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="2"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="6231bc13-6b99-5344-b605-a4fc769428f7" name="Missile / Melee Option 2 (Replace Slaughter Claw)" hidden="false" collective="false" import="true" defaultSelectionEntryId="2fc55b1f-a2dc-59aa-a521-c9745130cbb5">
+          <constraints>
+            <constraint id="336fba03-70d9-51cd-9de0-2996d2a919a2" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+            <constraint id="d451e0e6-c03b-5d81-b475-c078ea1d8b6a" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="2fc55b1f-a2dc-59aa-a521-c9745130cbb5" name="Slaughter Claw" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="ff64a40c-7402-5c4c-b865-801ce88cd57d" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="822eafe0-c0f7-5e96-a466-10710978239b" name="Slaughter Claw" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                  <characteristics>
+                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
+                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
+                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">3+</characteristic>
+                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Extra Attack 1, Reroll failed To Hit rolls, Primary</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <costs>
+                <cost name="pts" typeId="points" value="0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="ed233758-241c-58bb-ab82-0d4805efceab" name="Reaper Chain Strike" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint id="31273774-667b-574c-b870-c062ae9bed4b" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="34cae209-5e0d-5916-9384-a4216b111453" name="Reaper Chain Strike" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">+2</characteristic>

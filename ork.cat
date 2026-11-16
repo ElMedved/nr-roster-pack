@@ -3897,6 +3897,14 @@
             <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Grenade 1, 3” Blast</characteristic>
           </characteristics>
         </profile>
+        <profile id="5bc079b6-5205-5e76-8161-b261f1fe5ad5" name="Choppa" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
+            <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
+            <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">-</characteristic>
+            <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Extra Attack 1</characteristic>
+          </characteristics>
+        </profile>
       </profiles>
       <rules>
         <rule id="981e6749-bcfe-5150-9aca-d6cd0d28a260" name="Repair" hidden="false">
@@ -4024,36 +4032,17 @@
             </selectionEntry>
           </selectionEntries>
         </selectionEntryGroup>
-        <selectionEntryGroup id="b58e2cc4-da57-5b37-b421-674658bdad03" name="Replace Choppa With (Melee Weapon Option)" hidden="false" collective="false" import="true" defaultSelectionEntryId="571bc8f9-57a6-5574-adba-0b12e6372474">
+        <selectionEntryGroup id="b58e2cc4-da57-5b37-b421-674658bdad03" name="Melee Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="0030602e-6e0c-5acc-8b63-f86db0995062" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="f40e9ef1-9ed6-5766-b4ba-518424040202" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="f40e9ef1-9ed6-5766-b4ba-518424040202" field="selections" scope="parent" value="14" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="571bc8f9-57a6-5574-adba-0b12e6372474" name="Choppa" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="9447cfaa-1028-5fec-a1ae-b638d36a2e8d" name="Chainsword" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="21ca8b2e-f188-5ded-ac1c-f0db1569bdff" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="220af5e9-107a-5001-ae87-50389fc4cbd6" field="selections" scope="parent" value="14" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="ee6c73e7-7f16-5fc5-b3b5-4ba7f76a0783" name="Choppa" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">-</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Extra Attack 1</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="0"/>
-              </costs>
-            </selectionEntry>
-            <selectionEntry id="af44c7a4-faf2-5062-982f-e3bba0073ebb" name="Chainsword" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="50a60b54-92a9-500f-ae04-d7687e7dfbc4" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="5841146c-fce2-5317-9b8e-e6e2952a0371" name="Chainsword" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="0a226886-d81f-5de6-8058-5c410d191b68" name="Chainsword" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>

@@ -2364,12 +2364,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="f2bc0dd4-c4f3-5779-9b87-5db16f5b4ccb" name="Special Weapon / System Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="55650a4c-009e-52be-a81a-06dfbce6de1e" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="55650a4c-009e-52be-a81a-06dfbce6de1e" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="c99b9203-3c0d-59c3-aa90-0f41c651506a" name="Arc Rifle" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="2f33265e-31a3-5c96-9bf7-0c7d476d4b2b" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="2f33265e-31a3-5c96-9bf7-0c7d476d4b2b" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="348ebf98-b931-537b-b350-72fe6b24938e" name="Arc Rifle" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -2387,7 +2387,7 @@
             </selectionEntry>
             <selectionEntry id="1093f89c-5731-504c-9ae1-2b9d6fb75f1d" name="Plasma Caliver" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="f3411683-d4c6-5216-9fdb-eb1fba8152cb" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="f3411683-d4c6-5216-9fdb-eb1fba8152cb" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="ae78f9fd-26ce-54e6-93a6-f823134ab6bb" name="Plasma Caliver" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -2405,7 +2405,7 @@
             </selectionEntry>
             <selectionEntry id="6673a422-25a4-518a-b79f-0893de13e3b1" name="Transuranic Arquebus" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="71704603-cbb1-5e8f-840d-089bd6761169" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="71704603-cbb1-5e8f-840d-089bd6761169" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="f1876090-4a54-5d08-ace8-ba93985b142d" name="Transuranic Arquebus" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -2684,12 +2684,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="cdf554cc-6531-5ebf-9410-438101263958" name="Special Weapon / System Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="b28da4bd-a888-5151-bf0f-d3c36b8e415a" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="b28da4bd-a888-5151-bf0f-d3c36b8e415a" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="0ffbcb92-c410-5645-b3e5-81da0a43bc0b" name="Arc Rifle" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="a5247cce-6bf7-5ef1-acef-a505923c9275" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="a5247cce-6bf7-5ef1-acef-a505923c9275" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="6c1ab31e-969e-5e7b-aa92-3726a3a53920" name="Arc Rifle" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -2707,7 +2707,7 @@
             </selectionEntry>
             <selectionEntry id="dbb7bbd5-3db2-5433-9be4-4ed2efc9d36b" name="Plasma Caliver" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="58a0b436-379c-5fcf-8bcf-e6fb4afc6b02" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="58a0b436-379c-5fcf-8bcf-e6fb4afc6b02" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="7855eb62-fbcc-5b29-b484-40f51c97555d" name="Plasma Caliver" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -2725,7 +2725,7 @@
             </selectionEntry>
             <selectionEntry id="12cea64e-dcd6-55ec-8c95-7b8b73058a85" name="Transuranic Arquebus" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="2098356e-1a85-56b5-b93f-99332f42b83f" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="2098356e-1a85-56b5-b93f-99332f42b83f" field="selections" scope="parent" value="3" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="cba4276c-2977-5924-b4ec-b23ca3d0c97f" name="Transuranic Arquebus" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">

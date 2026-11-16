@@ -1156,12 +1156,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="4e6bb2fa-db2e-5d05-b39b-4561d9048d92" name="Ranged Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="d6f0e986-3fee-574e-a4f2-80d67688553b" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="d6f0e986-3fee-574e-a4f2-80d67688553b" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="622e9de4-8914-59cc-9275-780d5c8c5c76" name="2 Linked Slimer Maggot Death Spitters" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="644f0cae-5d33-5139-b782-226048af898a" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="644f0cae-5d33-5139-b782-226048af898a" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="ae4c3c67-673c-5e8a-884f-ca78cc8ef442" name="2 Linked Slimer Maggot Death Spitters" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -1179,7 +1179,7 @@
             </selectionEntry>
             <selectionEntry id="53618aea-b587-560d-9c0b-da07b66b3f2b" name="2 Linked Devourers" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="8ee12645-eb2a-511c-9c8e-19cf7240d764" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="8ee12645-eb2a-511c-9c8e-19cf7240d764" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="82b219f2-8f41-55dd-ad4e-3967cecea1f7" name="2 Linked Devourers" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -1197,7 +1197,7 @@
             </selectionEntry>
             <selectionEntry id="b7de92b7-a1f8-50d1-8100-155b7d27ed0e" name="Heavy Venom Cannon" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="c978e54f-369c-5ce9-b6a1-d986c85e535d" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="c978e54f-369c-5ce9-b6a1-d986c85e535d" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="3e8db698-6f73-537e-9819-3ebadafdd06d" name="Heavy Venom Cannon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
@@ -1215,7 +1215,7 @@
             </selectionEntry>
             <selectionEntry id="f1b46cb0-f1e8-56e1-b183-7d2121638635" name="Stranglethorn Cannon" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="7e7d027e-ca28-561e-ae02-b2bfd2f4d093" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="7e7d027e-ca28-561e-ae02-b2bfd2f4d093" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="0798ef92-d24f-52d5-be96-24adc9bf6491" name="Stranglethorn Cannon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">

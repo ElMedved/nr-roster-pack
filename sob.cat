@@ -3422,12 +3422,12 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="1f5b2945-d7e2-5358-9b4f-4595073147ef" name="Special Weapon / System Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="563e23c6-ebf8-541d-b6c9-a3558f1c55a7" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="563e23c6-ebf8-541d-b6c9-a3558f1c55a7" field="selections" scope="parent" value="19" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
             <selectionEntry id="3c0eb54a-0779-585d-a6de-a8767bdd5558" name="Flamer" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="91e6c397-4cc4-5688-b2b1-b2ae93088b67" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="91e6c397-4cc4-5688-b2b1-b2ae93088b67" field="selections" scope="parent" value="19" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
                 <profile id="1ca0a54c-08b3-5047-a187-ccbb88f0b2d1" name="Flamer" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">

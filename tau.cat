@@ -1580,98 +1580,6 @@
         <infoLink id="c586eb39-7d40-5d69-bcaa-8a09b86e0f62" name="Infiltrate" hidden="false" targetId="6327438f-d952-57a1-b8d0-6a2f331b327e" type="rule"/>
         <infoLink id="6d531560-5647-50aa-8ca7-eb68b4dbfa9f" name="Stealth" hidden="false" targetId="5df6e2fa-4b15-5dbe-9e72-61b18aa679b2" type="rule"/>
       </infoLinks>
-      <selectionEntries>
-        <selectionEntry id="c8eaa0c2-397e-5402-80b7-bde80929c4ce" name="Drone (10 pts)" hidden="false" collective="false" import="true" type="model">
-          <constraints>
-            <constraint id="6da28cec-c827-526f-b3db-605be4a2dba5" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-          </constraints>
-          <selectionEntryGroups>
-            <selectionEntryGroup id="dc682939-212f-57ce-b0a3-8edee6d21b1f" name="Drone Loadout (Replace Marker Light)" hidden="false" collective="false" import="true" defaultSelectionEntryId="de2cba12-c3ee-5a29-826f-53ee7de3f76b">
-              <constraints>
-                <constraint id="9a3e4b3b-b438-5888-a902-31e296e56b00" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-                <constraint id="c047f701-03f7-5719-9e99-1729e07a3469" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <selectionEntries>
-                <selectionEntry id="de2cba12-c3ee-5a29-826f-53ee7de3f76b" name="Marker Light" hidden="false" collective="false" import="true" type="upgrade">
-                  <constraints>
-                    <constraint id="2121ea6a-96ec-5118-8ee1-01942874a2ef" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-                  </constraints>
-                  <profiles>
-                    <profile id="b2057b31-a88c-5fa6-9a6d-b6f5e1e695df" name="Marker Light" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                      <characteristics>
-                        <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">36</characteristic>
-                        <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">-</characteristic>
-                        <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">-</characteristic>
-                        <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Assault 1, Marker Light</characteristic>
-                      </characteristics>
-                    </profile>
-                  </profiles>
-                  <costs>
-                    <cost name="pts" typeId="points" value="0"/>
-                  </costs>
-                </selectionEntry>
-                <selectionEntry id="7e60c2ec-62e1-5f9a-82d7-5002c37739f9" name="2 Linked Pulse Carbines" hidden="false" collective="false" import="true" type="upgrade">
-                  <constraints>
-                    <constraint id="d21ba8ff-85fd-5199-a595-8b89a186a827" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-                  </constraints>
-                  <profiles>
-                    <profile id="c468b09c-7311-528b-8b70-fbf7e109b6dd" name="2 Linked Pulse Carbines" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                      <characteristics>
-                        <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">18</characteristic>
-                        <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">5</characteristic>
-                        <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">5+</characteristic>
-                        <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Assault 2 x2</characteristic>
-                      </characteristics>
-                    </profile>
-                  </profiles>
-                  <costs>
-                    <cost name="pts" typeId="points" value="1"/>
-                  </costs>
-                </selectionEntry>
-                <selectionEntry id="d9bbdad2-ae46-575e-a4c2-caa0fb2be56b" name="Smart Missile Pod" hidden="false" collective="false" import="true" type="upgrade">
-                  <constraints>
-                    <constraint id="64ee9c29-7df8-5630-a8dd-be2a171116b3" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-                  </constraints>
-                  <profiles>
-                    <profile id="d8077237-ca40-5239-a6cc-76c871c174a3" name="Smart Missile Pod" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                      <characteristics>
-                        <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">30</characteristic>
-                        <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">5</characteristic>
-                        <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">5+</characteristic>
-                        <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Assault 2, Ignores Cover</characteristic>
-                      </characteristics>
-                    </profile>
-                  </profiles>
-                  <costs>
-                    <cost name="pts" typeId="points" value="3"/>
-                  </costs>
-                </selectionEntry>
-                <selectionEntry id="f55d2116-84ca-506c-bcf7-5448713c619e" name="Missile Pod" hidden="false" collective="false" import="true" type="upgrade">
-                  <constraints>
-                    <constraint id="81d1d806-e52f-59b4-8fbf-6f30ea50473c" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-                  </constraints>
-                  <profiles>
-                    <profile id="da993e18-2b55-5505-8a30-cfe607598c0d" name="Missile Pod" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                      <characteristics>
-                        <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">36</characteristic>
-                        <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">7</characteristic>
-                        <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">4+</characteristic>
-                        <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Assault 2, Monsterbane</characteristic>
-                      </characteristics>
-                    </profile>
-                  </profiles>
-                  <costs>
-                    <cost name="pts" typeId="points" value="4"/>
-                  </costs>
-                </selectionEntry>
-              </selectionEntries>
-            </selectionEntryGroup>
-          </selectionEntryGroups>
-          <costs>
-            <cost name="pts" typeId="points" value="10"/>
-          </costs>
-        </selectionEntry>
-      </selectionEntries>
       <selectionEntryGroups>
         <selectionEntryGroup id="c9ddc11a-305e-566b-9d2b-0621d20e504a" name="Special Weapon / System Option" hidden="false" collective="false" import="true">
           <constraints>
@@ -1788,9 +1696,8 @@
             </selectionEntry>
           </selectionEntries>
         </selectionEntryGroup>
-        <selectionEntryGroup id="e002aaa2-909f-5b29-8c7f-c91eefcf149c" name="Replace Equalizers With (Melee Weapon Option)" hidden="false" collective="false" import="true" defaultSelectionEntryId="cd8b9d6a-0c98-5334-a3ee-699164ce1143">
+        <selectionEntryGroup id="e002aaa2-909f-5b29-8c7f-c91eefcf149c" name="Melee Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="2e78f8ae-da22-52c4-b1b3-35553306c73f" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
             <constraint id="ae9a0ac8-55fb-57f8-8b9d-0847d49c95e2" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
@@ -1810,111 +1717,6 @@
               </profiles>
               <costs>
                 <cost name="pts" typeId="points" value="0"/>
-              </costs>
-            </selectionEntry>
-            <selectionEntry id="cd8b9d6a-0c98-5334-a3ee-699164ce1143" name="Equalizers" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="8fd43882-aa46-54bd-8af4-9fa96cd8ea94" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="99b8d7ad-3409-5ade-a120-c1b20d58067d" name="Equalizers" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">4+</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Extra Attack 1</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="0"/>
-              </costs>
-            </selectionEntry>
-            <selectionEntry id="9bcc1c41-5025-525e-aebe-3fac19825cdd" name="Honour Stave" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="3be75387-cde5-53bd-b5b0-af54030956c8" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="89e041ab-215c-5242-92f8-687717614a0b" name="Honour Stave" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">+2</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">-</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">None</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="0"/>
-              </costs>
-            </selectionEntry>
-          </selectionEntries>
-        </selectionEntryGroup>
-        <selectionEntryGroup id="17676c6c-062b-5931-a1d6-5dd0e132d4ef" name="Replace Smart Missile System With (Turret / Torso Weapon Option)" hidden="false" collective="false" import="true" defaultSelectionEntryId="cf856812-e350-5210-a8c5-d18982008813">
-          <constraints>
-            <constraint id="df22a487-cd0a-5201-83e7-30e7792947e2" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="253f0c37-6f16-5096-b585-e609bbafe27e" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-          </constraints>
-          <selectionEntries>
-            <selectionEntry id="cf856812-e350-5210-a8c5-d18982008813" name="Smart Missile System" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="a29dd8ad-71d5-59a9-b115-8022b670c793" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="4f31fd11-f102-5da4-b44b-81a7f9cb45fa" name="Smart Missile System" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">30</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">5</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">5+</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Assault 2, Ignores Cover</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="0"/>
-              </costs>
-            </selectionEntry>
-            <selectionEntry id="bbc8730d-5211-59ba-97b5-6316a7f78758" name="Missile Pod" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="053c56af-4eba-504f-b1ba-fbaca79c2895" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="317ee7ba-02a6-510c-a18b-9c6de8369084" name="Missile Pod" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">36</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">7</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">4+</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Assault 2, Monsterbane</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="1"/>
-              </costs>
-            </selectionEntry>
-          </selectionEntries>
-        </selectionEntryGroup>
-        <selectionEntryGroup id="d4f1f799-4538-5bd2-ae86-9355b79102a6" name="Grenades / Bombs" hidden="false" collective="false" import="true">
-          <constraints>
-            <constraint id="c33ddbfe-e4f2-5f05-9625-b99739259b3e" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-          </constraints>
-          <selectionEntries>
-            <selectionEntry id="7b49d146-e7dd-5aa0-8907-a0779b1e980a" name="EMP Grenades" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="373c21f9-69b7-59e4-ade9-0299e275563b" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="7ea9c4a8-4df4-5440-8427-8e0a9aac2ad0" name="EMP Grenades" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">8</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">3</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">3+</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Grenade 1, Haywire (3+), Nonblast</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="2"/>
               </costs>
             </selectionEntry>
           </selectionEntries>
@@ -2674,50 +2476,6 @@
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
-        <selectionEntryGroup id="dedcd73e-05fa-58bb-9968-34c3db104f74" name="Turret / Support Weapon (Replace Smart Missile System)" hidden="false" collective="false" import="true" defaultSelectionEntryId="77b8210b-6e98-5efb-8522-a4ac6785796e">
-          <constraints>
-            <constraint id="07dc9884-db42-5e35-a788-db1569036c43" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="b9c74e6b-f076-50e5-b8e1-839922f745af" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-          </constraints>
-          <selectionEntries>
-            <selectionEntry id="77b8210b-6e98-5efb-8522-a4ac6785796e" name="Smart Missile System" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="b52474d8-ad88-5272-af3a-79c3d3548c48" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="cfcb5b0e-131d-5ffb-928f-2b5b5d9ba430" name="Smart Missile System" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">30</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">5</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">5+</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Assault 2, Ignores Cover</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="0"/>
-              </costs>
-            </selectionEntry>
-            <selectionEntry id="6c8dcc7f-e9d1-5962-9d2f-ed5de52f4b4c" name="Missile Pod" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="25b36229-0b4c-5676-a8b8-1f51295306d8" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="106ebddf-d7ff-5bcd-add4-a4f06316918a" name="Missile Pod" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">36</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">7</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">4+</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Assault 2, Monsterbane</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="1"/>
-              </costs>
-            </selectionEntry>
-          </selectionEntries>
-        </selectionEntryGroup>
         <selectionEntryGroup id="c6ce9055-7cd5-5ed7-8393-e9c2a9cc035e" name="Dedicated Transport (Optional)" hidden="false" collective="false" import="true">
           <constraints>
             <constraint id="414c12d2-b4dc-51e5-ba0b-3280f5e7832f" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
@@ -2941,50 +2699,6 @@
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
-        <selectionEntryGroup id="d57a636c-f4ee-5a3c-a334-dd6d0dbe60ea" name="Turret / Support Weapon (Replace Smart Missile System)" hidden="false" collective="false" import="true" defaultSelectionEntryId="ec80c124-b0bf-588d-8682-51a41d5e6739">
-          <constraints>
-            <constraint id="d183953f-30ae-5760-8e49-c8b2cdf2250d" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="7a5b5952-9915-5447-ae32-da867d077aab" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-          </constraints>
-          <selectionEntries>
-            <selectionEntry id="ec80c124-b0bf-588d-8682-51a41d5e6739" name="Smart Missile System" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="23464b41-f4cb-5982-a971-d6ed14a9b859" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="04ded4ba-232f-5905-8737-83e845008fe9" name="Smart Missile System" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">30</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">5</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">5+</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Assault 2, Ignores Cover</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="0"/>
-              </costs>
-            </selectionEntry>
-            <selectionEntry id="e505195d-de54-579c-87d7-611c98161408" name="Missile Pod" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="eec371e5-d6c7-5238-ac03-80fd65bb2739" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="1edabd5e-7eeb-555f-af4b-4f290b1ddb31" name="Missile Pod" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">36</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">7</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">4+</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Assault 2, Monsterbane</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="1"/>
-              </costs>
-            </selectionEntry>
-          </selectionEntries>
-        </selectionEntryGroup>
         <selectionEntryGroup id="9de3e826-7f09-5a62-aa80-bc3c4e3532ad" name="Dedicated Transport (Optional)" hidden="false" collective="false" import="true">
           <constraints>
             <constraint id="c21a2270-f039-5da6-8f4f-4c2b94245a05" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
@@ -3202,50 +2916,6 @@
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
-        <selectionEntryGroup id="26efb695-40f8-50f1-b07c-4abd7453ddb3" name="Turret / Support Weapon (Replace Smart Missile System)" hidden="false" collective="false" import="true" defaultSelectionEntryId="5ce93dd8-0c48-5631-85b2-9684db18d616">
-          <constraints>
-            <constraint id="f3242dc1-1fa6-57e7-b033-8a449760a35c" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="d215f221-18f4-5e76-970d-24972ad7ee38" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-          </constraints>
-          <selectionEntries>
-            <selectionEntry id="5ce93dd8-0c48-5631-85b2-9684db18d616" name="Smart Missile System" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="43f5b860-987e-5058-b615-51e198c0b46f" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="fcb410fa-b88a-55c9-8b43-31411a8d168e" name="Smart Missile System" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">30</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">5</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">5+</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Assault 2, Ignores Cover</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="0"/>
-              </costs>
-            </selectionEntry>
-            <selectionEntry id="bd69ef03-9055-5054-8aa9-45ef2a4c4da4" name="Missile Pod" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="6448e1ac-2446-5f94-8d65-96f4ba0331f3" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="9e70ab12-8d47-505b-9f94-ef60beead100" name="Missile Pod" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">36</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">7</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">4+</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Assault 2, Monsterbane</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="1"/>
-              </costs>
-            </selectionEntry>
-          </selectionEntries>
-        </selectionEntryGroup>
         <selectionEntryGroup id="836390a6-6140-56fb-984b-d6b2a7964260" name="Dedicated Transport (Optional)" hidden="false" collective="false" import="true">
           <constraints>
             <constraint id="47ccdedb-f468-5dd3-8e76-084e8d239347" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
@@ -4440,31 +4110,6 @@
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
-        <selectionEntryGroup id="80e9d37f-abfe-5f0b-8471-a1faeddc1929" name="Grenade Upgrade" hidden="false" collective="false" import="true">
-          <constraints>
-            <constraint id="3614e75b-195e-5fd8-b839-4e28fa4f0df5" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-          </constraints>
-          <selectionEntries>
-            <selectionEntry id="2ce153f2-5ca8-55c9-aceb-71e1b0b39060" name="EMP Grenades" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="408f266f-5d82-5966-b338-d46cb960499d" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="a2c3a481-fe83-5c0d-ae08-ced7abe2033a" name="EMP Grenades" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">8</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">3</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">3+</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Grenade 1, Haywire (3+), Nonblast</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="2"/>
-              </costs>
-            </selectionEntry>
-          </selectionEntries>
-        </selectionEntryGroup>
         <selectionEntryGroup id="53b018dc-9312-5317-b5fd-fa5509cb8803" name="Dedicated Transport (Optional)" hidden="false" collective="false" import="true">
           <constraints>
             <constraint id="5a97d1f9-a25d-5d04-a71f-985b11c33aac" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
@@ -12260,31 +11905,6 @@
               </profiles>
               <costs>
                 <cost name="pts" typeId="points" value="5"/>
-              </costs>
-            </selectionEntry>
-          </selectionEntries>
-        </selectionEntryGroup>
-        <selectionEntryGroup id="2f8256d6-ff38-58f0-8598-7562f4f7e8df" name="Turret / Support Weapon" hidden="false" collective="false" import="true">
-          <constraints>
-            <constraint id="4ee65fc0-521c-569f-8f73-61207f5db3ab" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-          </constraints>
-          <selectionEntries>
-            <selectionEntry id="eaef4334-643f-503c-8332-210c707b6269" name="Missile Pod" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="11f3fa89-180c-5e96-962e-00e29141e543" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="90f44879-15c7-5a7c-96e6-d88863bff555" name="Missile Pod" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">36</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">7</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">4+</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Assault 2, Monsterbane</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="1"/>
               </costs>
             </selectionEntry>
           </selectionEntries>

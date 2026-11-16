@@ -9839,6 +9839,68 @@
                 </selectionEntry>
               </selectionEntries>
             </selectionEntryGroup>
+            <selectionEntryGroup id="d92751ad-54c9-5966-ae8e-937905d9d6ca" name="Replace Combat Knife With (Melee Weapon Option)" hidden="false" collective="false" import="true" defaultSelectionEntryId="1ebc11d2-4af7-5553-a61a-131773e4f589">
+              <constraints>
+                <constraint id="9aeeaa0c-b574-50d2-8474-a5938e93d4c4" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
+                <constraint id="6420018e-5ffd-523e-beb2-70625840cceb" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="1ebc11d2-4af7-5553-a61a-131773e4f589" name="Combat Knife" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="b821f779-ff38-5ee4-844c-98e4afd74289" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="0a014c40-91c9-585f-894e-096d9158394d" name="Combat Knife" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                      <characteristics>
+                        <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
+                        <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
+                        <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">-</characteristic>
+                        <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Extra Attack 1</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                  <costs>
+                    <cost name="pts" typeId="points" value="0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="f0f2fe38-5a45-543b-84c1-c9eacdeba736" name="Power Fist" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="d48d5dba-904e-5845-a898-fef5bd2d7482" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="9c80a942-7385-5e99-827e-e40dbebec845" name="Power Fist" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                      <characteristics>
+                        <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
+                        <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">X2</characteristic>
+                        <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">2+</characteristic>
+                        <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Slow, Monsterbane</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                  <costs>
+                    <cost name="pts" typeId="points" value="10"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="0cc85854-a701-5292-bc68-d4e8cc5d32c7" name="Thunderhammer" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="fbf3427a-a15e-528a-83e5-d478f67c112c" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="deb90cee-6d04-5d4b-b8da-a6fbb4383cb5" name="Thunderhammer" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                      <characteristics>
+                        <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
+                        <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">10</characteristic>
+                        <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">1+</characteristic>
+                        <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Slow, Monsterbane</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                  <costs>
+                    <cost name="pts" typeId="points" value="18"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
             <selectionEntryGroup id="264b6eae-f658-5eea-b92c-dc200da68fbb" name="Replace Krak Grenades With (Grenades / Bombs)" hidden="false" collective="false" import="true" defaultSelectionEntryId="0baac02d-bdc1-5df6-af37-7fb3e26c1168">
               <constraints>
                 <constraint id="f64af7c5-a978-5314-be5a-b9234d0d895c" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
@@ -9925,68 +9987,6 @@
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
-        <selectionEntryGroup id="ce300490-9bc6-50bf-ba85-afe598b56fae" name="Replace Combat Knife With (Melee Weapon Option)" hidden="false" collective="false" import="true" defaultSelectionEntryId="19e402e1-9305-587e-a09d-78419cd9bb4d">
-          <constraints>
-            <constraint id="51765bd0-6c0d-5adb-ba0f-c62d479b2f26" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="65d9116c-fe03-55d1-9fd1-f82d3ce4357c" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-          </constraints>
-          <selectionEntries>
-            <selectionEntry id="19e402e1-9305-587e-a09d-78419cd9bb4d" name="Combat Knife" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="948c6fcf-5344-564b-9488-3f4a717a91e1" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="079a6072-c301-5f1f-8945-d96fdc6ea822" name="Combat Knife" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">-</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Extra Attack 1</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="0"/>
-              </costs>
-            </selectionEntry>
-            <selectionEntry id="710df6b9-6c20-5940-a6c9-026065c877f5" name="Power Fist" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="c1ea80b3-5f4c-5ea8-baac-392330649781" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="b63391a2-f863-5377-abac-e9da43247832" name="Power Fist" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">X2</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">2+</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Slow, Monsterbane</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="10"/>
-              </costs>
-            </selectionEntry>
-            <selectionEntry id="bc3f2c39-66b5-57a1-8562-bd4b2622623d" name="Thunderhammer" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="5eb48a64-01e5-5fd7-8a9d-9ea40b5b4c67" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="89b48954-09fc-5428-bfc7-8708d636c812" name="Thunderhammer" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">10</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">1+</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Slow, Monsterbane</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="18"/>
-              </costs>
-            </selectionEntry>
-          </selectionEntries>
-        </selectionEntryGroup>
         <selectionEntryGroup id="69f0ee95-2f18-5aff-83f4-04572cb3f478" name="Vehicle / Squad Equipment" hidden="false" collective="false" import="true">
           <selectionEntries>
             <selectionEntry id="8e205a5f-e7a6-566b-bc73-9e8d40d86a9a" name="Helix Gauntlet (+2 pts/model)" hidden="false" collective="false" import="true" type="upgrade">

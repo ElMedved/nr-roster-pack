@@ -9284,6 +9284,14 @@
             <characteristic name="Description" typeId="83d81002-a330-5968-9552-22dcb2ed8516">1 Bone’ead 2-10 Ogryn</characteristic>
           </characteristics>
         </profile>
+        <profile id="5fc25f02-27fe-5c1e-9e66-ca63522bd26c" name="Brutal Weapon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
+            <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
+            <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">-</characteristic>
+            <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Extra Attack 1</characteristic>
+          </characteristics>
+        </profile>
       </profiles>
       <infoLinks>
         <infoLink id="5cdfce03-1540-5412-8673-06ecf7ae4985" name="Character" hidden="false" targetId="7b8f8d5b-7400-5ecf-aa3b-85454ff25e7d" type="rule"/>
@@ -9312,36 +9320,17 @@
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
-        <selectionEntryGroup id="768bf3fc-3960-5e28-bc76-1640ebb82386" name="Replace Brutal Weapon With (Melee Weapon Option)" hidden="false" collective="false" import="true" defaultSelectionEntryId="605290d7-b5b5-5775-8029-19a00689d866">
+        <selectionEntryGroup id="768bf3fc-3960-5e28-bc76-1640ebb82386" name="Melee Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="e4b2b922-1a2b-5e11-b37c-8f1ea045587d" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="fa0ce65c-a506-5a3b-ab4f-263adffb9388" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="fa0ce65c-a506-5a3b-ab4f-263adffb9388" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="605290d7-b5b5-5775-8029-19a00689d866" name="Brutal Weapon" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="637fdc8b-29e6-5c99-9cec-837bdc0b8312" name="Shock Maul" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="329a5750-9c97-5742-b9ac-126c81efdeda" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="24a0df06-0e5f-5e18-80ed-e58054c72fc4" field="selections" scope="parent" value="10" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="c2ce0262-6b73-558d-9e46-18b925fee594" name="Brutal Weapon" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">User</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">-</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Extra Attack 1</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="0"/>
-              </costs>
-            </selectionEntry>
-            <selectionEntry id="7eb3c5ff-6a7f-5dfa-8544-5c4ac98de118" name="Shock Maul" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="b8e621d6-a91f-5eca-ad79-fae3e0ace635" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="beeb62e0-5b53-5b87-aae5-3a31236ba2a6" name="Shock Maul" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="2a4bbc4a-9a5e-5767-b71e-50d15742802e" name="Shock Maul" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">+2</characteristic>
@@ -10383,6 +10372,14 @@
             <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Grenade 1, 3” Blast</characteristic>
           </characteristics>
         </profile>
+        <profile id="6adde753-4f39-553e-95c3-61b52f0c8d97" name="Infantry Lance" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Flame</characteristic>
+            <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">3</characteristic>
+            <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">-</characteristic>
+            <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Assault 1</characteristic>
+          </characteristics>
+        </profile>
       </profiles>
       <infoLinks>
         <infoLink id="9d90d2e0-f4aa-5674-a034-58677aaf529e" name="Character" hidden="false" targetId="7b8f8d5b-7400-5ecf-aa3b-85454ff25e7d" type="rule"/>
@@ -10614,36 +10611,17 @@
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
-        <selectionEntryGroup id="aa470dda-c4aa-59a4-8e21-8fe256a37bb1" name="Replace Infantry Lance With (Melee Weapon Option)" hidden="false" collective="false" import="true" defaultSelectionEntryId="ab0bf396-8c79-517f-b71d-6c19a623b142">
+        <selectionEntryGroup id="aa470dda-c4aa-59a4-8e21-8fe256a37bb1" name="Melee Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="c366e0a2-580c-5ac1-990d-745de33909aa" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="3988b30b-76ed-5e63-9921-cf457b4d332c" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="3988b30b-76ed-5e63-9921-cf457b4d332c" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="ab0bf396-8c79-517f-b71d-6c19a623b142" name="Infantry Lance" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="7aa2bdae-f25c-5927-9ae7-35b506479d51" name="Hunting Lance" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="698c4824-b5dc-578b-ae6d-0f342e71b482" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="5dc480c8-1f8f-56d7-a50a-ca1a401bb457" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="a76d2148-6060-5376-8141-6a84982e1e14" name="Infantry Lance" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Flame</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">3</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">-</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Assault 1</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="0"/>
-              </costs>
-            </selectionEntry>
-            <selectionEntry id="0cbee789-d59a-5c9f-b966-4d0010734828" name="Hunting Lance" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="1c370b19-ec83-5e5b-b54b-b546a50fcadd" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="d7f60617-e59a-52f0-a06d-d3279e84e125" name="Hunting Lance" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="91949bc4-cdc0-5362-9ec2-c0652637b939" name="Hunting Lance" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">Melee</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">6</characteristic>
@@ -23997,6 +23975,14 @@
             <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Heavy 1, 5” Blast, Ordnance, Monsterbane, One User Only, Deadly Payload</characteristic>
           </characteristics>
         </profile>
+        <profile id="3eaba1b3-b119-5a5e-b7aa-63bb921626de" name="Autogun" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">24</characteristic>
+            <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">3</characteristic>
+            <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">-</characteristic>
+            <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Rapid Fire 1</characteristic>
+          </characteristics>
+        </profile>
       </profiles>
       <rules>
         <rule id="68dda7c3-9f9d-571e-8275-d631196ace15" name="Deadly Payload" hidden="false">
@@ -24047,36 +24033,17 @@
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
-        <selectionEntryGroup id="1539c1a1-46fd-551b-a28d-73458a7c9129" name="Replace Autogun With (Ranged Weapon Option)" hidden="false" collective="false" import="true" defaultSelectionEntryId="6101850d-c098-5efe-bcc2-c439cbccf234">
+        <selectionEntryGroup id="1539c1a1-46fd-551b-a28d-73458a7c9129" name="Ranged Weapon Option" hidden="false" collective="false" import="true">
           <constraints>
-            <constraint id="e937bbe9-6edd-5021-9a15-6eec3f1e494c" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="min"/>
-            <constraint id="773a7057-f211-5374-bdf7-682cda076da6" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+            <constraint id="773a7057-f211-5374-bdf7-682cda076da6" field="selections" scope="parent" value="11" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="6101850d-c098-5efe-bcc2-c439cbccf234" name="Autogun" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="d3c7aa53-7c62-5011-bc92-aab46f507cd5" name="Lasgun" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
-                <constraint id="38be72df-1cf7-543e-9f4c-d262acce2005" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
+                <constraint id="24838618-62e5-560a-b2c0-46f8ec602137" field="selections" scope="parent" value="11" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
               </constraints>
               <profiles>
-                <profile id="f98e9cb1-9553-58b4-a8e6-122b0e9220bf" name="Autogun" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">24</characteristic>
-                    <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">3</characteristic>
-                    <characteristic name="AP" typeId="37819752-fbc6-5464-ad45-17490825eae1">-</characteristic>
-                    <characteristic name="Rules" typeId="989bc79d-9e4b-528b-b966-eff3ce994cc7">Rapid Fire 1</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="pts" typeId="points" value="0"/>
-              </costs>
-            </selectionEntry>
-            <selectionEntry id="9341e268-0db1-56c6-88cb-b4c5e1bf10b3" name="Lasgun" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint id="f098bd8a-7c19-5d59-b304-8a4b6bae0375" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" type="max"/>
-              </constraints>
-              <profiles>
-                <profile id="40194540-0379-522b-a2be-b1bcf225d3a2" name="Lasgun" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
+                <profile id="3401872d-da04-52ce-a5c8-8985ea32d4bd" name="Lasgun" hidden="false" typeId="0b840343-a9ff-5f16-b0df-b617cac2c0fa" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9c7850b8-81dd-53f9-80e1-1a39147745dd">24</characteristic>
                     <characteristic name="S" typeId="1ec1daae-c783-53b1-87a9-2dc4176bdfea">3</characteristic>
